@@ -1,0 +1,567 @@
+﻿ticket_id,documento,nombre_cliente,email_contacto,fecha_ticket,tipo,satisfaccion
+T00001,35699736,Julieta Molina, julieta.molina.58@outlook.com ,2025-02-12,Cambio,4
+T00002, 23535325 ,Laura Ramirez,laura.ramirez.12@gmail.com,13/04/2026,Consulta,1
+T00003,23535325,Laura Ramirez,laura.ramirez.12@gmail.com,2026-02-07,Entrega,2
+T00004,44-232-252,Sebastian Medina, sebastian.medina.32@outlook.com ,2025-08-02,Cambio,N/A
+T00005,,Sebastian Medina, sebastian.medina.32@outlook.com ,07-07-25,Consulta,2
+T00006,22264345,ROCIO MEDINA,rocio.medina.77@empresa.com.ar,19-01-26,Cambio,3
+T00007,23-159-543,Tomas Castro, tomas.castro.62@outlook.com ,05/01/2025,Consulta,3
+T00008,23-159-543,Tomás Castro,tomascastro62@outlook.com,26/04/2025,Entrega,4
+T00009,23.159.543,Tomas Castro, tomas.castro.62@outlook.com ,2026-08-09,Consulta,2
+T00010, 34917667 ,Agustina Sanchez,,09-12-25,Consulta,N/A
+T00011,34.917.667,AGUSTINA SANCHEZ,agustinasanchez5@outlook.com,24-11-25,Garantia,
+T00012,34.917.667,AGUSTINA SANCHEZ,agustina.sanchez.5@outlook.com,2026-04-08,Consulta,3
+T00013,29-814-938,Sebastian Benitez,SEBASTIAN.BENITEZ.52@GMAIL.COM,2025-05-12,Entrega,3
+T00014,29-814-938,Sebastian Benitez,sebastian.benitez.52@gmail.com,17-07-26,Garantia,3
+T00015,30.387.900,Pablo Paula Flores,pablo.paula.flores.85@hotmail.com,05/08/2025,Consulta,3
+T00016,30387900,PABLO PAULA FLORES,pablo.paula.flores.85@hotmail.com,27-05-26,Entrega,2
+T00017,30-387-900,PABLO PAULA FLORES,pablo.paula.flores.85@hotmail.com,2025-11-20,Facturacion,2
+T00018, 34606750 ,Gonzalo Díaz,gonzalo.diaz.79@hotmail.com,01/05/2026,Entrega,1
+T00019,34.606.750,Gonzalo Diaz,gonzalo.diaz.79@hotmail.com,25-05-25,Garantia,4
+T00020,27.095.289,Martín Silva,florencia.sanchez.8@hotmail.com,24-07-25,Consulta,4
+T00021, 27095289 ,Martín Silva,florencia.sanchez.8@hotmail.com,2025-02-02,Consulta,N/A
+T00022,,Martin Silva,florencia.sanchez.8@hotmail.com,2025-12-22,Cambio,
+T00023,34-821-599,Julieta López,julieta.lopez.37@gmail.com,2026-06-26,Consulta,5
+T00024, 23357600 ,Franco Diaz,FRANCO.DIAZ.3@OUTLOOK.COM,22/01/2025,Entrega,3
+T00025,23357600,Franco Diaz,franco.diaz.3@outlook.com,2026-03-03,Entrega,
+T00026,23.357.600,FRANCO DIAZ,FRANCO.DIAZ.3@OUTLOOK.COM,2026-06-11,Cambio,
+T00027,47-643-167,Leandro Diaz,LEANDRO.DIAZ.56@HOTMAIL.COM,26-10-25,Entrega,5
+T00028, 31475372 ,NICOLAS MOLINA,nicolas.molina.27@empresa.com.ar,21-01-25,Entrega,5
+T00029,46881748,Micaela Carlos Ortiz, micaela.carlos.ortiz.94@empresa.com.ar ,28-04-26,Garantia,N/A
+T00030, 36602230 ,Paula Benítez, paula.benitez.13@gmail.com ,27/05/2026,Facturacion,5
+T00031,36-602-230,PAULA BENITEZ,PAULA.BENITEZ.13@GMAIL.COM,2025-07-12,Garantia,N/A
+T00032, 21444100 ,Franco Fernandez,FRANCO.FERNANDEZ.70@OUTLOOK.COM,18/10/2025,Consulta,5
+T00033,21-444-100,Franco Fernández,FRANCO.FERNANDEZ.70@OUTLOOK.COM,2025-05-17,Entrega,3
+T00034,21.444.100,Franco Fernandez,,2025-12-26,Garantia,1
+T00035,28.693.887,Natalia Castro, natalia.castro.64@empresa.com.ar ,15-07-26,Cambio,5
+T00036,28-693-887,Natalia Castro,nataliacastro64@empresa.com.ar,11-11-25,Cambio,4
+T00037,37-722-421,Laura Pérez,LAURA.PEREZ.69@OUTLOOK.COM,27/11/2025,Entrega,
+T00038,37-722-421,Laura Perez,LAURA.PEREZ.69@OUTLOOK.COM,08/09/2025,Garantia,1
+T00039,46-785-724,Sofia Rojas, leandro.diaz.68@empresa.com.ar ,15-06-26,Facturacion,5
+T00040,21235333,Franco Castro,FRANCO.CASTRO.72@GMAIL.COM,2025-12-28,Entrega,
+T00041,21-235-333,Franco Castro,FRANCO.CASTRO.72@GMAIL.COM,06-02-25,Garantia,2
+T00042,42640126,Matías Acosta, matias.acosta.58@hotmail.com ,2025-08-23,Entrega,
+T00043,42.640.126,Matias Acosta, matias.acosta.58@hotmail.com ,06-12-25,Entrega,2
+T00044,42.640.126,Matias Acosta,matias.acosta.58@hotmail.com,03-02-26,Entrega,4
+T00045,20993851,Franco Tomas Ortiz,franco.tomas.ortiz.78@empresa.com.ar,29/05/2026,Consulta,5
+T00046,20-993-851,Franco Ortiz, franco.tomas.ortiz.78@empresa.com.ar ,17-09-25,Cambio,3
+T00047,20.993.851,Franco T. Ortiz,FRANCO.TOMAS.ORTIZ.78@EMPRESA.COM.AR,13-02-26,Facturacion,2
+T00048,24733378,Florencia Ramirez,florencia.ramirez.11@hotmail.com,23/11/2025,Cambio,3
+T00049,24733378,FLORENCIA RAMIREZ,FLORENCIA.RAMIREZ.11@HOTMAIL.COM,18/06/2026,Facturacion,1
+T00050, 24733378 ,Florencia Ramirez, florencia.ramirez.11@hotmail.com ,13/06/2025,Facturacion,N/A
+T00051, 34586391 ,SOFIA LOPEZ,sofia.lopez.17@gmail.com,2026-02-16,Consulta,1
+T00052,34.586.391,Sofia Lopez,sofia.lopez.17@gmail.com,2026-07-04,Cambio,4
+T00053,34-586-391,Sofia Lopez,SOFIA.LOPEZ.17@GMAIL.COM,20-06-26,Garantia,4
+T00054,23-085-199,Lucia Martinez,lucia.martinez.41@empresa.com.ar,26/07/2026,Entrega,N/A
+T00055, 23508682 ,Natalia Rojas,,11/05/2026,Entrega,N/A
+T00056,23508682,Natalia Rojas, natalia.rojas.23@outlook.com ,31/07/2026,Garantia,
+T00057,23-508-682,Natalia Rojas,natalia.rojas.23@outlook.com,18/01/2026,Garantia,5
+T00058, 46369729 ,Sebastian Gomez, sebastian.gomez.89@outlook.com ,08-09-25,Facturacion,N/A
+T00059,46369729,Sebastian Gomez,SEBASTIAN.GOMEZ.89@OUTLOOK.COM,06/07/2026,Entrega,1
+T00060,46369729,Sebastian Gomez, sebastian.gomez.89@outlook.com ,2025-01-23,Cambio,1
+T00061,23.723.797,Maria Benitez,maria.benitez.28@outlook.com,22/11/2025,Garantia,5
+T00062,30-521-997,Sebastian Flores,sebastian.flores.5@empresa.com.ar,05/04/2025,Consulta,2
+T00063,30521997,SEBASTIAN FLORES,sebastian.flores.5@empresa.com.ar,2026-05-12,Garantia,2
+T00064,30-521-997,Sebastian Flores, sebastian.flores.5@empresa.com.ar ,07-06-26,Consulta,5
+T00065, 38468173 ,Leandro Alvarez,LEANDRO.ALVAREZ.48@OUTLOOK.COM,16/03/2026,Garantia,N/A
+T00066, 38468173 ,Leandro Alvarez,leandro.alvarez.48@outlook.com,2026-01-31,Facturacion,3
+T00067,41302790,Carlos Romero,carlos.romero.22@outlook.com,09-01-26,Facturacion,4
+T00068,41-302-790,Carlos Romero,CARLOS.ROMERO.22@OUTLOOK.COM,06-09-25,Entrega,N/A
+T00069, 41302790 ,CARLOS ROMERO,CARLOS.ROMERO.22@OUTLOOK.COM,2025-03-14,Facturacion,5
+T00070,35769560,Paula López, paula.lopez.52@hotmail.com ,30-12-25,Facturacion,5
+T00071,35-769-560,Paula López, paula.lopez.52@hotmail.com ,08-05-25,Facturacion,4
+T00072,40273647,Sebastian Romero,SEBASTIAN.ROMERO.47@EMPRESA.COM.AR,2026-03-05,Facturacion,3
+T00073,40273647,Sebastian Romero,sebastian.romero.47@empresa.com.ar,2025-03-09,Consulta,
+T00074,40-273-647,SEBASTIAN ROMERO,sebastian.romero.47@empresa.com.ar,05/03/2026,Cambio,2
+T00075,29-042-274,Tomas Medina,TOMAS.MEDINA.57@OUTLOOK.COM,2025-07-05,Garantia,3
+T00076,29-042-274,TOMAS MEDINA,TOMAS.MEDINA.57@OUTLOOK.COM,2025-12-29,Consulta,1
+T00077,29-042-274,TOMAS MEDINA,tomas.medina.57@outlook.com,2025-06-24,Cambio,
+T00078,,Diego A. Fernandez,diego.agustina.fernandez.81@outlook.com,14/05/2025,Facturacion,2
+T00079,23824598,Diego Agustina Fernández,DIEGO.AGUSTINA.FERNANDEZ.81@OUTLOOK.COM,06/06/2025,Facturacion,
+T00080, 47730332 ,Andres Ortiz, andres.ortiz.27@hotmail.com ,19/01/2026,Cambio,3
+T00081,30.326.929,Sebastian Acosta,sebastianacosta15@hotmail.com,19-02-25,Facturacion,1
+T00082,38-461-737,Sofia Sanchez,sofia.sanchez.35@gmail.com,09/10/2025,Entrega,1
+T00083, 38461737 ,Sofia Sanchez,,01-11-25,Cambio,3
+T00084,,Sofia Sanchez,SOFIA.SANCHEZ.35@GMAIL.COM,2025-08-17,Entrega,4
+T00085, 41831376 ,Joaquin Navarro,JOAQUIN.NAVARRO.4@GMAIL.COM,29-04-26,Facturacion,1
+T00086,41-831-376,Joaquin Navarro,JOAQUIN.NAVARRO.4@GMAIL.COM,2025-01-21,Consulta,2
+T00087,41-831-376,Joaquin Navarro,joaquinnavarro4@gmail.com,2026-02-09,Cambio,2
+T00088,29.316.173,Martín Torres, martin.torres.72@hotmail.com ,30-07-26,Entrega,2
+T00089,29-316-173,Martin Torres,martin.torres.72@hotmail.com,08/06/2026,Facturacion,2
+T00090,29316173,Martin Torres, martin.torres.72@hotmail.com ,23/04/2025,Cambio,4
+T00091,43-576-630,Gonzalo Castro, gonzalo.castro.11@hotmail.com ,19-04-26,Entrega,5
+T00092, 34664901 ,Matias Perez,MATIAS.PEREZ.6@GMAIL.COM,2025-05-06,Consulta,3
+T00093, 34664901 ,Matias Perez,MATIAS.PEREZ.6@GMAIL.COM,31-05-26,Facturacion,3
+T00094,34.664.901,Matias Perez,,2025-07-28,Facturacion,4
+T00095,45-940-821,Joaquin Flores,joaquin.flores.26@outlook.com,04/08/2025,Consulta,1
+T00096, 32909159 ,Maria Castro,MARIA.CASTRO.35@GMAIL.COM,2025-05-30,Entrega,
+T00097, 32909159 ,Maria Castro, maria.castro.35@gmail.com ,27-10-25,Cambio,
+T00098, 35148204 ,Diego Benitez,DIEGO.BENITEZ.72@GMAIL.COM,09-01-25,Consulta,5
+T00099, 35148204 ,Diego Benítez,DIEGO.BENITEZ.72@GMAIL.COM,2025-06-15,Entrega,4
+T00100,35-148-204,Diego Benítez,diego.benitez.72@gmail.com,29-08-25,Facturacion,
+T00101,24.102.179,Micaela Florencia Ortiz,nataliacastro42@gmail.com,01/08/2026,Consulta,3
+T00102,,Leandro Benitez,LEANDRO.BENITEZ.85@EMPRESA.COM.AR,17/05/2026,Cambio,3
+T00103,28-010-330,Leandro Benítez,leandro.benitez.85@empresa.com.ar,04/05/2026,Facturacion,3
+T00104,22.512.916,SEBASTIAN MEDINA, sebastian.medina.17@gmail.com ,25-06-25,Facturacion,N/A
+T00105,22-512-916,Sebastian Medina,SEBASTIAN.MEDINA.17@GMAIL.COM,2025-11-21,Garantia,4
+T00106, 47454867 ,Sebastian Molina,SEBASTIAN.MOLINA.13@GMAIL.COM,18/05/2025,Facturacion,4
+T00107,47454867,Sebastian Molina, sebastian.molina.13@gmail.com ,2026-06-23,Garantia,2
+T00108, 47454867 ,Sebastian Molina, sebastian.molina.13@gmail.com ,30/04/2026,Entrega,
+T00109,39303981,Federico Fernandez, federico.fernandez.77@outlook.com ,2026-08-16,Entrega,5
+T00110,39303981,Federico Fernandez,federico.fernandez.77@outlook.com,09-02-25,Consulta,4
+T00111,31431161,Pablo Ramirez,pablo.ramirez.9@gmail.com,23/03/2025,Facturacion,5
+T00112,31431161,PABLO RAMIREZ,,2026-02-27,Consulta,
+T00113, 41604496 ,AGUSTINA GOMEZ,agustina.gomez.19@outlook.com,05/03/2026,Cambio,3
+T00114,41.604.496,Agustina Gómez, agustina.gomez.19@outlook.com ,14-05-25,Garantia,1
+T00115, 41604496 ,Agustina Gomez,,28/03/2026,Consulta,N/A
+T00116,40.887.002,Laura Flores,,18/07/2025,Entrega,1
+T00117,36704658,LUCIA CASTRO, lucia.castro.58@empresa.com.ar ,08-01-25,Facturacion,1
+T00118, 36704658 ,Lucía Castro,lucia.castro.58@empresa.com.ar,2025-02-02,Facturacion,4
+T00119,38114535,Sofia Molina,sofia.molina.78@hotmail.com,2026-06-23,Cambio,4
+T00120, 38114535 ,Sofia Molina, sofia.molina.78@hotmail.com ,2025-11-18,Cambio,2
+T00121,47688149,Paula Romero,paula.romero.34@empresa.com.ar,11-06-26,Garantia,1
+T00122,40-724-798,Micaela Medina,MICAELA.MEDINA.67@EMPRESA.COM.AR,18-08-26,Facturacion,1
+T00123,40-724-798,Micaela Medina,micaela.medina.67@empresa.com.ar,2026-05-30,Garantia,2
+T00124,40.724.798,Micaela Medina,MICAELA.MEDINA.67@EMPRESA.COM.AR,22/12/2025,Garantia,2
+T00125,26479676,SOFIA LEANDRO ROMERO,SOFIA.LEANDRO.ROMERO.66@HOTMAIL.COM,03-05-26,Entrega,5
+T00126, 26479676 ,Sofia Romero,,13/09/2025,Consulta,2
+T00127, 30503680 ,Andres Rojas,,2025-03-02,Facturacion,1
+T00128,30503680,Andres Rojas,andres.rojas.6@empresa.com.ar,13-02-25,Garantia,N/A
+T00129,21.351.580,LAURA PEREZ,LAURA.PEREZ.45@GMAIL.COM,20-12-25,Garantia,4
+T00130,37-300-619,MATIAS DIAZ,MATIAS.DIAZ.22@GMAIL.COM,2026-07-09,Facturacion,
+T00131, 26999964 ,Rocío Rodríguez,rociorodriguez18@hotmail.com,27-08-25,Consulta,N/A
+T00132,,Rocio Rodriguez,rocio.rodriguez.18@hotmail.com,2025-03-21,Consulta,5
+T00133,26999964,Rocio Rodriguez, rocio.rodriguez.18@hotmail.com ,29/07/2025,Facturacion,1
+T00134,44.971.292,NICOLAS PEREZ,NICOLAS.PEREZ.85@GMAIL.COM,06-03-26,Cambio,1
+T00135,44971292,Nicolás Pérez,,2026-06-06,Consulta,3
+T00136,44.971.292,Nicolas Perez,,16/06/2026,Entrega,
+T00137,32.484.270,LUCIA TORRES,,2026-01-06,Facturacion,4
+T00138, 32484270 ,LUCIA TORRES,LUCIA.TORRES.66@OUTLOOK.COM,29-04-25,Facturacion,2
+T00139, 48268178 ,MARTIN RODRIGUEZ, martin.rodriguez.45@empresa.com.ar ,17-05-26,Garantia,4
+T00140,48268178,Martin Rodriguez,martin.rodriguez.45@empresa.com.ar,06/10/2025,Entrega,4
+T00141,,Federico Perez, federico.perez.74@empresa.com.ar ,2025-09-02,Garantia,2
+T00142,35192299,ROCIO NATALIA PEREZ,ROCIO.NATALIA.PEREZ.6@OUTLOOK.COM,23-05-25,Cambio,2
+T00143,29602704,Andres Joaquin Medina,ANDRES.JOAQUIN.MEDINA.5@GMAIL.COM,2025-08-30,Entrega,2
+T00144, 29602704 ,ANDRES JOAQUIN MEDINA, andres.joaquin.medina.5@gmail.com ,2026-01-30,Consulta,5
+T00145,29.602.704,Andres J. Medina,andresjoaquinmedina5@gmail.com,2025-01-18,Consulta,5
+T00146,49-827-543,Carolina Gomez,,07-03-26,Garantia,N/A
+T00147,,Carolina Gomez,carolina.gomez.46@outlook.com,10/07/2026,Garantia,5
+T00148,38-825-261,Federico Benítez,FEDERICO.BENITEZ.45@OUTLOOK.COM,17/08/2025,Garantia,4
+T00149, 38825261 ,Federico Benitez,FEDERICO.BENITEZ.45@OUTLOOK.COM,2025-02-14,Cambio,3
+T00150, 38825261 ,Federico Benitez,federico.benitez.45@outlook.com,2026-03-26,Entrega,N/A
+T00151,46-642-087,Federico Ruiz,federico.ruiz.38@empresa.com.ar,20/03/2026,Garantia,
+T00152,45-696-626,DIEGO JOAQUIN RAMIREZ,DIEGO.JOAQUIN.RAMIREZ.30@HOTMAIL.COM,05-01-26,Cambio,2
+T00153, 45696626 ,DIEGO JOAQUIN RAMIREZ, diego.joaquin.ramirez.30@hotmail.com ,28/07/2026,Facturacion,
+T00154,45.696.626,Diego J. Ramirez,diego.joaquin.ramirez.30@hotmail.com,11/05/2025,Facturacion,3
+T00155,47-740-943,Natalia Lopez,NATALIA.LOPEZ.48@EMPRESA.COM.AR,18-10-25,Garantia,N/A
+T00156,47.740.943,Natalia Lopez,natalialopez48@empresa.com.ar,2025-03-23,Consulta,N/A
+T00157,47.740.943,Natalia López, natalia.lopez.48@empresa.com.ar ,31/01/2025,Entrega,1
+T00158,45.131.804,CAMILA RAMIREZ,CAMILA.RAMIREZ.90@HOTMAIL.COM,27-08-25,Cambio,2
+T00159,,Camila Navarro,,2026-05-28,Cambio,2
+T00160,24-574-332,Camila Navarro, camila.navarro.72@hotmail.com ,12/07/2025,Garantia,N/A
+T00161,24-574-332,Camila Navarro,CAMILA.NAVARRO.72@HOTMAIL.COM,23/01/2026,Cambio,1
+T00162,36-860-139,VALENTINA TORRES,valentina.torres.75@gmail.com,2026-03-28,Facturacion,1
+T00163,36-860-139,VALENTINA TORRES,valentina.torres.75@gmail.com,03-01-26,Garantia,2
+T00164,35-578-471,Diego Navarro,,10/07/2025,Consulta,
+T00165,44521528,Carlos Nicolás Benítez, federico.acosta.77@gmail.com ,12-04-25,Garantia,5
+T00166,24-773-954,FEDERICO ANDRES MARTINEZ,federicoandresmartinez46@hotmail.com,2025-03-03,Facturacion,5
+T00167,24773954,Federico Andres Martinez,federico.andres.martinez.46@hotmail.com,2025-08-10,Cambio,
+T00168, 24773954 ,Federico Andres Martinez,federicoandresmartinez46@hotmail.com,14/02/2026,Entrega,N/A
+T00169,39.012.467,Camila Ruiz,camila.ruiz.19@empresa.com.ar,21/06/2026,Cambio,5
+T00170,47.529.758,Florencia Rojas,florencia.rojas.70@empresa.com.ar,27-02-26,Entrega,4
+T00171, 47529758 ,FLORENCIA ROJAS,FLORENCIA.ROJAS.70@EMPRESA.COM.AR,2025-03-23,Consulta,
+T00172,34918548,CAROLINA CASTRO,CAROLINA.CASTRO.88@EMPRESA.COM.AR,13-07-25,Consulta,5
+T00173, 21965745 ,Laura Romero, laura.romero.9@empresa.com.ar ,09/01/2026,Consulta,4
+T00174,21.965.745,Laura Romero,,06-11-25,Facturacion,5
+T00175,21-965-745,Laura Romero,LAURA.ROMERO.9@EMPRESA.COM.AR,2026-02-05,Entrega,2
+T00176,25.907.787,Daniela Silva,daniela.silva.1@hotmail.com,07/05/2026,Garantia,5
+T00177,27-701-560,Gonzalo Benitez,,2025-05-12,Consulta,5
+T00178, 27701560 ,Gonzalo Benítez, gonzalo.benitez.81@hotmail.com ,2025-06-15,Entrega,5
+T00179,27.701.560,Gonzalo Benitez, gonzalo.benitez.81@hotmail.com ,06/09/2025,Consulta,
+T00180,,JUAN ROJAS,JUAN.ROJAS.28@GMAIL.COM,09-11-25,Consulta,5
+T00181,27693916,Leandro Molina,LEANDRO.MOLINA.35@EMPRESA.COM.AR,2026-02-02,Cambio,1
+T00182, 27693916 ,Leandro Molina, leandro.molina.35@empresa.com.ar ,2025-07-08,Consulta,4
+T00183,46-599-673,Valentina Molina,valentina.molina.95@empresa.com.ar,02-10-25,Entrega,
+T00184,,Valentina Molina,VALENTINA.MOLINA.95@EMPRESA.COM.AR,24-10-25,Facturacion,4
+T00185,43.596.797,LAURA SUAREZ,LAURA.SUAREZ.65@GMAIL.COM,12-06-26,Garantia,
+T00186,,LAURA SUAREZ,LAURA.SUAREZ.65@GMAIL.COM,30/10/2025,Garantia,3
+T00187, 43596797 ,Laura Suarez,LAURA.SUAREZ.65@GMAIL.COM,24-05-26,Cambio,1
+T00188,33460248,Diego Lopez,diegolopez3@hotmail.com,2025-12-15,Garantia,5
+T00189,33.460.248,Diego López,diego.lopez.3@hotmail.com,14-05-26,Cambio,3
+T00190,33-460-248,Diego Lopez,,07/05/2025,Entrega,1
+T00191,27.567.436,Juan Tomas Molina,JUAN.TOMAS.MOLINA.71@EMPRESA.COM.AR,29-04-25,Consulta,
+T00192, 27567436 ,Juan Tomas Molina, juan.tomas.molina.71@empresa.com.ar ,01/04/2025,Entrega,3
+T00193,28-862-863,Carlos Gonzalo Navarro,carlos.gonzalo.navarro.64@outlook.com,2025-06-01,Facturacion,2
+T00194,30-030-701,Camila Suárez,camila.suarez.23@hotmail.com,28-12-25,Facturacion,1
+T00195, 45047988 ,VALENTINA CARLOS SANCHEZ,VALENTINA.CARLOS.SANCHEZ.23@EMPRESA.COM.AR,2025-09-13,Entrega,3
+T00196,45-047-988,Valentina Carlos Sánchez, valentina.carlos.sanchez.23@empresa.com.ar ,19-03-26,Cambio,N/A
+T00197,,Nicolas Fernandez, nicolas.franco.fernandez.26@outlook.com ,24-05-26,Entrega,2
+T00198,48.154.472,Martin Gomez,martin.gomez.24@outlook.com,2025-01-19,Garantia,5
+T00199, 48154472 ,Martin Gomez,MARTIN.GOMEZ.24@OUTLOOK.COM,2026-05-21,Entrega,
+T00200, 45632544 ,Sebastian Martinez,sebastian.martinez.14@hotmail.com,03-06-26,Entrega,1
+T00201,,PAULA BENITEZ,PAULA.BENITEZ.69@OUTLOOK.COM,19/05/2026,Cambio,2
+T00202,24.928.771,Paula Benitez,PAULA.BENITEZ.69@OUTLOOK.COM,2025-06-25,Consulta,1
+T00203,24-928-771,Paula Benítez, paula.benitez.69@outlook.com ,02/05/2025,Garantia,N/A
+T00204,25.502.931,Matias R. Diaz,MATIAS.ROCIO.DIAZ.24@GMAIL.COM,11-10-25,Facturacion,2
+T00205,25502931,Matias Diaz,MATIAS.ROCIO.DIAZ.24@GMAIL.COM,18-04-25,Garantia,2
+T00206,25-502-931,Matias Rocio Diaz,MATIAS.ROCIO.DIAZ.24@GMAIL.COM,19/12/2025,Consulta,5
+T00207,26-689-522,Diego Medina, diego.medina.1@gmail.com ,2026-06-30,Facturacion,4
+T00208,,Diego Medina,DIEGO.MEDINA.1@GMAIL.COM,20/03/2025,Entrega,1
+T00209,,Diego Medina,diego.medina.1@gmail.com,15-05-26,Garantia,N/A
+T00210,,SEBASTIAN MOLINA, sebastian.molina.5@gmail.com ,2026-07-25,Garantia,1
+T00211,31-982-751,Sebastian Molina,sebastian.molina.5@gmail.com,20-07-25,Entrega,1
+T00212,31-982-751,Sebastián Molina,SEBASTIAN.MOLINA.5@GMAIL.COM,2025-03-18,Entrega,5
+T00213,22-496-371,Juan Martinez,JUAN.MARTINEZ.52@HOTMAIL.COM,06/02/2026,Consulta,5
+T00214,22.496.371,Juan Martinez,juan.martinez.52@hotmail.com,2026-03-06,Facturacion,4
+T00215,49.976.237,Matias Medina,matiasmedina10@outlook.com,2025-04-18,Garantia,N/A
+T00216,49-976-237,MATIAS MEDINA, matias.medina.10@outlook.com ,2026-02-07,Garantia,N/A
+T00217,49-976-237,MATIAS MEDINA,matias.medina.10@outlook.com,2025-09-05,Consulta,N/A
+T00218,47-195-016,Rocío Martínez,rocio.martinez.92@empresa.com.ar,23/09/2025,Entrega,5
+T00219,47195016,Rocío Martínez,ROCIO.MARTINEZ.92@EMPRESA.COM.AR,24-05-26,Consulta,
+T00220,41-509-921,Joaquín Navarro,VALENTINA.RAMIREZ.7@GMAIL.COM,08/07/2026,Entrega,5
+T00221,48103049,Sofia Lopez,,20/07/2026,Entrega,2
+T00222,40542522,Tomas Silva,,09-03-25,Facturacion,N/A
+T00223, 40542522 ,Tomas Silva,TOMAS.SILVA.81@EMPRESA.COM.AR,17/01/2026,Cambio,N/A
+T00224,21005720,Carolina Rodriguez,CAROLINA.RODRIGUEZ.40@EMPRESA.COM.AR,2026-01-26,Garantia,
+T00225,,Gonzalo Alvarez, gonzalo.alvarez.47@outlook.com ,04-02-25,Cambio,4
+T00226,45-613-818,Gonzalo Álvarez,gonzalo.alvarez.47@outlook.com,29-07-25,Garantia,N/A
+T00227,45.613.818,Gonzalo Alvarez,,02-08-25,Cambio,4
+T00228,29830399,Florencia Navarro,FLORENCIA.NAVARRO.60@OUTLOOK.COM,15-03-25,Garantia,
+T00229, 29830399 ,Florencia Navarro,FLORENCIA.NAVARRO.60@OUTLOOK.COM,2026-03-14,Facturacion,1
+T00230,29.830.399,Florencia Navarro, florencia.navarro.60@outlook.com ,18-05-26,Entrega,3
+T00231, 36685733 ,JULIETA ROMERO,julieta.romero.61@gmail.com,2026-06-17,Cambio,2
+T00232,37.167.854,Pablo Rojas,PABLO.ROJAS.78@EMPRESA.COM.AR,2026-05-09,Garantia,
+T00233,37.167.854,Pablo Rojas,pablo.rojas.78@empresa.com.ar,08/06/2026,Facturacion,1
+T00234,,Pablo Rojas, pablo.rojas.78@empresa.com.ar ,13/11/2025,Entrega,
+T00235,28986343,Camila Natalia Benitez,CAMILA.NATALIA.BENITEZ.5@HOTMAIL.COM,06/05/2026,Entrega,2
+T00236, 28986343 ,Camila Natalia Benitez, camila.natalia.benitez.5@hotmail.com ,09-02-26,Facturacion,5
+T00237,28986343,CAMILA NATALIA BENITEZ,camila.natalia.benitez.5@hotmail.com,2025-01-30,Consulta,1
+T00238, 31483836 ,Leandro Ortiz,,14/09/2025,Entrega,2
+T00239,,Leandro Ortiz,,21/03/2025,Entrega,
+T00240, 31483836 ,Leandro Ortiz,leandro.ortiz.34@hotmail.com,05-11-25,Garantia,
+T00241,29261852,Paula Castro, paula.castro.45@gmail.com ,05/08/2026,Cambio,5
+T00242,,Juan Alvarez,juan.alvarez.26@outlook.com,21/01/2026,Consulta,1
+T00243, 45089737 ,Juan Alvarez,,10-07-25,Consulta,
+T00244,45.089.737,Juan Alvarez,,03-05-25,Cambio,
+T00245,37.193.730,Juan Franco Silva,juan.franco.silva.55@hotmail.com,04/01/2026,Cambio,5
+T00246, 37193730 ,Juan Franco Silva,JUAN.FRANCO.SILVA.55@HOTMAIL.COM,2025-05-16,Facturacion,4
+T00247,37-193-730,Juan Silva,JUAN.FRANCO.SILVA.55@HOTMAIL.COM,27/11/2025,Garantia,1
+T00248,33.987.802,Joaquin Carlos Ortiz,,2025-08-23,Facturacion,3
+T00249,31.017.940,Paula Sebastián Silva,PAULA.SEBASTIAN.SILVA.25@EMPRESA.COM.AR,09-05-25,Cambio,5
+T00250,25.071.951,FRANCO SILVA,franco.silva.32@hotmail.com,27/07/2026,Entrega,
+T00251,,FRANCO SILVA, franco.silva.32@hotmail.com ,2025-03-04,Consulta,1
+T00252,32760352,Rocio Diaz,rocio.diaz.20@outlook.com,25-02-26,Cambio,
+T00253,32-760-352,Rocío Díaz, rocio.diaz.20@outlook.com ,2025-07-08,Consulta,
+T00254, 32760352 ,ROCIO DIAZ,rocio.diaz.20@outlook.com,06/05/2026,Facturacion,5
+T00255, 33849345 ,Rocio Pablo Diaz, rocio.pablo.diaz.67@hotmail.com ,28-03-26,Facturacion,3
+T00256,33849345,ROCIO PABLO DIAZ,ROCIO.PABLO.DIAZ.67@HOTMAIL.COM,15-12-25,Entrega,N/A
+T00257,33849345,Rocío Pablo Díaz,ROCIO.PABLO.DIAZ.67@HOTMAIL.COM,2026-02-03,Garantia,5
+T00258,22-370-563,Martin Alvarez,MARTIN.ALVAREZ.17@EMPRESA.COM.AR,17-01-26,Cambio,4
+T00259,22.370.563,Martin Alvarez,martin.alvarez.17@empresa.com.ar,20-12-25,Consulta,
+T00260,28373534,Carolina Ruiz,carolina.ruiz.54@gmail.com,2025-07-29,Facturacion,5
+T00261,28-373-534,Carolina Ruiz,CAROLINA.RUIZ.54@GMAIL.COM,29-10-25,Cambio,5
+T00262,28-608-529,Micaela Suarez,micaela.suarez.48@empresa.com.ar,2025-06-03,Entrega,3
+T00263,44413276,Paula Ortiz,paula.ortiz.63@gmail.com,27/05/2026,Cambio,1
+T00264, 28876929 ,Juan Castro,,08/01/2026,Consulta,
+T00265,,Laura Acosta,LAURA.ACOSTA.48@EMPRESA.COM.AR,19/01/2025,Facturacion,N/A
+T00266, 24204533 ,Laura Acosta,LAURA.ACOSTA.48@EMPRESA.COM.AR,25/01/2026,Cambio,2
+T00267,24-204-533,LAURA ACOSTA, laura.acosta.48@empresa.com.ar ,21-09-25,Garantia,2
+T00268,44-205-028,Camila Perez,CAMILA.PEREZ.30@GMAIL.COM,03-12-25,Garantia,5
+T00269,44205028,CAMILA PEREZ, camila.perez.30@gmail.com ,2025-01-26,Cambio,3
+T00270, 44205028 ,CAMILA PEREZ,camila.perez.30@gmail.com,2025-10-08,Entrega,N/A
+T00271,45.728.243,Natalia Molina,natalia.molina.63@outlook.com,05/01/2025,Garantia,2
+T00272,45-728-243,Natalia Molina,NATALIA.MOLINA.63@OUTLOOK.COM,31-03-26,Facturacion,
+T00273,45728243,Natalia Molina, natalia.molina.63@outlook.com ,02-06-26,Entrega,5
+T00274,48-638-804,Carlos Molina,carlos.molina.34@hotmail.com,07-02-25,Garantia,5
+T00275,48.638.804,Carlos Molina, carlos.molina.34@hotmail.com ,04/11/2025,Garantia,N/A
+T00276,32.337.204,Agustina Florencia Silva, agustina.florencia.silva.41@empresa.com.ar ,14/02/2025,Entrega,1
+T00277,36.798.787,Sofia T. Ramirez,SOFIA.TOMAS.RAMIREZ.21@GMAIL.COM,14-02-25,Facturacion,3
+T00278,23-469-755,Tomás Romero, tomas.romero.54@outlook.com ,10-03-25,Facturacion,1
+T00279, 23469755 ,Tomás Romero,tomas.romero.54@outlook.com,01-04-26,Cambio,1
+T00280, 43478884 ,Federico Medina,FEDERICO.MEDINA.76@OUTLOOK.COM,13/07/2025,Cambio,
+T00281,43478884,Federico Medina,federico.medina.76@outlook.com,09-12-25,Facturacion,2
+T00282,32.043.100,Federico Acosta,FEDERICO.ACOSTA.59@EMPRESA.COM.AR,23/07/2026,Garantia,4
+T00283,32.043.100,FEDERICO ACOSTA,FEDERICO.ACOSTA.59@EMPRESA.COM.AR,2026-01-16,Garantia,3
+T00284, 32043100 ,Federico Acosta, federico.acosta.59@empresa.com.ar ,14/06/2026,Facturacion,4
+T00285,41668785,Rocio Laura Ruiz,ROCIO.LAURA.RUIZ.48@OUTLOOK.COM,2026-05-03,Cambio,4
+T00286,42.904.548,CAMILA ALVAREZ,camila.alvarez.40@hotmail.com,2025-03-29,Cambio,5
+T00287,42904548,Camila Alvarez,CAMILA.ALVAREZ.40@HOTMAIL.COM,07-06-26,Consulta,1
+T00288,42.904.548,Camila Alvarez,camilaalvarez40@hotmail.com,15-03-25,Cambio,N/A
+T00289, 29804509 ,Carolina Gomez, carolina.gomez.80@outlook.com ,15-02-25,Facturacion,3
+T00290,29.804.509,CAROLINA GOMEZ, carolina.gomez.80@outlook.com ,19/02/2025,Facturacion,2
+T00291,20684393,María Ramírez,maria.ramirez.46@empresa.com.ar,2025-06-16,Garantia,N/A
+T00292,20.684.393,MARIA RAMIREZ,mariaramirez46@empresa.com.ar,27/07/2026,Consulta,2
+T00293, 20684393 ,MARIA RAMIREZ, maria.ramirez.46@empresa.com.ar ,30/04/2026,Cambio,2
+T00294,25.584.143,Carolina Molina,CAROLINA.MOLINA.25@GMAIL.COM,2025-09-15,Consulta,
+T00295,25-584-143,Carolina Molina, carolina.molina.25@gmail.com ,2026-06-08,Garantia,3
+T00296,25584143,Carolina Molina,carolina.molina.25@gmail.com,27-04-25,Cambio,2
+T00297,21-832-932,TOMAS NATALIA LOPEZ,TOMAS.NATALIA.LOPEZ.79@OUTLOOK.COM,2026-05-01,Facturacion,2
+T00298,21-832-932,TOMAS NATALIA LOPEZ, tomas.natalia.lopez.79@outlook.com ,2025-12-08,Garantia,N/A
+T00299,42.489.808,Leandro Romero,leandro.romero.6@hotmail.com,07/06/2025,Cambio,5
+T00300,42.489.808,Leandro Romero, leandro.romero.6@hotmail.com ,2026-04-08,Entrega,3
+T00301,42489808,Leandro Romero,leandro.romero.6@hotmail.com,14/07/2025,Cambio,5
+T00302, 43558059 ,Nicolas Lopez, nicolas.lopez.16@gmail.com ,21-06-26,Facturacion,2
+T00303,40-540-846,Valentina Flores,valentina.flores.12@hotmail.com,22-03-26,Entrega,5
+T00304,40540846,Valentina Flores,valentinaflores12@hotmail.com,08/02/2025,Facturacion,1
+T00305,35102015,Maria Acosta,maria.lucia.acosta.73@gmail.com,03/05/2025,Cambio,
+T00306,35-102-015,Maria Acosta, maria.lucia.acosta.73@gmail.com ,18-06-26,Garantia,4
+T00307,35-102-015,Maria Lucia Acosta, maria.lucia.acosta.73@gmail.com ,24/04/2026,Consulta,4
+T00308,49803465,Sofía Federico Ruiz,sofia.federico.ruiz.81@gmail.com,2025-09-23,Garantia,3
+T00309,49-803-465,Sofia Federico Ruiz,SOFIA.FEDERICO.RUIZ.81@GMAIL.COM,12-08-25,Entrega,5
+T00310,,Federico Rojas, federico.rojas.24@hotmail.com ,22/06/2026,Entrega,4
+T00311,49.294.512,Federico Rojas, federico.rojas.24@hotmail.com ,2025-02-06,Cambio,3
+T00312,,Paula Rojas, paula.rojas.35@hotmail.com ,04-09-25,Consulta,
+T00313,21-747-335,Agustina Silva, agustina.silva.20@hotmail.com ,15/02/2026,Entrega,2
+T00314, 21747335 ,Agustina Silva,agustina.silva.20@hotmail.com,17/07/2026,Consulta,5
+T00315,45813816,Agustina Benitez,agustina.benitez.96@empresa.com.ar,18/07/2025,Garantia,1
+T00316,45.813.816,Agustina Benítez,agustina.benitez.96@empresa.com.ar,2026-06-15,Cambio,5
+T00317, 21133253 ,Natalia Rojas,NATALIA.ROJAS.15@HOTMAIL.COM,05-05-25,Facturacion,4
+T00318,35.309.233,Joaquin Lopez,joaquin.lopez.14@hotmail.com,22-07-26,Cambio,
+T00319, 35309233 ,Joaquin Lopez,joaquin.lopez.14@hotmail.com,06/07/2026,Cambio,5
+T00320,21857772,Rocio Ortiz,ROCIO.LAURA.ORTIZ.29@OUTLOOK.COM,27/03/2026,Cambio,5
+T00321, 49008247 ,Martin T. Ortiz,martintomasortiz3@hotmail.com,15-02-25,Facturacion,2
+T00322,,MARTIN TOMAS ORTIZ,MARTIN.TOMAS.ORTIZ.3@HOTMAIL.COM,2025-08-15,Garantia,
+T00323, 41532957 ,Paula Torres,MARTINACOSTA15@GMAIL.COM,16/07/2026,Cambio,2
+T00324,41-532-957,Paula Torres,MARTINACOSTA15@GMAIL.COM,26/03/2025,Facturacion,1
+T00325,20.003.195,Agustina Castro,AGUSTINA.CASTRO.90@HOTMAIL.COM,18/07/2026,Cambio,1
+T00326,,Sofia Medina,SOFIA.MEDINA.67@GMAIL.COM,02/04/2025,Consulta,2
+T00327,33-437-063,Sofia Medina, sofia.medina.67@gmail.com ,04-01-26,Facturacion,2
+T00328,33-437-063,SOFIA MEDINA,SOFIA.MEDINA.67@GMAIL.COM,14-05-26,Entrega,4
+T00329,,Micaela Ramirez,camila.diaz.18@gmail.com,12-01-25,Entrega,1
+T00330,20.800.214,Micaela Ramirez,camila.diaz.18@gmail.com,19-04-25,Consulta,2
+T00331,41.736.526,Leandro A. Benitez,LEANDRO.AGUSTINA.BENITEZ.90@GMAIL.COM,2025-03-20,Entrega,N/A
+T00332,35189584,Lucia Medina, lucia.medina.52@empresa.com.ar ,06/07/2025,Consulta,3
+T00333,35-189-584,Lucia Medina,LUCIA.MEDINA.52@EMPRESA.COM.AR,2025-08-25,Entrega,
+T00334,42.639.178,Camila Suarez, camila.suarez.38@empresa.com.ar ,13-02-26,Consulta,3
+T00335, 42639178 ,Camila Suarez,CAMILA.SUAREZ.38@EMPRESA.COM.AR,2025-06-30,Facturacion,3
+T00336,41.080.774,Paula Sofía Ortiz, paula.sofia.ortiz.86@outlook.com ,14/01/2025,Garantia,3
+T00337,41080774,Paula Sofia Ortiz,PAULA.SOFIA.ORTIZ.86@OUTLOOK.COM,11/02/2025,Entrega,3
+T00338, 26772112 ,Federico Rojas,FEDERICO.ROJAS.24@EMPRESA.COM.AR,2025-10-15,Facturacion,2
+T00339,46-741-240,Laura Carlos Medina, laura.carlos.medina.95@empresa.com.ar ,01/09/2025,Entrega,
+T00340, 46741240 ,Laura Carlos Medina,LAURA.CARLOS.MEDINA.95@EMPRESA.COM.AR,2025-07-09,Garantia,3
+T00341,35.382.999,Julieta Carlos Navarro,JULIETA.CARLOS.NAVARRO.18@HOTMAIL.COM,2025-01-14,Cambio,3
+T00342, 38347512 ,Nicolas Castro,nicolas.castro.93@gmail.com,12/01/2026,Consulta,5
+T00343, 35955326 ,Matias Torres,matias.torres.74@gmail.com,26/06/2026,Facturacion,2
+T00344,,MATIAS TORRES, matias.torres.74@gmail.com ,2025-05-28,Cambio,
+T00345,39.551.520,Camila Rodríguez,camila.rodriguez.24@empresa.com.ar,25/01/2025,Entrega,5
+T00346,39.551.520,Camila Rodriguez,CAMILA.RODRIGUEZ.24@EMPRESA.COM.AR,10/04/2026,Consulta,2
+T00347,36322259,JOAQUIN SOFIA MARTINEZ,joaquinsofiamartinez66@outlook.com,21-09-25,Entrega,4
+T00348,32874715,Rocio S. Acosta,rocio.sofia.acosta.60@hotmail.com,25/05/2025,Consulta,N/A
+T00349,,Rocio Acosta,rocio.sofia.acosta.60@hotmail.com,31-05-25,Garantia,
+T00350,32-874-715,Rocío Sofía Acosta, rocio.sofia.acosta.60@hotmail.com ,04/09/2025,Consulta,N/A
+T00351,35.207.532,Rocio Silva,rocio.silva.12@hotmail.com,08/08/2025,Consulta,1
+T00352,35.207.532,Rocio Silva, rocio.silva.12@hotmail.com ,13/10/2025,Cambio,N/A
+T00353, 28542539 ,Rocio Joaquin Rojas, rocio.joaquin.rojas.58@outlook.com ,14-02-25,Facturacion,3
+T00354, 28542539 ,Rocio J. Rojas,ROCIO.JOAQUIN.ROJAS.58@OUTLOOK.COM,30/07/2025,Garantia,3
+T00355,,Rocio Rojas,ROCIO.JOAQUIN.ROJAS.58@OUTLOOK.COM,10-09-25,Consulta,3
+T00356, 32170199 ,Leandro Sanchez, leandro.sanchez.55@empresa.com.ar ,13-07-25,Consulta,
+T00357,,VALENTINA ROMERO, valentina.romero.94@empresa.com.ar ,03-05-26,Facturacion,3
+T00358,26-731-217,VALENTINA ROMERO,valentina.romero.94@empresa.com.ar,12-05-25,Consulta,1
+T00359,28-864-705,Laura Diaz,LAURA.DIAZ.36@OUTLOOK.COM,30/08/2025,Garantia,3
+T00360,,Laura Diaz, laura.diaz.36@outlook.com ,18-12-25,Facturacion,
+T00361,28-864-705,Laura Diaz, laura.diaz.36@outlook.com ,21-03-25,Cambio,N/A
+T00362,34.538.334,Micaela Molina, micaela.molina.69@gmail.com ,20/09/2025,Entrega,3
+T00363,25-519-404,Matias Acosta, matias.acosta.51@hotmail.com ,31/01/2025,Cambio,N/A
+T00364,25519404,Matias Acosta, matias.acosta.51@hotmail.com ,02/01/2026,Facturacion,4
+T00365,42-007-191,Pablo Fernandez, pablo.fernandez.78@outlook.com ,10-09-25,Consulta,4
+T00366,42-007-191,Pablo Fernandez,pablo.fernandez.78@outlook.com,06-12-25,Facturacion,5
+T00367, 47649932 ,Maria Gomez, maria.gomez.13@outlook.com ,05-02-25,Entrega,2
+T00368,47649932,Maria Gomez,MARIA.GOMEZ.13@OUTLOOK.COM,09-04-25,Garantia,1
+T00369,47-206-877,Leandro T. Perez,LEANDRO.TOMAS.PEREZ.84@EMPRESA.COM.AR,27-06-25,Cambio,4
+T00370,,Leandro Tomas Perez,leandro.tomas.perez.84@empresa.com.ar,12-08-26,Entrega,
+T00371,31280298,Leandro Ortiz,leandro.ortiz.37@outlook.com,2025-07-17,Facturacion,
+T00372,31-280-298,Leandro Ortiz, leandro.ortiz.37@outlook.com ,21-05-26,Facturacion,5
+T00373,31280298,LEANDRO ORTIZ,,14/07/2025,Garantia,2
+T00374,23-923-342,DIEGO SUAREZ,camila.fernandez.42@outlook.com,29/03/2026,Cambio,N/A
+T00375,23.923.342,DIEGO SUAREZ,CAMILA.FERNANDEZ.42@OUTLOOK.COM,06-11-25,Facturacion,5
+T00376,23-923-342,Diego Suarez,,2026-01-07,Garantia,4
+T00377,49-924-653,Paula Julieta Rodriguez,paula.julieta.rodriguez.42@gmail.com,01/04/2026,Consulta,5
+T00378,49924653,Paula Julieta Rodriguez, paula.julieta.rodriguez.42@gmail.com ,16/01/2025,Cambio,1
+T00379,49-924-653,Paula Julieta Rodriguez,PAULA.JULIETA.RODRIGUEZ.42@GMAIL.COM,08-06-25,Entrega,
+T00380,36-836-962,Julieta Sanchez,JULIETA.SANCHEZ.40@OUTLOOK.COM,2025-09-05,Entrega,2
+T00381, 22931184 ,Tomas Andres Torres,tomas.andres.torres.70@hotmail.com,2025-08-08,Facturacion,2
+T00382,22-931-184,Tomás Andrés Torres, tomas.andres.torres.70@hotmail.com ,2025-08-29,Garantia,5
+T00383,,Tomas A. Torres,tomasandrestorres70@hotmail.com,05-07-26,Consulta,1
+T00384,40-251-826,Carlos Micaela Torres, carlos.micaela.torres.8@gmail.com ,11-06-26,Facturacion,2
+T00385,40251826,CARLOS MICAELA TORRES,CARLOS.MICAELA.TORRES.8@GMAIL.COM,2025-01-31,Entrega,N/A
+T00386,26580051,ANDRES MARTINEZ,andres.martinez.5@gmail.com,24-04-26,Entrega,2
+T00387,22.186.368,Pablo Fernandez,pablo.fernandez.0@empresa.com.ar,23/06/2025,Consulta,5
+T00388,39.906.741,SOFIA PABLO PEREZ,sofia.pablo.perez.90@gmail.com,2026-01-28,Entrega,3
+T00389,39.906.741,Sofia P. Perez,SOFIA.PABLO.PEREZ.90@GMAIL.COM,27/04/2025,Facturacion,3
+T00390,25-316-691,Lucia Castro,LUCIA.CASTRO.42@OUTLOOK.COM,2025-06-02,Facturacion,2
+T00391,,Lucía Castro,LUCIA.CASTRO.42@OUTLOOK.COM,2026-02-06,Consulta,4
+T00392, 43331525 ,VALENTINA ORTIZ,valentina.ortiz.30@outlook.com,28-01-25,Cambio,4
+T00393,35.398.216,Andres Ramirez,ANDRES.RAMIREZ.44@GMAIL.COM,21-09-25,Cambio,N/A
+T00394,34744180,Valentina Sanchez,valentinasanchez31@hotmail.com,22-03-25,Cambio,4
+T00395, 32253208 ,Diego Acosta,diego.acosta.93@gmail.com,05/09/2025,Entrega,
+T00396,37563209,Joaquin Sanchez,,04/11/2025,Cambio,2
+T00397, 37563209 ,Joaquin Sanchez,joaquin.sanchez.47@gmail.com,25/04/2025,Garantia,4
+T00398, 42995931 ,JULIETA RODRIGUEZ, julieta.rodriguez.21@gmail.com ,01-03-25,Cambio,1
+T00399,42995931,Julieta Rodríguez,,2025-09-18,Facturacion,
+T00400,20.179.048,Micaela Acosta, micaela.acosta.82@hotmail.com ,2025-10-17,Garantia,2
+T00401,20.179.048,Micaela Acosta,MICAELA.ACOSTA.82@HOTMAIL.COM,2026-04-17,Cambio,4
+T00402,20.179.048,Micaela Acosta,MICAELA.ACOSTA.82@HOTMAIL.COM,2025-04-27,Garantia,N/A
+T00403,47-828-535,ROCIO FERNANDEZ,ROCIO.FERNANDEZ.32@GMAIL.COM,2025-12-03,Consulta,N/A
+T00404,28-968-962,Agustina Perez,agustina.perez.57@empresa.com.ar,2026-05-19,Entrega,4
+T00405,28-968-962,Agustina Perez,agustina.perez.57@empresa.com.ar,01/03/2026,Cambio,
+T00406,42-223-134,Paula Martin Flores, paula.martin.flores.53@gmail.com ,25/07/2025,Consulta,5
+T00407, 42223134 ,Paula M. Flores,paulamartinflores53@gmail.com,12/04/2025,Consulta,N/A
+T00408,23992427,LAURA NAVARRO,laura.navarro.44@empresa.com.ar,2026-02-23,Entrega,5
+T00409, 23992427 ,Laura Navarro,,30-03-25,Garantia,2
+T00410,23992427,Laura Navarro,laura.navarro.44@empresa.com.ar,23/06/2026,Entrega,4
+T00411,,Agustina Navarro,AGUSTINA.NAVARRO.84@GMAIL.COM,16/06/2025,Garantia,N/A
+T00412, 35380018 ,DANIELA ANDRES DIAZ,daniela.andres.diaz.31@empresa.com.ar,09/06/2026,Entrega,1
+T00413,35380018,Daniela Diaz,daniela.andres.diaz.31@empresa.com.ar,07/10/2025,Garantia,5
+T00414,35.380.018,Daniela Diaz,DANIELA.ANDRES.DIAZ.31@EMPRESA.COM.AR,2026-01-19,Entrega,5
+T00415,44-685-062,DIEGO ORTIZ, diego.ortiz.16@outlook.com ,21/02/2026,Garantia,5
+T00416,44-685-062,Diego Ortiz,diego.ortiz.16@outlook.com,2025-05-07,Consulta,5
+T00417, 47496897 ,Pablo Suarez,pablo.suarez.21@hotmail.com,2025-10-26,Cambio,N/A
+T00418,47-496-897,PABLO SUAREZ,pablosuarez21@hotmail.com,14/08/2026,Cambio,4
+T00419,,PABLO SUAREZ, pablo.suarez.21@hotmail.com ,19/11/2025,Cambio,3
+T00420, 35358120 ,Leandro Castro,LEANDRO.CASTRO.79@EMPRESA.COM.AR,2025-09-09,Consulta,5
+T00421,35.358.120,Leandro Castro, leandro.castro.79@empresa.com.ar ,09/04/2025,Entrega,4
+T00422, 35358120 ,Leandro Castro,leandrocastro79@empresa.com.ar,23/07/2025,Cambio,1
+T00423,,FLORENCIA JOAQUIN ROMERO,florenciajoaquinromero9@outlook.com,2026-05-14,Facturacion,N/A
+T00424,26345233,Florencia Romero,FLORENCIA.JOAQUIN.ROMERO.9@OUTLOOK.COM,10-06-25,Facturacion,1
+T00425,26.345.233,Florencia Joaquín Romero,florencia.joaquin.romero.9@outlook.com,11/08/2025,Cambio,
+T00426,37232873,PABLO SUAREZ,pablo.suarez.40@gmail.com,09-11-25,Cambio,5
+T00427,37-232-873,Pablo Suárez,pablo.suarez.40@gmail.com,2025-02-04,Cambio,2
+T00428,37-232-873,Pablo Suarez,PABLO.SUAREZ.40@GMAIL.COM,18/01/2025,Garantia,5
+T00429,46-370-538,NATALIA MOLINA, natalia.molina.47@hotmail.com ,02/04/2025,Facturacion,2
+T00430, 46370538 ,Natalia Molina,NATALIA.MOLINA.47@HOTMAIL.COM,24/06/2025,Consulta,4
+T00431,,Valentina Gomez,,19-11-25,Entrega,1
+T00432,46801996,Valentina Gomez,VALENTINA.GOMEZ.1@OUTLOOK.COM,07-07-26,Facturacion,2
+T00433, 35493156 ,Martín Ruiz,MARTIN.RUIZ.29@OUTLOOK.COM,16-02-25,Facturacion,
+T00434,35-493-156,Martín Ruiz,,2026-01-16,Cambio,3
+T00435,42-252-920,GONZALO FERNANDEZ,gonzalo.fernandez.61@empresa.com.ar,29-01-26,Entrega,3
+T00436,24-753-833,JUAN DIAZ,juan.diaz.65@outlook.com,15-11-25,Entrega,
+T00437, 24753833 ,JUAN DIAZ, juan.diaz.65@outlook.com ,28/01/2026,Cambio,
+T00438,24-753-833,Juan Diaz,juan.diaz.65@outlook.com,17/06/2025,Garantia,
+T00439,44-191-672,Tomas Romero,,26/04/2025,Cambio,5
+T00440,44-191-672,Tomas J. Romero,tomas.joaquin.romero.8@empresa.com.ar,03/04/2025,Cambio,4
+T00441,,Tomas Joaquin Romero,TOMAS.JOAQUIN.ROMERO.8@EMPRESA.COM.AR,2025-10-07,Cambio,N/A
+T00442,42.567.927,Camila Gonzalo Rodriguez,camila.gonzalo.rodriguez.29@empresa.com.ar,12/08/2025,Facturacion,N/A
+T00443,42-567-927,Camila Gonzalo Rodriguez,,30-03-26,Entrega,5
+T00444,42-567-927,Camila Rodriguez,camila.gonzalo.rodriguez.29@empresa.com.ar,06-06-26,Garantia,
+T00445, 41528997 ,Juan Silva,JUAN.SILVA.0@EMPRESA.COM.AR,25/03/2025,Facturacion,5
+T00446,20-597-611,JUAN FLORES,,19-01-25,Facturacion,3
+T00447,,Juan Flores,JUAN.FLORES.26@OUTLOOK.COM,05-08-25,Consulta,4
+T00448,40.946.489,Federico Gomez,federico.gomez.43@hotmail.com,06-03-26,Cambio,N/A
+T00449,49-071-642,Natalia Castro,natalia.castro.42@gmail.com,13/06/2025,Consulta,
+T00450,,Juan Andrés Acosta,juan.andres.acosta.59@hotmail.com,23-06-25,Consulta,3
+T00451,31214943,Juan Andres Acosta, juan.andres.acosta.59@hotmail.com ,29-03-25,Cambio,N/A
+T00452,37-231-199,LAURA MOLINA,laura.molina.7@gmail.com,21/05/2025,Entrega,5
+T00453,,Paula Rodríguez,paula.rodriguez.8@empresa.com.ar,15-01-26,Entrega,5
+T00454,47-537-865,PAULA RODRIGUEZ,PAULA.RODRIGUEZ.8@EMPRESA.COM.AR,06/03/2026,Cambio,2
+T00455, 47537865 ,Paula Rodríguez,paula.rodriguez.8@empresa.com.ar,2026-01-08,Cambio,1
+T00456,46187700,Tomas M. Lopez,tomas.matias.lopez.11@empresa.com.ar,17/12/2025,Entrega,N/A
+T00457, 46187700 ,Tomás Matías López,tomasmatiaslopez11@empresa.com.ar,2025-04-06,Facturacion,4
+T00458,,Tomas Matias Lopez,TOMAS.MATIAS.LOPEZ.11@EMPRESA.COM.AR,15/03/2026,Facturacion,
+T00459,43-384-744,Andrés Torres,ANDRES.TORRES.0@HOTMAIL.COM,09-03-26,Entrega,2
+T00460,43-384-744,Andrés Torres,ANDRES.TORRES.0@HOTMAIL.COM,21/03/2025,Consulta,3
+T00461, 43384744 ,Andrés Torres,ANDRES.TORRES.0@HOTMAIL.COM,05/12/2025,Facturacion,5
+T00462,48328109,Florencia Ortiz,FLORENCIA.ORTIZ.83@HOTMAIL.COM,2025-10-28,Cambio,3
+T00463, 48328109 ,Florencia Ortiz, florencia.ortiz.83@hotmail.com ,26/12/2025,Facturacion,N/A
+T00464,48.328.109,Florencia Ortiz,FLORENCIA.ORTIZ.83@HOTMAIL.COM,22/09/2025,Facturacion,5
+T00465,36.287.184,Rocio Rodriguez,ROCIO.RODRIGUEZ.39@HOTMAIL.COM,19-05-26,Facturacion,5
+T00466,36.287.184,Rocio Rodriguez,rocio.rodriguez.39@hotmail.com,15-04-26,Consulta,5
+T00467,44.753.798,Natalia Rocio Castro, natalia.rocio.castro.20@gmail.com ,13-05-26,Garantia,
+T00468,44753798,Natalia R. Castro,natalia.rocio.castro.20@gmail.com,2025-03-14,Consulta,
+T00469, 41766774 ,MARTIN DIAZ, martin.diaz.6@gmail.com ,06/07/2025,Cambio,4
+T00470,42.677.644,Micaela F. Silva,micaela.franco.silva.87@gmail.com,2025-10-09,Cambio,2
+T00471,40-333-100,GONZALO BENITEZ,gonzalo.benitez.63@outlook.com,2025-03-27,Entrega,3
+T00472,36339860,Matias Perez, matias.perez.91@empresa.com.ar ,2025-11-30,Cambio,4
+T00473,36.339.860,Matías Pérez, matias.perez.91@empresa.com.ar ,25/01/2026,Consulta,5
+T00474,42-304-016,Nicolas Silva,,26-12-25,Facturacion,4
+T00475,42304016,NICOLAS SILVA,nicolas.silva.22@outlook.com,25/05/2026,Facturacion,N/A
+T00476, 20655052 ,Carolina Gomez, carolina.gomez.7@empresa.com.ar ,17-09-25,Garantia,1
+T00477,20-655-052,Carolina Gomez, carolina.gomez.7@empresa.com.ar ,02-08-26,Facturacion,1
+T00478,,Camila Fernandez, camila.fernandez.61@empresa.com.ar ,2026-06-21,Garantia,N/A
+T00479, 36184645 ,Camila Fernández,camilafernandez61@empresa.com.ar,2025-08-07,Facturacion,3
+T00480,,Franco Flores,,2025-04-28,Facturacion,3
+T00481, 30165626 ,Franco Flores, franco.flores.88@gmail.com ,02/11/2025,Entrega,4
+T00482,30165626,Franco Flores, franco.flores.88@gmail.com ,24-03-26,Facturacion,1
+T00483,26.418.539,Florencia Perez,,15/04/2026,Consulta,N/A
+T00484,26-418-539,Florencia Perez,florencia.perez.60@outlook.com,2026-05-25,Entrega,N/A
+T00485,28714365,Lucia Martinez,lucia.martinez.36@empresa.com.ar,20-06-26,Cambio,2
+T00486,41.859.258,Micaela Diaz,MICAELA.DIAZ.62@EMPRESA.COM.AR,2025-12-12,Garantia,
+T00487,41.859.258,Micaela Diaz,MICAELA.DIAZ.62@EMPRESA.COM.AR,24-06-26,Entrega,1
+T00488,,Sebastian Rocio Rodriguez, sebastian.rocio.rodriguez.91@outlook.com ,2025-07-31,Entrega,N/A
+T00489, 28146609 ,Sebastian R. Rodriguez, sebastian.rocio.rodriguez.91@outlook.com ,14-01-26,Consulta,1
+T00490,45399464,Gonzalo Romero, gonzalo.romero.53@gmail.com ,2025-08-04,Cambio,N/A
+T00491, 45399464 ,GONZALO ROMERO,gonzalo.romero.53@gmail.com,18/07/2025,Cambio,4
+T00492,36-439-064,Julieta Acosta,julieta.acosta.11@outlook.com,2025-03-03,Facturacion,2
+T00493,36439064,Julieta Acosta, julieta.acosta.11@outlook.com ,27/05/2025,Cambio,N/A
+T00494,38.390.124,Maria Ortiz,maria.ortiz.21@outlook.com,2025-08-20,Garantia,3
+T00495, 42645423 ,Paula Suarez,PAULA.SUAREZ.46@HOTMAIL.COM,15/07/2025,Cambio,3
+T00496,42.645.423,Paula Suárez,paula.suarez.46@hotmail.com,01/06/2025,Facturacion,3
+T00497,32.605.884,Valentina Alvarez,valentina.alvarez.4@empresa.com.ar,07/07/2026,Facturacion,3
+T00498,25342306,Florencia M. Silva,,31/12/2025,Cambio,
+T00499, 25342306 ,Florencia Maria Silva, florencia.maria.silva.27@gmail.com ,29/08/2025,Consulta,N/A
+T00500, 25342306 ,Florencia Silva, florencia.maria.silva.27@gmail.com ,02-10-25,Cambio,N/A
+T00501,48939160,Matias Alvarez, matias.alvarez.25@hotmail.com ,25/04/2026,Cambio,5
+T00502,49.353.599,MICAELA LOPEZ,micaela.lopez.66@hotmail.com,2026-08-16,Garantia,
+T00503,29-726-897,Micaela J. Fernandez,MICAELA.JULIETA.FERNANDEZ.63@OUTLOOK.COM,2026-02-24,Cambio,5
+T00504,,Micaela Julieta Fernández,,2025-12-09,Garantia,2
+T00505,,CARLOS PEREZ,CARLOS.PEREZ.13@GMAIL.COM,07/08/2025,Cambio,N/A
+T00506,,Carlos Perez,CARLOS.PEREZ.13@GMAIL.COM,08-02-25,Cambio,N/A
+T00507,32-859-350,Carlos Perez,carlos.perez.13@gmail.com,2025-08-14,Garantia,N/A
+T00508,20.084.930,CAROLINA ROJAS,CAROLINA.ROJAS.43@OUTLOOK.COM,03/08/2025,Entrega,N/A
+T00509,20.084.930,Carolina Rojas,carolina.rojas.43@outlook.com,2025-08-29,Garantia,4
+T00510,21.724.284,MARTIN FERNANDEZ,martin.fernandez.75@empresa.com.ar,23-04-25,Consulta,1
+T00511,30.204.305,Andres Navarro, andres.navarro.27@outlook.com ,2026-05-07,Consulta,
+T00512,30-204-305,ANDRES NAVARRO,andresnavarro27@outlook.com,25-06-25,Cambio,1
+T00513,,Maria Andres Romero, maria.andres.romero.57@hotmail.com ,19/02/2026,Facturacion,1
+T00514,40.854.800,Maria A. Romero, maria.andres.romero.57@hotmail.com ,17-02-25,Entrega,2
+T00515,40-854-800,Maria A. Romero,MARIA.ANDRES.ROMERO.57@HOTMAIL.COM,13/01/2026,Entrega,N/A
+T00516,39-132-977,Valentina Acosta,valentinaacosta65@hotmail.com,13-01-26,Consulta,
+T00517,39.132.977,Valentina Acosta,VALENTINA.ACOSTA.65@HOTMAIL.COM,14/07/2025,Consulta,
+T00518, 39132977 ,Valentina Acosta,valentina.acosta.65@hotmail.com,10/06/2026,Consulta,
+T00519,22799665,Leandro Juan Perez,LEANDRO.JUAN.PEREZ.84@EMPRESA.COM.AR,28/05/2026,Garantia,5
+T00520,22-799-665,LEANDRO JUAN PEREZ,,29/07/2026,Cambio,3
+T00521,22799665,Leandro Juan Pérez, leandro.juan.perez.84@empresa.com.ar ,17-04-25,Consulta,3
+T00522, 29272848 ,FRANCO MARTINEZ,franco.martinez.22@outlook.com,2025-08-23,Facturacion,4
+T00523, 29272848 ,Franco Martinez,FRANCO.MARTINEZ.22@OUTLOOK.COM,02/07/2026,Consulta,N/A
+T00524,34.373.604,Andres Sanchez,andres.sanchez.71@gmail.com,2026-05-05,Entrega,1
+T00525,34.373.604,ANDRES SANCHEZ,ANDRES.SANCHEZ.71@GMAIL.COM,26-10-25,Entrega,5
+T00526,30-530-215,MICAELA GOMEZ, micaela.gomez.46@hotmail.com ,2025-09-14,Garantia,5
+T00527,35.457.714,Maria Ramirez,maria.ramirez.50@outlook.com,05-02-25,Consulta,4
+T00528,35.457.714,Maria Ramirez, maria.ramirez.50@outlook.com ,11/02/2025,Garantia,3
+T00529,35.457.714,MARIA RAMIREZ,MARIA.RAMIREZ.50@OUTLOOK.COM,08-04-25,Cambio,2
+T00530,29.710.829,Julieta López,JULIETA.LOPEZ.96@HOTMAIL.COM,2025-02-26,Cambio,5
+T00531,,Julieta Lopez, julieta.lopez.96@hotmail.com ,22-06-25,Cambio,2
+T00532,,JULIETA LOPEZ,julieta.lopez.96@hotmail.com,2026-06-17,Facturacion,4
+T00533, 20745050 ,Nicolas Martin Alvarez, nicolas.martin.alvarez.55@gmail.com ,14-08-26,Garantia,N/A
+T00534,45.174.168,Gonzalo Acosta,gonzalo.acosta.77@outlook.com,2025-06-07,Garantia,N/A
+T00535,,Gonzalo Acosta,gonzalo.acosta.77@outlook.com,2025-12-27,Entrega,2
+T00536,28241469,Carolina Navarro,CAROLINA.NAVARRO.40@GMAIL.COM,29-09-25,Cambio,3
+T00537,28-241-469,Carolina Navarro,carolina.navarro.40@gmail.com,25-04-26,Entrega,1
+T00538,31979558,Carlos Benitez,CARLOS.NICOLAS.BENITEZ.71@OUTLOOK.COM,22/07/2026,Cambio,2
+T00539, 33941302 ,Leandro Torres,LEANDRO.TORRES.67@EMPRESA.COM.AR,21/11/2025,Facturacion,1
+T00540,33.941.302,LEANDRO TORRES,leandro.torres.67@empresa.com.ar,30/07/2026,Consulta,2
+T00541,43780736,Tomas Andres Castro, tomas.andres.castro.35@hotmail.com ,2026-06-13,Entrega,2
+T00542,25978394,Florencia Valentina Gomez, florencia.valentina.gomez.22@hotmail.com ,18-09-25,Cambio,4
+T00543, 47883185 ,VALENTINA RAMIREZ, valentina.ramirez.65@empresa.com.ar ,10-03-25,Facturacion,1
+T00544,47-883-185,Valentina Ramírez,,11/02/2025,Cambio,5
+T00545,37-730-682,Daniela Ramirez,DANIELA.RAMIREZ.50@OUTLOOK.COM,2025-11-17,Consulta,2
+T00546, 37730682 ,Daniela Ramirez,daniela.ramirez.50@outlook.com,2025-07-29,Garantia,N/A
+T00547, 31845329 ,Maria Andres Diaz, maria.andres.diaz.25@empresa.com.ar ,2026-03-24,Garantia,3
+T00548,31.845.329,María Andrés Díaz,maria.andres.diaz.25@empresa.com.ar,2025-06-06,Facturacion,2
+T00549, 32359987 ,Leandro Ruiz, leandro.ruiz.92@empresa.com.ar ,2025-07-14,Entrega,2
+T00550, 32359987 ,Leandro Ruiz,leandroruiz92@empresa.com.ar,2025-03-02,Facturacion,2
+T00551,32.359.987,Leandro Ruiz,LEANDRO.RUIZ.92@EMPRESA.COM.AR,20-03-25,Facturacion,4
+T00552, 46014144 ,Natalia Perez,NATALIA.PEREZ.88@HOTMAIL.COM,23-04-25,Facturacion,N/A
+T00553,,NATALIA PEREZ,NATALIA.PEREZ.88@HOTMAIL.COM,12/05/2026,Entrega,1
+T00554,46-014-144,Natalia Perez, natalia.perez.88@hotmail.com ,30-06-26,Garantia,
+T00555,26-097-663,Franco Martínez,franco.martinez.4@gmail.com,23/03/2026,Facturacion,5
+T00556,26-097-663,FRANCO MARTINEZ, franco.martinez.4@gmail.com ,2026-08-19,Consulta,4
+T00557,45-811-099,MICAELA LAURA TORRES,MICAELA.LAURA.TORRES.7@OUTLOOK.COM,17/08/2026,Facturacion,3
+T00558, 45811099 ,Micaela Laura Torres,MICAELA.LAURA.TORRES.7@OUTLOOK.COM,16/11/2025,Cambio,5
+T00559, 45811099 ,Micaela Laura Torres,micaelalauratorres7@outlook.com,02/01/2025,Facturacion,1
+T00560, 47941422 ,Juan Sanchez, juan.sanchez.91@outlook.com ,07/05/2025,Cambio,
+T00561,,Juan Sanchez,JUAN.SANCHEZ.91@OUTLOOK.COM,18-01-26,Garantia,4
+T00562, 47941422 ,Juan Sanchez, juan.sanchez.91@outlook.com ,09/09/2025,Cambio,3
+T00563,44.974.623,Natalia Romero,NATALIA.ROMERO.12@EMPRESA.COM.AR,14-01-26,Consulta,1
+T00564,44.974.623,Natalia Romero, natalia.romero.12@empresa.com.ar ,05-03-25,Entrega,5
+T00565,29.800.583,Diego S. Castro,diego.sebastian.castro.4@hotmail.com,2025-07-09,Consulta,
+T00566, 38686347 ,Sofia Perez,sofia.perez.92@gmail.com,2025-05-25,Cambio,5

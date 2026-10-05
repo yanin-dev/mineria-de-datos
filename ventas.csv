@@ -1,0 +1,1627 @@
+﻿venta_id,documento_cliente,cliente,correo,fecha_compra,monto,moneda,canal,cantidad_items
+V000001,30387900,Pablo Flores,PABLO.PAULA.FLORES.85@HOTMAIL.COM,2025-07-24,64359.88,ARS,App,2
+V000002,30.387.900,Pablo Flores,pablo.paula.flores.85@hotmail.com,09-03-24,111979.68,ARS,App,5
+V000003,30-387-900,Pablo Paula Flores,pablo.paula.flores.85@hotmail.com,18/08/2024,16398.76,ARS,Web,2
+V000004, 30387900 ,Pablo Paula Flores,pablopaulaflores85@hotmail.com,10/05/2025,13055.74,ARS,Marketplace,2
+V000005,27-131-486,Micaela Martinez, micaela.martinez.28@empresa.com.ar ,03/08/2025,13676.59,ARS,App,3
+V000006,27.131.486,Micaela Martinez, micaela.martinez.28@empresa.com.ar ,2025-08-11,23382.97,ARS,App,1
+V000007,31979558,Carlos N. Benitez, carlos.nicolas.benitez.71@outlook.com ,2024-03-10,50659.51,ARS,App,1
+V000008, 31979558 ,Carlos Benitez,carlos.nicolas.benitez.71@outlook.com,04/03/2024,27800.52,ARS,App,2
+V000009,31979558,CARLOS NICOLAS BENITEZ, carlos.nicolas.benitez.71@outlook.com ,05-05-26,10761.04,ARS,Tienda,3
+V000010, 31979558 ,CARLOS NICOLAS BENITEZ,carlosnicolasbenitez71@outlook.com,2025-07-16,88333.63,ARS,App,2
+V000011,31.979.558,Carlos N. Benitez,carlos.nicolas.benitez.71@outlook.com,07/05/2025,37124.28,ARS,Web,2
+V000012, 20597611 ,JUAN FLORES,JUAN.FLORES.26@OUTLOOK.COM,2024-04-03,10757.84,ARS,Web,1
+V000013, 20597611 ,Juan Flores,juan.flores.26@outlook.com,2025-10-18,69356.32,ARS,App,2
+V000014,20597611,Juan Flores,JUAN.FLORES.26@OUTLOOK.COM,25-07-26,22630.36,ARS,Marketplace,3
+V000015,20.597.611,JUAN FLORES,juanflores26@outlook.com,05/03/2025,14367.49,ARS,App,2
+V000016,20.597.611,Juan Flores,juan.flores.26@outlook.com,2024-11-28,13420.88,ARS,App,1
+V000017,33849345,Rocio Pablo Diaz, rocio.pablo.diaz.67@hotmail.com ,05/01/2026,45804.04,ARS,Marketplace,2
+V000018, 33849345 ,Rocio Pablo Diaz,rocio.pablo.diaz.67@hotmail.com,02/03/2026,21169.14,ARS,App,2
+V000019, 33849345 ,Rocio Pablo Diaz, rocio.pablo.diaz.67@hotmail.com ,30/12/2024,88589.8,ARS,Web,2
+V000020,33.849.345,Rocio P. Diaz,ROCIO.PABLO.DIAZ.67@HOTMAIL.COM,03/01/2025,37925.03,ARS,App,6
+V000021,33.849.345,ROCIO PABLO DIAZ,ROCIO.PABLO.DIAZ.67@HOTMAIL.COM,16/04/2024,16831.69,ARS,Tienda,1
+V000022,33849345,Rocio Pablo Diaz, rocio.pablo.diaz.67@hotmail.com ,2024-12-24,8663.34,ARS,App,3
+V000023, 32874715 ,ROCIO SOFIA ACOSTA, rocio.sofia.acosta.60@hotmail.com ,09/02/2025,14101.06,ARS,Web,1
+V000024,32.874.715,Rocio S. Acosta, rocio.sofia.acosta.60@hotmail.com ,2024-08-01,9112.68,ARS,App,3
+V000025,,ROCIO SOFIA ACOSTA,ROCIO.SOFIA.ACOSTA.60@HOTMAIL.COM,2025-09-14,43941.37,ARS,Tienda,1
+V000026,46.369.729,Sebastián Gómez,,27/05/2025,59300.84,ARS,Tienda,1
+V000027,46.369.729,Sebastian Gomez,SEBASTIAN.GOMEZ.89@OUTLOOK.COM,21-06-25,13823.15,ARS,Web,1
+V000028,46.369.729,Sebastian Gomez,,04-10-25,24840.71,ARS,Web,4
+V000029, 46369729 ,Sebastián Gómez,sebastian.gomez.89@outlook.com,22-07-25,57118.36,ARS,Tienda,3
+V000030,46.369.729,Sebastián Gómez,SEBASTIAN.GOMEZ.89@OUTLOOK.COM,26/09/2024,29025.51,ARS,Tienda,2
+V000031,,Sebastián Gómez, sebastian.gomez.89@outlook.com ,02-03-26,15616.77,ARS,App,4
+V000032,46-369-729,Sebastian Gomez,sebastiangomez89@outlook.com,12/02/2024,57282.67,ARS,Marketplace,1
+V000033,46369729,Sebastian Gomez,sebastian.gomez.89@outlook.com,2026-05-19,56236.92,ARS,App,3
+V000034,46369729,Sebastian Gomez,sebastian.gomez.89@outlook.com,07/02/2024,26134.32,ARS,App,3
+V000035,29.261.852,Paula Castro,PAULA.CASTRO.45@GMAIL.COM,2025-07-31,15746.65,ARS,Tienda,2
+V000036,,Paula Castro, paula.castro.45@gmail.com ,2024-04-22,52300.15,ARS,App,3
+V000037,,Paula Castro,PAULA.CASTRO.45@GMAIL.COM,2025-04-13,76720.01,ARS,Marketplace,2
+V000038, 44763264 ,Diego Castro, diego.castro.2@hotmail.com ,04/09/2025,8855.15,ARS,Web,2
+V000039,44.763.264,Diego Castro,DIEGO.CASTRO.2@HOTMAIL.COM,2025-08-31,31652.75,ARS,Marketplace,5
+V000040,44.763.264,Diego Castro, diego.castro.2@hotmail.com ,19-06-24,20330.58,ARS,App,1
+V000041,44.763.264,Diego Castro,diego.castro.2@hotmail.com,16/11/2024,27596.2,ARS,App,1
+V000042,30.870.176,CAROLINA FERNANDEZ,CAROLINA.FERNANDEZ.74@GMAIL.COM,2024-12-31,35841.85,ARS,Marketplace,1
+V000043, 30870176 ,Carolina Fernandez,,2026-02-16,27773.12,ARS,App,1
+V000044, 30870176 ,Carolina Fernandez,CAROLINA.FERNANDEZ.74@GMAIL.COM,2025-06-17,4420.35,ARS,App,3
+V000045, 30870176 ,CAROLINA FERNANDEZ,,2025-07-13,19041.1,ARS,App,2
+V000046,,JULIETA RODRIGUEZ, julieta.rodriguez.21@gmail.com ,02-06-25,332726.91,ARS,App,3
+V000047,42-995-931,Julieta Rodríguez, julieta.rodriguez.21@gmail.com ,26/09/2025,40076.66,ARS,Web,5
+V000048,42995931,Julieta Rodriguez, julieta.rodriguez.21@gmail.com ,2024-01-31,399876.28,ARS,Tienda,2
+V000049,23.535.325,Laura Ramírez,laura.ramirez.12@gmail.com,30/11/2024,56642.4,ARS,App,2
+V000050, 23535325 ,Laura Ramirez,laura.ramirez.12@gmail.com,27/12/2025,59565.99,ARS,App,2
+V000051,23535325,Laura Ramirez,LAURA.RAMIREZ.12@GMAIL.COM,2024-12-08,38437.85,ARS,App,2
+V000052,23.535.325,Laura Ramirez, laura.ramirez.12@gmail.com ,06-07-25,118.91,USD,Tienda,6
+V000053, 23535325 ,Laura Ramirez,laura.ramirez.12@gmail.com,2025-09-27,74070.39,ARS,Web,2
+V000054,23.535.325,Laura Ramirez, laura.ramirez.12@gmail.com ,2024-10-15,138389.21,ARS,Marketplace,1
+V000055,35192299,Rocio Perez, rocio.natalia.perez.6@outlook.com ,07/04/2026,33329.48,ARS,Tienda,2
+V000056,35192299,Rocio Natalia Perez, rocio.natalia.perez.6@outlook.com ,13/01/2025,62547.1,ARS,Tienda,5
+V000057,35-192-299,Rocio Natalia Perez,rocio.natalia.perez.6@outlook.com,2025-11-22,59592.76,ARS,Web,3
+V000058,28-714-365,LUCIA MARTINEZ,lucia.martinez.36@empresa.com.ar,2025-10-12,31708.53,ARS,App,1
+V000059,28-714-365,Lucía Martínez,LUCIA.MARTINEZ.36@EMPRESA.COM.AR,20-04-25,59238.92,ARS,Tienda,3
+V000060,,LUCIA MARTINEZ,lucia.martinez.36@empresa.com.ar,18-04-26,380512.92,ARS,App,2
+V000061,33526647,Leandro Lopez,LEANDRO.LOPEZ.6@HOTMAIL.COM,2025-08-12,21951.48,ARS,Tienda,1
+V000062,33-526-647,Leandro Lopez,,17-03-25,31031.64,ARS,Tienda,4
+V000063,46-370-538,Natalia Molina, natalia.molina.47@hotmail.com ,01/06/2026,11376.19,ARS,Web,6
+V000064,46-370-538,Natalia Molina, natalia.molina.47@hotmail.com ,2025-09-20,18516.9,ARS,Tienda,5
+V000065, 46370538 ,Natalia Molina, natalia.molina.47@hotmail.com ,19/04/2024,10922.53,ARS,Tienda,4
+V000066,46.370.538,Natalia Molina,natalia.molina.47@hotmail.com,2025-03-25,24072.84,ARS,Marketplace,1
+V000067,46-370-538,Natalia Molina,NATALIA.MOLINA.47@HOTMAIL.COM,21/03/2024,32915.67,ARS,App,1
+V000068,23-347-404,Rocío Pérez,ROCIO.PEREZ.86@HOTMAIL.COM,04/04/2024,16421.83,ARS,Tienda,4
+V000069,23347404,ROCIO PEREZ, rocio.perez.86@hotmail.com ,14/06/2025,45125.02,ARS,App,1
+V000070, 23347404 ,Rocio Perez,ROCIO.PEREZ.86@HOTMAIL.COM,2026-06-11,14661.16,ARS,App,3
+V000071,46-449-403,DANIELA FLORES,daniela.flores.74@hotmail.com,2024-02-12,111923.08,ARS,App,1
+V000072,46-449-403,Daniela Flores,DANIELA.FLORES.74@HOTMAIL.COM,2025-07-27,99414.64,ARS,Marketplace,4
+V000073, 46449403 ,Daniela Flores,daniela.flores.74@hotmail.com,03/03/2024,140193.55,ARS,Marketplace,1
+V000074,46.449.403,Daniela Flores,daniela.flores.74@hotmail.com,2024-12-14,236152.2,ARS,Marketplace,4
+V000075,,Valentina Lopez,VALENTINA.LOPEZ.62@EMPRESA.COM.AR,20/02/2024,56188.61,ARS,Web,1
+V000076,27-491-739,Valentina Lopez,VALENTINA.LOPEZ.62@EMPRESA.COM.AR,2024-12-17,24651.95,ARS,Web,2
+V000077,27.491.739,Valentina Lopez,valentina.lopez.62@empresa.com.ar,19/02/2024,33888.89,ARS,Web,2
+V000078, 27491739 ,Valentina Lopez,VALENTINA.LOPEZ.62@EMPRESA.COM.AR,13/02/2026,25515.29,ARS,Web,2
+V000079, 23159543 ,Tomas Castro,TOMAS.CASTRO.62@OUTLOOK.COM,16/03/2024,23469.18,ARS,Web,2
+V000080, 23159543 ,Tomás Castro,TOMAS.CASTRO.62@OUTLOOK.COM,2025-05-31,67884.33,ARS,App,4
+V000081,23-159-543,Tomas Castro,tomas.castro.62@outlook.com,24/07/2026,20557.87,ARS,App,5
+V000082,23.159.543,TOMAS CASTRO, tomas.castro.62@outlook.com ,2025-02-14,16137.29,ARS,Tienda,1
+V000083,36.685.733,Julieta Romero,julieta.romero.61@gmail.com,02-07-26,10066.91,ARS,Tienda,2
+V000084,36.685.733,JULIETA ROMERO,JULIETA.ROMERO.61@GMAIL.COM,20/05/2025,26573.89,ARS,Marketplace,2
+V000085,36.685.733,Julieta Romero,julieta.romero.61@gmail.com,2025-12-22,38176.74,ARS,Web,2
+V000086,42-304-016,Nicolás Silva,NICOLAS.SILVA.22@OUTLOOK.COM,03/05/2024,35161.59,ARS,Marketplace,3
+V000087, 42304016 ,Nicolas Silva,nicolassilva22@outlook.com,17-11-25,51098.76,ARS,Web,1
+V000088,42-304-016,Nicolás Silva,,24/10/2025,47192.08,ARS,Web,3
+V000089,46-014-144,Natalia Perez,NATALIA.PEREZ.88@HOTMAIL.COM,20-10-25,11291.42,ARS,App,3
+V000090,49-924-653,Paula Julieta Rodríguez, paula.julieta.rodriguez.42@gmail.com ,13/12/2025,35017.01,ARS,Web,3
+V000091, 49924653 ,Paula Julieta Rodríguez, paula.julieta.rodriguez.42@gmail.com ,09-09-25,11100.91,ARS,Web,1
+V000092,49924653,Paula Julieta Rodriguez,PAULA.JULIETA.RODRIGUEZ.42@GMAIL.COM,16/05/2024,8804.25,ARS,Tienda,2
+V000093,34-744-180,Valentina Sanchez,VALENTINA.SANCHEZ.31@HOTMAIL.COM,17-12-24,26075.94,ARS,Web,4
+V000094,34744180,VALENTINA SANCHEZ,valentina.sanchez.31@hotmail.com,2024-07-10,32849.42,ARS,Marketplace,2
+V000095,38811809,Leandro Navarro, leandro.navarro.95@empresa.com.ar ,2026-02-17,26075.64,ARS,Tienda,2
+V000096,38811809,Leandro Navarro,LEANDRO.NAVARRO.95@EMPRESA.COM.AR,2026-05-10,20073.15,ARS,Tienda,1
+V000097,38-811-809,Leandro Navarro,leandro.navarro.95@empresa.com.ar,15-02-25,15726.41,ARS,Marketplace,4
+V000098,48.939.160,Matias Alvarez,matias.alvarez.25@hotmail.com,2024-01-26,13275.2,ARS,Web,3
+V000099,48-939-160,Matias Alvarez,matias.alvarez.25@hotmail.com,17-11-24,14454.82,ARS,Web,1
+V000100, 48939160 ,Matias Alvarez,matiasalvarez25@hotmail.com,09-08-24,100293.75,ARS,Web,3
+V000101,48-939-160,Matias Alvarez,MATIAS.ALVAREZ.25@HOTMAIL.COM,18/01/2024,23110.56,ARS,Marketplace,1
+V000102,48-939-160,Matías Álvarez, matias.alvarez.25@hotmail.com ,2025-01-12,29695.99,ARS,App,2
+V000103,48.939.160,Matias Alvarez,MATIAS.ALVAREZ.25@HOTMAIL.COM,24-02-24,41261.54,ARS,Tienda,1
+V000104, 45613818 ,Gonzalo Álvarez, gonzalo.alvarez.47@outlook.com ,18/03/2026,10523.58,ARS,Tienda,2
+V000105,45.613.818,GONZALO ALVAREZ,gonzalo.alvarez.47@outlook.com,2024-08-05,25391.46,ARS,App,1
+V000106,45-613-818,Gonzalo Alvarez, gonzalo.alvarez.47@outlook.com ,10/04/2024,29854.65,ARS,Marketplace,1
+V000107,45.613.818,Gonzalo Alvarez, gonzalo.alvarez.47@outlook.com ,10/06/2025,37932.25,ARS,Web,4
+V000108, 45089737 ,Juan Alvarez,juan.alvarez.26@outlook.com,20/09/2024,72344.93,ARS,App,1
+V000109, 45089737 ,Juan Alvarez,juan.alvarez.26@outlook.com,19/01/2026,28313.45,ARS,Web,1
+V000110,45-089-737,JUAN ALVAREZ,juanalvarez26@outlook.com,2025-03-03,62054.06,ARS,Marketplace,2
+V000111,40-836-181,DANIELA ACOSTA, daniela.acosta.16@empresa.com.ar ,15-08-26,26298.72,ARS,Marketplace,4
+V000112,30530215,Micaela Gómez,MICAELA.GOMEZ.46@HOTMAIL.COM,25/10/2025,27557.8,ARS,Web,2
+V000113,40-088-903,Martín Torres, martin.torres.49@hotmail.com ,03-02-25,8285.53,ARS,Web,2
+V000114, 40088903 ,Martin Torres,,09/02/2026,18488.59,ARS,Web,3
+V000115,40088903,Martín Torres, martin.torres.49@hotmail.com ,2024-02-27,8746.13,ARS,Marketplace,2
+V000116,37-626-427,Carlos Suarez,carlos.suarez.91@gmail.com,31/07/2025,47259.24,ARS,Tienda,3
+V000117,37-626-427,CARLOS SUAREZ,carlos.suarez.91@gmail.com,19/03/2025,66899.6,ARS,Web,1
+V000118,,Carlos Suárez,CARLOS.SUAREZ.91@GMAIL.COM,05-04-25,53802.37,ARS,Web,2
+V000119,37626427,Carlos Suarez,carlos.suarez.91@gmail.com,17/06/2025,34958.67,ARS,App,4
+V000120,37.626.427,CARLOS SUAREZ,,31-12-24,30617.93,ARS,Marketplace,2
+V000121,37626427,Carlos Suarez,CARLOS.SUAREZ.91@GMAIL.COM,15-06-24,144380.9,ARS,Web,5
+V000122,37167854,Pablo Rojas, pablo.rojas.78@empresa.com.ar ,04-03-25,17713.77,ARS,Tienda,1
+V000123,34569245,Lucia Acosta,luciaacosta50@hotmail.com,03/11/2025,13734.05,ARS,Tienda,2
+V000124,,Lucía Acosta,LUCIA.ACOSTA.50@HOTMAIL.COM,12-07-25,61856.69,ARS,App,4
+V000125,44.205.028,CAMILA PEREZ,camila.perez.30@gmail.com,10/07/2026,37512.63,ARS,Tienda,3
+V000126,44.205.028,Camila Perez,camilaperez30@gmail.com,27-06-25,25226.31,ARS,Tienda,1
+V000127, 33606535 ,Nicolas Alvarez, nicolas.pablo.alvarez.82@hotmail.com ,2024-12-06,15079.26,ARS,Tienda,3
+V000128, 33606535 ,Nicolas Pablo Alvarez,NICOLAS.PABLO.ALVAREZ.82@HOTMAIL.COM,17/03/2026,49770.83,ARS,Web,2
+V000129,33-606-535,Nicolás Pablo Álvarez,nicolas.pablo.alvarez.82@hotmail.com,2026-06-06,22178.66,ARS,Marketplace,1
+V000130, 33606535 ,Nicolas Alvarez,NICOLAS.PABLO.ALVAREZ.82@HOTMAIL.COM,21-02-26,14599.35,ARS,App,1
+V000131, 33606535 ,Nicolas Pablo Alvarez, nicolas.pablo.alvarez.82@hotmail.com ,23/07/2025,22171.23,ARS,Web,1
+V000132, 33606535 ,Nicolas Alvarez,nicolas.pablo.alvarez.82@hotmail.com,2026-06-27,8293.39,ARS,App,1
+V000133,33-606-535,Nicolas P. Alvarez,NICOLAS.PABLO.ALVAREZ.82@HOTMAIL.COM,23-10-24,15659.46,ARS,Tienda,1
+V000134, 46881748 ,MICAELA CARLOS ORTIZ, micaela.carlos.ortiz.94@empresa.com.ar ,22-01-26,26288.46,ARS,App,1
+V000135,46-881-748,Micaela Carlos Ortiz,micaelacarlosortiz94@empresa.com.ar,03-01-24,105330.21,ARS,Tienda,2
+V000136,47-496-897,PABLO SUAREZ, pablo.suarez.21@hotmail.com ,02/01/2026,134064.59,ARS,Web,4
+V000137,47496897,Pablo Suarez, pablo.suarez.21@hotmail.com ,23/03/2025,112075.93,ARS,Marketplace,2
+V000138,47-496-897,Pablo Suarez, pablo.suarez.21@hotmail.com ,2025-10-06,21725.36,ARS,Web,3
+V000139,47-496-897,Pablo Suárez,pablo.suarez.21@hotmail.com,09/09/2024,13533.54,ARS,Tienda,3
+V000140,,Daniela Acosta,daniela.acosta.19@outlook.com,2024-06-05,18701.61,ARS,App,3
+V000141, 33654801 ,Daniela Acosta, daniela.acosta.19@outlook.com ,22-05-24,46292.6,ARS,Tienda,5
+V000142, 33654801 ,Daniela Acosta,,06-07-25,4332.41,ARS,Tienda,3
+V000143,33-654-801,Daniela Acosta,,30/04/2024,18030.42,ARS,Tienda,2
+V000144,35173085,Juan Ortiz, juan.ortiz.87@outlook.com ,2026-04-17,49820.3,ARS,Tienda,3
+V000145,35173085,Juan Ortiz,juan.ortiz.87@outlook.com,02/02/2024,25943.24,ARS,Tienda,3
+V000146,35173085,Juan Ortiz,,2025-03-18,24688.84,ARS,Web,1
+V000147,35173085,Juan Ortiz,juan.ortiz.87@outlook.com,2025-06-14,12880.94,ARS,App,2
+V000148,35173085,Juan Ortiz,juan.ortiz.87@outlook.com,2025-06-18,58976.98,ARS,App,1
+V000149,35173085,Juan Ortiz,juan.ortiz.87@outlook.com,16/04/2025,20816.0,ARS,Web,2
+V000150,35173085,Juan Ortiz,juan.ortiz.87@outlook.com,25/02/2025,42578.34,ARS,Web,2
+V000151, 34538334 ,Micaela Molina,micaelamolina69@gmail.com,2024-05-30,14122.23,ARS,Tienda,1
+V000152,39385527,Juan Andres Diaz, juan.andres.diaz.9@empresa.com.ar ,04-06-26,13656.94,ARS,Tienda,1
+V000153,39.385.527,Juan A. Diaz,JUAN.ANDRES.DIAZ.9@EMPRESA.COM.AR,2026-01-02,17217.96,ARS,App,4
+V000154,34373604,ANDRES SANCHEZ,,10/08/2026,91097.61,ARS,Marketplace,2
+V000155, 34373604 ,Andres Sanchez, andres.sanchez.71@gmail.com ,19-02-24,96580.82,ARS,Tienda,3
+V000156, 34373604 ,ANDRES SANCHEZ, andres.sanchez.71@gmail.com ,28/02/2025,79629.34,ARS,Marketplace,1
+V000157, 34373604 ,Andres Sanchez,,25-12-25,14510.12,ARS,App,3
+V000158,23-547-324,Martin Rodriguez, martin.rodriguez.3@hotmail.com ,28-04-26,51496.68,ARS,Web,1
+V000159, 23547324 ,Martín Rodríguez,MARTIN.RODRIGUEZ.3@HOTMAIL.COM,2026-03-24,134865.54,ARS,App,2
+V000160, 23547324 ,Martin Rodriguez,martinrodriguez3@hotmail.com,25-02-25,24222.36,ARS,Marketplace,4
+V000161,23-547-324,Martín Rodríguez,MARTIN.RODRIGUEZ.3@HOTMAIL.COM,28-06-24,16106.75,ARS,App,4
+V000162, 23547324 ,Martin Rodriguez, martin.rodriguez.3@hotmail.com ,03/11/2025,12403.8,ARS,Web,5
+V000163,35377986,Diego Fernández, diego.fernandez.82@hotmail.com ,16-04-26,17061.55,ARS,Web,1
+V000164,,DIEGO FERNANDEZ,DIEGO.FERNANDEZ.82@HOTMAIL.COM,2025-05-07,22047.99,ARS,Web,3
+V000165,35-377-986,Diego Fernandez, diego.fernandez.82@hotmail.com ,2024-11-13,25501.13,ARS,Marketplace,2
+V000166,35-377-986,Diego Fernandez, diego.fernandez.82@hotmail.com ,2025-08-20,106070.77,ARS,Marketplace,1
+V000167, 46599673 ,Valentina Molina,valentina.molina.95@empresa.com.ar,22-11-25,28541.55,ARS,Tienda,4
+V000168,46599673,Valentina Molina, valentina.molina.95@empresa.com.ar ,03-02-24,100256.05,ARS,Tienda,3
+V000169,46-599-673,Valentina Molina,valentina.molina.95@empresa.com.ar,2025-07-31,162197.55,ARS,Tienda,3
+V000170,46599673,Valentina Molina, valentina.molina.95@empresa.com.ar ,2025-12-02,10990.83,ARS,App,3
+V000171,46.599.673,Valentina Molina,,2026-01-26,128740.15,ARS,Web,3
+V000172,37410383,Agustina Navarro,,2024-07-12,8937.75,ARS,App,7
+V000173,21.724.284,Martin Fernandez, martin.fernandez.75@empresa.com.ar ,2025-03-16,162697.47,ARS,Tienda,1
+V000174,21.724.284,Martin Fernandez,martin.fernandez.75@empresa.com.ar,29/06/2024,138561.05,ARS,Marketplace,3
+V000175, 21724284 ,MARTIN FERNANDEZ, martin.fernandez.75@empresa.com.ar ,2024-06-13,113337.75,ARS,Web,2
+V000176, 49008247 ,MARTIN TOMAS ORTIZ,,2026-06-06,15329.1,ARS,App,3
+V000177,49-008-247,Martín Tomás Ortiz,MARTIN.TOMAS.ORTIZ.3@HOTMAIL.COM,2024-06-10,33901.51,ARS,Tienda,1
+V000178,49008247,Martín Tomás Ortiz,MARTIN.TOMAS.ORTIZ.3@HOTMAIL.COM,2025-10-31,45633.68,ARS,Web,4
+V000179, 49008247 ,Martin T. Ortiz,martin.tomas.ortiz.3@hotmail.com,06/04/2024,46400.81,ARS,Tienda,3
+V000180,49-008-247,Martin Tomas Ortiz,MARTIN.TOMAS.ORTIZ.3@HOTMAIL.COM,20-06-24,7066.25,ARS,Web,2
+V000181,32-484-270,LUCIA TORRES,LUCIA.TORRES.66@OUTLOOK.COM,06/06/2024,21708.38,ARS,Tienda,6
+V000182,32.484.270,Lucia Torres,,2024-07-25,11273.81,ARS,Tienda,2
+V000183,32.484.270,Lucía Torres,LUCIA.TORRES.66@OUTLOOK.COM,2026-07-19,12760.37,ARS,Tienda,1
+V000184, 32484270 ,Lucia Torres,LUCIA.TORRES.66@OUTLOOK.COM,2026-08-20,34109.03,ARS,Tienda,3
+V000185,,Martin Romero,,16-08-24,55814.11,ARS,Tienda,2
+V000186,30.640.540,MARTIN ROMERO,MARTIN.ROMERO.61@OUTLOOK.COM,2025-06-18,178935.84,ARS,App,2
+V000187, 27879413 ,Natalia Sanchez,NATALIA.SANCHEZ.56@OUTLOOK.COM,2025-10-31,63158.5,ARS,Tienda,3
+V000188,27.879.413,Natalia Sanchez,natalia.sanchez.56@outlook.com,23/02/2025,8326.42,ARS,Tienda,2
+V000189,48-093-224,Julieta F. Navarro,julieta.federico.navarro.67@hotmail.com,22-10-24,85263.19,ARS,Marketplace,2
+V000190,,Julieta Federico Navarro,,01-04-24,172028.84,ARS,Web,2
+V000191,48-093-224,Julieta Federico Navarro, julieta.federico.navarro.67@hotmail.com ,20-03-25,6822.29,ARS,App,1
+V000192,48-093-224,Julieta F. Navarro,julieta.federico.navarro.67@hotmail.com,16/09/2025,79921.14,ARS,Marketplace,4
+V000193,48093224,Julieta F. Navarro,,2026-08-01,12778.4,ARS,Marketplace,5
+V000194,47730332,Andres Ortiz, andres.ortiz.27@hotmail.com ,24/02/2025,26825.6,ARS,Web,2
+V000195,47-730-332,Andres Ortiz, andres.ortiz.27@hotmail.com ,17-05-25,21203.38,ARS,Web,2
+V000196,47.730.332,Andres Ortiz, andres.ortiz.27@hotmail.com ,07-06-25,68589.02,ARS,Web,1
+V000197,47-730-332,Andres Ortiz,ANDRES.ORTIZ.27@HOTMAIL.COM,31-10-25,46834.08,ARS,Tienda,3
+V000198, 34521476 ,NATALIA MARTINEZ,NATALIA.MARTINEZ.33@GMAIL.COM,16-03-26,5236.76,ARS,Tienda,3
+V000199,46448493,Franco Alvarez, franco.alvarez.80@gmail.com ,09-08-24,27924.65,ARS,App,3
+V000200, 36184645 ,Camila Fernandez, camila.fernandez.61@empresa.com.ar ,2025-12-16,155724.62,ARS,App,2
+V000201,46-187-700,Camila Fernández,camila.fernandez.61@empresa.com.ar,2026-05-14,43279.75,ARS,Tienda,1
+V000202,37-549-291,SOFIA ORTIZ,,15/03/2024,16544.88,ARS,Tienda,1
+V000203,,Sofia Ortiz,sofia.ortiz.94@gmail.com,2026-02-19,21885.19,ARS,App,6
+V000204,37-549-291,Sofia Ortiz,,22-03-26,37324.69,ARS,Web,3
+V000205,,Sofía Ortiz,SOFIA.ORTIZ.94@GMAIL.COM,2024-04-25,160903.0,ARS,App,1
+V000206,,Diego Benitez,diego.benitez.47@outlook.com,08-05-24,39569.29,ARS,Tienda,2
+V000207, 35286368 ,DIEGO BENITEZ,diego.benitez.47@outlook.com,11-08-24,9.84,USD,Tienda,2
+V000208,35286368,DIEGO BENITEZ,DIEGO.BENITEZ.47@OUTLOOK.COM,2024-01-24,70438.98,ARS,Marketplace,4
+V000209,35286368,DIEGO BENITEZ,DIEGO.BENITEZ.47@OUTLOOK.COM,09-05-24,205551.67,ARS,Tienda,2
+V000210,22-186-368,Pablo Fernandez,pablo.fernandez.0@empresa.com.ar,2024-06-02,26366.18,ARS,App,1
+V000211,,Pablo Fernandez, pablo.fernandez.0@empresa.com.ar ,2024-07-10,91805.28,ARS,Tienda,1
+V000212, 22186368 ,PABLO FERNANDEZ, pablo.fernandez.0@empresa.com.ar ,20/07/2025,10922.8,ARS,Tienda,1
+V000213, 29814938 ,Sebastian Benitez, sebastian.benitez.52@gmail.com ,15-05-25,47330.09,ARS,Web,4
+V000214,29814938,Sebastian Benitez,SEBASTIAN.BENITEZ.52@GMAIL.COM,2026-03-02,18353.64,ARS,Tienda,2
+V000215, 29814938 ,SEBASTIAN BENITEZ,SEBASTIAN.BENITEZ.52@GMAIL.COM,09/01/2026,23636.07,ARS,App,4
+V000216, 29814938 ,Sebastian Benitez, sebastian.benitez.52@gmail.com ,06-10-25,20754.31,ARS,Marketplace,1
+V000217, 29814938 ,Sebastian Benitez,SEBASTIAN.BENITEZ.52@GMAIL.COM,04-07-24,14384.33,ARS,App,3
+V000218,31-129-394,Martín Gómez,martingomez62@hotmail.com,28/07/2026,803802.64,ARS,Marketplace,2
+V000219,31.129.394,MARTIN GOMEZ,MARTIN.GOMEZ.62@HOTMAIL.COM,2025-05-03,118081.25,ARS,App,2
+V000220, 31129394 ,Martín Gómez,martin.gomez.62@hotmail.com,23-12-24,71968.66,ARS,Tienda,1
+V000221,31-129-394,MARTIN GOMEZ,MARTIN.GOMEZ.62@HOTMAIL.COM,2025-11-07,92150.61,ARS,Marketplace,3
+V000222,31.129.394,Martin Gomez, martin.gomez.62@hotmail.com ,2025-05-19,232037.92,ARS,Tienda,1
+V000223, 25584143 ,Carolina Molina,carolina.molina.25@gmail.com,27/03/2026,16092.67,ARS,Marketplace,3
+V000224,25-584-143,Carolina Molina,carolina.molina.25@gmail.com,2026-04-01,17232.12,ARS,Marketplace,4
+V000225,25584143,Carolina Molina, carolina.molina.25@gmail.com ,2024-03-04,60116.15,ARS,App,2
+V000226, 49803465 ,Sofía Federico Ruiz,sofiafedericoruiz81@gmail.com,2024-12-22,8322.84,ARS,Marketplace,1
+V000227,49.803.465,SOFIA FEDERICO RUIZ,SOFIA.FEDERICO.RUIZ.81@GMAIL.COM,02/02/2024,21721.44,ARS,Tienda,3
+V000228,49.803.465,SOFIA FEDERICO RUIZ, sofia.federico.ruiz.81@gmail.com ,20/12/2024,40153.45,ARS,Marketplace,2
+V000229, 49803465 ,Sofia Ruiz,SOFIA.FEDERICO.RUIZ.81@GMAIL.COM,2025-12-25,24051.15,ARS,Tienda,1
+V000230,49.803.465,SOFIA FEDERICO RUIZ,sofia.federico.ruiz.81@gmail.com,17-06-24,24284.05,ARS,Marketplace,2
+V000231,49.803.465,Sofía Federico Ruiz, sofia.federico.ruiz.81@gmail.com ,11-08-25,56162.95,ARS,Marketplace,2
+V000232,49803465,SOFIA FEDERICO RUIZ,SOFIA.FEDERICO.RUIZ.81@GMAIL.COM,09/05/2025,147606.38,ARS,App,2
+V000233,,Joaquin Navarro,joaquin.navarro.4@gmail.com,15/06/2026,84618.53,ARS,App,3
+V000234,41831376,Joaquin Navarro,,01-02-26,26627.84,ARS,Web,4
+V000235,41.831.376,Joaquín Navarro,JOAQUIN.NAVARRO.4@GMAIL.COM,11-01-26,25448.45,ARS,Tienda,1
+V000236, 41831376 ,JOAQUIN NAVARRO, joaquin.navarro.4@gmail.com ,2025-04-04,21887.09,ARS,Tienda,3
+V000237,41831376,JOAQUIN NAVARRO,joaquin.navarro.4@gmail.com,22-04-26,33700.84,ARS,App,7
+V000238,41-831-376,JOAQUIN NAVARRO, joaquin.navarro.4@gmail.com ,30/12/2025,13511.06,ARS,Marketplace,4
+V000239,41831376,JOAQUIN NAVARRO, joaquin.navarro.4@gmail.com ,06/06/2024,11726.01,ARS,Tienda,2
+V000240,21.015.506,Valentina Ramirez,valentina.ramirez.37@hotmail.com,25-07-26,31024.45,ARS,Web,3
+V000241, 21015506 ,Valentina Ramirez,valentina.ramirez.37@hotmail.com,22/06/2026,271755.4,ARS,App,3
+V000242, 21015506 ,Valentina Ramirez,,31-05-26,102425.89,ARS,Web,4
+V000243, 21980737 ,Diego Natalia Flores,DIEGO.NATALIA.FLORES.83@EMPRESA.COM.AR,25/05/2024,6937.05,ARS,Marketplace,2
+V000244,21980737,DIEGO NATALIA FLORES,DIEGO.NATALIA.FLORES.83@EMPRESA.COM.AR,17/05/2026,31994.57,ARS,Marketplace,3
+V000245,21-980-737,Diego Flores,DIEGO.NATALIA.FLORES.83@EMPRESA.COM.AR,08/08/2024,40600.16,ARS,Marketplace,2
+V000246,21.980.737,Diego Flores, diego.natalia.flores.83@empresa.com.ar ,18/02/2025,14561.6,ARS,App,1
+V000247, 20758224 ,Paula Rojas,PAULA.ROJAS.35@HOTMAIL.COM,16-04-25,70145.78,ARS,Marketplace,3
+V000248,20758224,Paula Rojas,paula.rojas.35@hotmail.com,19/02/2026,124420.92,ARS,App,1
+V000249,20758224,Paula Rojas, paula.rojas.35@hotmail.com ,2024-11-11,105727.13,ARS,App,5
+V000250,20.758.224,Paula Rojas,paularojas35@hotmail.com,2026-07-26,20176.06,ARS,App,1
+V000251,35776232,JUAN RAMIREZ,juan.ramirez.30@empresa.com.ar,2026-04-23,57.6,USD,Tienda,6
+V000252, 35776232 ,Juan Ramirez, juan.ramirez.30@empresa.com.ar ,2025-01-29,40106.52,ARS,App,1
+V000253,35-776-232,Juan Ramírez,JUAN.RAMIREZ.30@EMPRESA.COM.AR,2025-12-25,91843.62,ARS,App,3
+V000254,40.794.640,Julieta R. Alvarez,,11-08-26,10963.57,ARS,Marketplace,1
+V000255,40794640,Julieta Rocio Alvarez,JULIETA.ROCIO.ALVAREZ.87@GMAIL.COM,11/04/2026,8698.46,ARS,Web,3
+V000256,40-794-640,Julieta Rocío Álvarez,julieta.rocio.alvarez.87@gmail.com,2025-09-18,7411.44,ARS,Web,1
+V000257,32.681.454,Martin Acosta, martin.acosta.15@gmail.com ,23/01/2026,81075.13,ARS,App,2
+V000258,32681454,Martin Acosta,,06/04/2025,55342.44,ARS,App,3
+V000259,34-821-599,Julieta López,julieta.lopez.37@gmail.com,09/06/2025,27275.6,ARS,Marketplace,2
+V000260,34-821-599,JULIETA LOPEZ,julieta.lopez.37@gmail.com,2025-06-04,14272.36,ARS,Web,1
+V000261,39.012.467,Camila Ruiz,camila.ruiz.19@empresa.com.ar,01-08-26,15020.05,ARS,Marketplace,2
+V000262, 39012467 ,CAMILA RUIZ, camila.ruiz.19@empresa.com.ar ,06-01-24,147987.53,ARS,App,2
+V000263,38347512,Nicolas Castro,NICOLAS.CASTRO.93@GMAIL.COM,15-02-26,60327.51,ARS,App,3
+V000264, 38347512 ,Nicolas Castro,NICOLAS.CASTRO.93@GMAIL.COM,27-06-24,21433.93,ARS,App,4
+V000265,38-347-512,Nicolas Castro,,08-08-24,11565.97,ARS,Tienda,2
+V000266,35.189.584,Lucia Medina, lucia.medina.52@empresa.com.ar ,2026-03-26,28135.26,ARS,Web,2
+V000267,35189584,LUCIA MEDINA, lucia.medina.52@empresa.com.ar ,2025-11-24,155927.52,ARS,Web,4
+V000268,26-999-964,Rocio Rodriguez,ROCIO.RODRIGUEZ.18@HOTMAIL.COM,08/07/2026,6474.87,ARS,Tienda,1
+V000269,,Rocio Rodriguez,rocio.rodriguez.18@hotmail.com,2025-02-23,43208.02,ARS,Web,1
+V000270,26.999.964,Rocio Rodriguez,,2024-10-09,6935.54,ARS,App,1
+V000271,44-010-614,Valentina Silva,VALENTINA.SILVA.14@OUTLOOK.COM,12-05-24,9621.92,ARS,Marketplace,1
+V000272,44.010.614,Valentina Silva, valentina.silva.14@outlook.com ,2026-03-07,28086.18,ARS,Web,5
+V000273,44010614,Valentina Silva,valentina.silva.14@outlook.com,2026-07-14,11603.53,ARS,Tienda,3
+V000274, 20655052 ,Carolina Gomez,carolina.gomez.7@empresa.com.ar,2026-02-06,62904.7,ARS,Web,4
+V000275,20.655.052,CAROLINA GOMEZ, carolina.gomez.7@empresa.com.ar ,16/10/2024,18149.19,ARS,Web,1
+V000276,20655052,Carolina Gomez,CAROLINA.GOMEZ.7@EMPRESA.COM.AR,2025-08-24,69006.29,ARS,Web,2
+V000277,20655052,Carolina Gómez,CAROLINA.GOMEZ.7@EMPRESA.COM.AR,2025-12-21,38394.1,ARS,Marketplace,1
+V000278,20655052,Carolina Gómez,CAROLINA.GOMEZ.7@EMPRESA.COM.AR,11/05/2025,96935.97,ARS,Web,1
+V000279,20.655.052,Carolina Gomez,,25-07-25,93716.78,ARS,Marketplace,2
+V000280, 26097663 ,Franco Martinez,FRANCO.MARTINEZ.4@GMAIL.COM,2024-04-29,59339.32,ARS,App,4
+V000281,26-097-663,FRANCO MARTINEZ,FRANCO.MARTINEZ.4@GMAIL.COM,18/09/2025,38661.1,ARS,Tienda,3
+V000282,26.097.663,Franco Martinez,,2025-08-25,252896.55,ARS,Tienda,1
+V000283, 26097663 ,Franco Martinez,franco.martinez.4@gmail.com,12/04/2024,9779.0,ARS,Web,3
+V000284, 26097663 ,FRANCO MARTINEZ,,2024-10-30,9532.34,ARS,App,4
+V000285, 26097663 ,Franco Martínez, franco.martinez.4@gmail.com ,2025-09-14,27912.42,ARS,Marketplace,3
+V000286,26-097-663,FRANCO MARTINEZ,franco.martinez.4@gmail.com,2026-01-19,27817.86,ARS,Web,2
+V000287,26-097-663,FRANCO MARTINEZ, franco.martinez.4@gmail.com ,2024-10-30,39738.34,ARS,Web,1
+V000288,45.516.146,Gonzalo Martínez,GONZALO.MARTINEZ.31@OUTLOOK.COM,03-11-24,121027.67,ARS,App,2
+V000289, 45516146 ,GONZALO MARTINEZ, gonzalo.martinez.31@outlook.com ,13-04-24,9627.83,ARS,Marketplace,3
+V000290,41.474.657,Tomas Sanchez, tomas.sanchez.59@outlook.com ,23-01-25,96215.81,ARS,Tienda,5
+V000291, 41474657 ,Tomas Sanchez,,30-03-24,104663.25,ARS,App,1
+V000292,41-474-657,Tomas Sanchez,TOMAS.SANCHEZ.59@OUTLOOK.COM,15/12/2024,30918.12,ARS,Tienda,2
+V000293,,Tomás Sánchez,,2024-10-17,28538.75,ARS,Marketplace,4
+V000294,41474657,Tomas Sanchez,tomas.sanchez.59@outlook.com,2025-06-28,29360.77,ARS,Marketplace,1
+V000295,41474657,TOMAS SANCHEZ,TOMAS.SANCHEZ.59@OUTLOOK.COM,2026-06-25,86479.97,ARS,App,2
+V000296, 37231199 ,LAURA MOLINA,lauramolina7@gmail.com,31-03-25,23286.04,ARS,Marketplace,4
+V000297,37231199,Laura Molina, laura.molina.7@gmail.com ,2024-10-25,41470.77,ARS,App,4
+V000298,37.231.199,Laura Molina,laura.molina.7@gmail.com,17/12/2024,25901.97,ARS,Web,3
+V000299,37-231-199,LAURA MOLINA, laura.molina.7@gmail.com ,2024-02-25,21559.65,ARS,Marketplace,1
+V000300,40540846,Valentina Flores, valentina.flores.12@hotmail.com ,2025-08-10,81374.81,ARS,Tienda,1
+V000301, 40540846 ,Valentina Flores,,12-10-24,43724.56,ARS,Web,1
+V000302,40-540-846,Valentina Flores,VALENTINA.FLORES.12@HOTMAIL.COM,13-03-25,40628.28,ARS,App,2
+V000303,40.540.846,Valentina Flores,,05/04/2026,27338.38,ARS,App,1
+V000304,38-504-572,Gonzalo Navarro,,2026-03-09,4652.76,ARS,App,3
+V000305,38504572,Gonzalo Navarro,GONZALO.NAVARRO.85@EMPRESA.COM.AR,2024-04-23,17270.26,ARS,Web,4
+V000306, 38504572 ,Gonzalo Navarro,GONZALO.NAVARRO.85@EMPRESA.COM.AR,2025-12-03,26132.64,ARS,Tienda,2
+V000307,,Florencia Ramírez,florenciaramirez11@hotmail.com,2024-11-12,4899.42,ARS,Marketplace,3
+V000308,24.733.378,Florencia Ramírez, florencia.ramirez.11@hotmail.com ,12-08-25,12922.15,ARS,Tienda,1
+V000309, 24733378 ,Florencia Ramírez,florenciaramirez11@hotmail.com,19/08/2024,18512.84,ARS,Tienda,1
+V000310,24.733.378,Florencia Ramirez, florencia.ramirez.11@hotmail.com ,31-05-25,8320.46,ARS,Tienda,1
+V000311, 24733378 ,Florencia Ramírez, florencia.ramirez.11@hotmail.com ,21/06/2025,5109.25,ARS,Tienda,4
+V000312,43-576-630,Gonzalo Castro,gonzalo.castro.11@hotmail.com,2026-07-23,38854.85,ARS,App,2
+V000313,43.576.630,Gonzalo Castro,GONZALO.CASTRO.11@HOTMAIL.COM,29/11/2024,9078.13,ARS,Web,5
+V000314, 43576630 ,GONZALO CASTRO,GONZALO.CASTRO.11@HOTMAIL.COM,2024-07-24,30909.17,ARS,Tienda,2
+V000315, 43576630 ,Gonzalo Castro, gonzalo.castro.11@hotmail.com ,29/06/2026,36393.77,ARS,Web,3
+V000316,42.007.191,PABLO FERNANDEZ,pablo.fernandez.78@outlook.com,2024-07-28,309415.64,ARS,Web,1
+V000317,,Pablo Fernandez, pablo.fernandez.78@outlook.com ,2025-08-29,69766.12,ARS,Web,1
+V000318, 22600186 ,Carolina Gomez,CAROLINA.GOMEZ.69@HOTMAIL.COM,2026-01-19,20868.25,ARS,Marketplace,3
+V000319,22-600-186,Carolina Gomez,CAROLINA.GOMEZ.69@HOTMAIL.COM,05-06-24,37870.13,ARS,Web,2
+V000320,47.529.758,Florencia Rojas, florencia.rojas.70@empresa.com.ar ,2025-04-04,23681.85,ARS,Marketplace,4
+V000321, 47529758 ,Florencia Rojas, florencia.rojas.70@empresa.com.ar ,31-01-25,39330.43,ARS,Marketplace,2
+V000322,47529758,Florencia Rojas,florencia.rojas.70@empresa.com.ar,2025-04-29,7024.48,ARS,Marketplace,1
+V000323,48-461-124,Florencia Sanchez, florencia.sanchez.61@hotmail.com ,14/09/2025,33703.21,ARS,App,1
+V000324,48461124,Florencia Sanchez,FLORENCIA.SANCHEZ.61@HOTMAIL.COM,27-02-25,172580.48,ARS,Marketplace,1
+V000325, 48461124 ,Florencia Sanchez, florencia.sanchez.61@hotmail.com ,2025-07-06,45590.77,ARS,App,4
+V000326, 48461124 ,Florencia Sánchez,florenciasanchez61@hotmail.com,2026-02-16,8208.24,ARS,Web,3
+V000327, 48461124 ,Florencia Sánchez,,16-10-24,21983.1,ARS,App,1
+V000328,48.461.124,Florencia Sanchez,florencia.sanchez.61@hotmail.com,24/02/2026,23018.68,ARS,Tienda,5
+V000329,48.461.124,Florencia Sanchez, florencia.sanchez.61@hotmail.com ,11-05-26,50538.3,ARS,Tienda,3
+V000330,37-193-730,Juan Franco Silva,juan.franco.silva.55@hotmail.com,13-04-25,2531.77,ARS,App,1
+V000331, 37193730 ,Juan Franco Silva,JUAN.FRANCO.SILVA.55@HOTMAIL.COM,2024-03-28,28348.47,ARS,Web,2
+V000332,37193730,Juan F. Silva,,31/12/2024,29727.19,ARS,Marketplace,4
+V000333,46-801-996,Valentina Gomez, valentina.gomez.1@outlook.com ,2025-01-24,29360.84,ARS,Marketplace,4
+V000334, 38868254 ,Natalia Sanchez,natalia.sanchez.96@outlook.com,01/03/2024,21311.78,ARS,App,2
+V000335,38.868.254,Natalia Sanchez, natalia.sanchez.96@outlook.com ,2024-12-29,28365.13,ARS,Tienda,4
+V000336, 38868254 ,Natalia Sánchez,,2025-02-23,43539.83,ARS,Tienda,2
+V000337,31753247,Pablo Alvarez, pablo.alvarez.51@empresa.com.ar ,2026-03-22,71792.13,ARS,App,1
+V000338,31.753.247,Pablo Álvarez,pablo.alvarez.51@empresa.com.ar,03-07-24,22636.69,ARS,Tienda,2
+V000339,47-941-422,Juan Sánchez,JUAN.SANCHEZ.91@OUTLOOK.COM,2025-06-22,170312.62,ARS,App,4
+V000340,47941422,Juan Sanchez,juan.sanchez.91@outlook.com,28-01-24,49361.52,ARS,Tienda,1
+V000341, 47941422 ,JUAN SANCHEZ,JUAN.SANCHEZ.91@OUTLOOK.COM,30/08/2025,67281.75,ARS,App,4
+V000342, 47941422 ,Juan Sánchez,JUAN.SANCHEZ.91@OUTLOOK.COM,13-09-24,59290.75,ARS,App,2
+V000343,32-170-199,LEANDRO SANCHEZ,,2024-01-31,121630.66,ARS,Tienda,1
+V000344,32170199,LEANDRO SANCHEZ, leandro.sanchez.55@empresa.com.ar ,19/08/2025,8634.87,ARS,App,3
+V000345,32170199,Leandro Sánchez, leandro.sanchez.55@empresa.com.ar ,27/07/2026,26157.39,ARS,Tienda,4
+V000346,41171931,Camila Carolina Ortiz,camilacarolinaortiz84@empresa.com.ar,03-06-26,11283.27,ARS,Marketplace,1
+V000347,44.756.583,Tomás Acosta,,2024-02-12,84259.55,ARS,Web,1
+V000348,44.756.583,Tomás Acosta,TOMAS.ACOSTA.39@GMAIL.COM,06-07-25,160249.47,ARS,Marketplace,1
+V000349,34-263-147,Joaquin Romero,JOAQUIN.ROMERO.73@EMPRESA.COM.AR,12-12-25,48943.43,ARS,Web,1
+V000350,,Joaquin Romero,joaquinromero73@empresa.com.ar,2024-01-25,10261.84,ARS,App,1
+V000351,34263147,Joaquín Romero,,10-08-24,19673.15,ARS,Web,4
+V000352,36439064,Julieta Acosta,julieta.acosta.11@outlook.com,29/05/2024,9717.52,ARS,App,2
+V000353,,Julieta Acosta,julieta.acosta.11@outlook.com,09-01-26,28035.47,ARS,Marketplace,1
+V000354,36439064,Julieta Acosta,JULIETA.ACOSTA.11@OUTLOOK.COM,29/03/2026,30536.84,ARS,Tienda,1
+V000355,30-922-923,Valentina Castro, valentina.castro.51@gmail.com ,03-02-25,91324.81,ARS,Tienda,2
+V000356,30.922.923,Valentina Castro,valentina.castro.51@gmail.com,22/09/2024,15507.23,ARS,App,5
+V000357,27.249.239,Agustina Navarro,agustinanavarro93@empresa.com.ar,05-03-25,10246.0,ARS,Tienda,2
+V000358, 27249239 ,Agustina Navarro, agustina.navarro.93@empresa.com.ar ,09-12-24,10003.79,ARS,Marketplace,2
+V000359,27249239,AGUSTINA NAVARRO, agustina.navarro.93@empresa.com.ar ,2025-04-02,61279.83,ARS,Tienda,1
+V000360, 27249239 ,Agustina Navarro,agustina.navarro.93@empresa.com.ar,2024-10-13,34506.38,ARS,Tienda,2
+V000361,27249239,Agustina Navarro,agustina.navarro.93@empresa.com.ar,27-04-24,47687.13,ARS,App,1
+V000362,27249239,Agustina Navarro,agustina.navarro.93@empresa.com.ar,23/10/2024,20265.66,ARS,Tienda,7
+V000363,35-398-216,Andres Ramirez,,24-03-24,43648.59,ARS,Tienda,5
+V000364,35398216,ANDRES RAMIREZ,,25-11-24,10413.86,ARS,Marketplace,2
+V000365, 32537462 ,Joaquín Silva,joaquin.silva.92@gmail.com,10/10/2024,88976.19,ARS,Tienda,2
+V000366,32.537.462,JOAQUIN SILVA, joaquin.silva.92@gmail.com ,25-01-25,79682.71,ARS,Web,4
+V000367,32.537.462,Joaquin Silva,joaquinsilva92@gmail.com,06-03-24,34835.72,ARS,Web,2
+V000368,40333100,Gonzalo Benitez,GONZALO.BENITEZ.63@OUTLOOK.COM,29-08-24,160416.35,ARS,App,5
+V000369, 28794855 ,Pablo Martinez,pablo.martinez.86@gmail.com,05/01/2026,29749.95,ARS,Web,6
+V000370, 28794855 ,PABLO MARTINEZ, pablo.martinez.86@gmail.com ,29-03-24,17.89,USD,Marketplace,2
+V000371,20.315.891,ANDRES BENITEZ, andres.benitez.68@hotmail.com ,2026-02-20,80977.12,ARS,App,5
+V000372,20-315-891,Andres Benitez,andres.benitez.68@hotmail.com,02/05/2025,24948.99,ARS,Marketplace,1
+V000373,20-315-891,Andres Benitez,andres.benitez.68@hotmail.com,27-11-24,19749.83,ARS,Marketplace,3
+V000374,47206877,Leandro Perez, leandro.tomas.perez.84@empresa.com.ar ,2025-04-12,35029.17,ARS,Tienda,2
+V000375,47-206-877,Leandro Tomas Perez,leandrotomasperez84@empresa.com.ar,23-07-26,8490.26,ARS,App,1
+V000376,47206877,Leandro T. Perez,,2024-11-19,21410.19,ARS,App,6
+V000377, 47206877 ,Leandro Tomás Pérez,leandro.tomas.perez.84@empresa.com.ar,13/02/2025,10654.64,ARS,Marketplace,2
+V000378,29804509,Carolina Gomez,CAROLINA.GOMEZ.80@OUTLOOK.COM,16-11-24,162499.38,ARS,Tienda,2
+V000379,29-804-509,Carolina Gomez,carolina.gomez.80@outlook.com,09/09/2024,24779.39,ARS,App,2
+V000380,29804509,Carolina Gómez,CAROLINA.GOMEZ.80@OUTLOOK.COM,05-03-26,53369.88,ARS,Marketplace,1
+V000381,29-804-509,Carolina Gómez,,29/01/2026,26485.82,ARS,App,4
+V000382,42.677.644,MICAELA FRANCO SILVA,micaela.franco.silva.87@gmail.com,2024-04-16,7513.56,ARS,Tienda,2
+V000383,42-677-644,Micaela Franco Silva,micaela.franco.silva.87@gmail.com,11/11/2025,65560.77,ARS,Tienda,2
+V000384,42677644,Micaela Franco Silva,micaela.franco.silva.87@gmail.com,2024-07-04,17803.11,ARS,Web,1
+V000385,42.677.644,Micaela Franco Silva,MICAELA.FRANCO.SILVA.87@GMAIL.COM,25-03-25,69347.25,ARS,Tienda,1
+V000386,42.677.644,Micaela Franco Silva,micaela.franco.silva.87@gmail.com,05/09/2024,25635.5,ARS,Tienda,1
+V000387,30-030-701,Camila Suarez,camila.suarez.23@hotmail.com,2024-06-11,10373.9,ARS,Marketplace,2
+V000388,30-030-701,Camila Suarez, camila.suarez.23@hotmail.com ,30/09/2024,30763.91,ARS,Marketplace,3
+V000389,30-030-701,Camila Suarez,camila.suarez.23@hotmail.com,21/07/2025,32429.32,ARS,Marketplace,1
+V000390,30-030-701,Camila Suarez,camila.suarez.23@hotmail.com,30-12-25,12739.62,ARS,Web,1
+V000391,36-836-962,Julieta Sanchez, julieta.sanchez.40@outlook.com ,02/05/2026,35282.77,ARS,App,4
+V000392,36836962,Julieta Sanchez,,2024-05-05,28870.12,ARS,Tienda,1
+V000393,36836962,Julieta Sanchez,JULIETA.SANCHEZ.40@OUTLOOK.COM,10-02-26,19139.78,ARS,Marketplace,1
+V000394,44-846-758,Daniela Acosta, daniela.acosta.75@hotmail.com ,2025-12-09,43880.35,ARS,Tienda,2
+V000395,44.846.758,Daniela Acosta,,16/07/2025,35469.7,ARS,App,4
+V000396,44.846.758,Daniela Acosta, daniela.acosta.75@hotmail.com ,2025-12-18,7497.58,ARS,Marketplace,4
+V000397,,Carlos Molina,carlos.molina.34@hotmail.com,25-01-25,8779.75,ARS,App,3
+V000398,48638804,Carlos Molina,CARLOS.MOLINA.34@HOTMAIL.COM,10-11-25,23230.69,ARS,Web,1
+V000399,46.992.586,Diego Flores,DIEGO.FLORES.69@EMPRESA.COM.AR,28-05-24,39876.04,ARS,Marketplace,2
+V000400, 32337204 ,Agustina Silva,AGUSTINA.FLORENCIA.SILVA.41@EMPRESA.COM.AR,16-02-24,39326.75,ARS,Web,1
+V000401,32-337-204,Agustina Florencia Silva,agustina.florencia.silva.41@empresa.com.ar,19-03-24,23750.48,ARS,App,1
+V000402,32.337.204,Agustina Florencia Silva, agustina.florencia.silva.41@empresa.com.ar ,16/03/2026,12249.02,ARS,App,4
+V000403,32-337-204,Agustina Florencia Silva, agustina.florencia.silva.41@empresa.com.ar ,2025-03-12,70406.78,ARS,Tienda,1
+V000404,42919534,Leandro P. Rojas,leandro.paula.rojas.11@outlook.com,02/08/2025,12401.86,ARS,Marketplace,2
+V000405,42-919-534,Leandro Paula Rojas,,2025-01-02,5189.07,ARS,Marketplace,4
+V000406,42-919-534,LEANDRO PAULA ROJAS,,14/10/2025,21341.57,ARS,Tienda,1
+V000407, 24309195 ,Pablo Fernández, pablo.fernandez.37@empresa.com.ar ,02-01-25,89676.09,ARS,Marketplace,3
+V000408, 24309195 ,Pablo Fernandez,,2024-10-03,228439.17,ARS,Tienda,1
+V000409,31-431-161,Pablo Ramirez,PABLO.RAMIREZ.9@GMAIL.COM,2025-09-13,23999.07,ARS,Tienda,3
+V000410, 31431161 ,Pablo Ramírez, pablo.ramirez.9@gmail.com ,25/10/2024,78973.35,ARS,Marketplace,4
+V000411,31.431.161,Pablo Ramírez,pablo.ramirez.9@gmail.com,2025-07-11,10867.59,ARS,Tienda,3
+V000412,24.773.954,FEDERICO ANDRES MARTINEZ,FEDERICO.ANDRES.MARTINEZ.46@HOTMAIL.COM,2026-05-24,16541.07,ARS,Marketplace,2
+V000413, 24773954 ,FEDERICO ANDRES MARTINEZ,federicoandresmartinez46@hotmail.com,21-04-25,36914.53,ARS,Tienda,1
+V000414,24760424,Florencia Romero,,2025-09-01,22655.7,ARS,App,1
+V000415,24.760.424,Florencia Romero,florencia.romero.73@gmail.com,15-07-26,14687.22,ARS,Tienda,2
+V000416,24-760-424,FLORENCIA ROMERO,florencia.romero.73@gmail.com,13-09-24,73237.46,ARS,App,2
+V000417,37.751.135,Laura Castro, laura.castro.86@outlook.com ,2025-08-13,11678.09,ARS,Web,2
+V000418,37.751.135,Laura Castro, laura.castro.86@outlook.com ,17/08/2024,19355.52,ARS,Tienda,2
+V000419, 37751135 ,Laura Castro,lauracastro86@outlook.com,04-06-24,26432.95,ARS,Web,4
+V000420,37.751.135,LAURA CASTRO, laura.castro.86@outlook.com ,29/04/2026,28841.91,ARS,App,5
+V000421,27-878-604,Leandro Natalia Molina, leandro.natalia.molina.28@hotmail.com ,18/09/2024,29287.76,ARS,Web,1
+V000422,27-878-604,Leandro Natalia Molina,leandro.natalia.molina.28@hotmail.com,14/03/2024,8556.29,ARS,Marketplace,2
+V000423,27878604,Leandro Natalia Molina, leandro.natalia.molina.28@hotmail.com ,17-11-25,17853.36,ARS,Tienda,3
+V000424,46715967,Carlos Silva,CARLOS.SILVA.58@EMPRESA.COM.AR,30-12-24,22551.79,ARS,App,2
+V000425,,Carlos Silva,CARLOS.SILVA.58@EMPRESA.COM.AR,2024-03-20,18472.63,ARS,Marketplace,2
+V000426,46.715.967,CARLOS SILVA, carlos.silva.58@empresa.com.ar ,31/03/2026,26838.22,ARS,App,2
+V000427,46-715-967,Carlos Silva, carlos.silva.58@empresa.com.ar ,21/08/2025,14523.95,ARS,App,3
+V000428,46715967,CARLOS SILVA,CARLOS.SILVA.58@EMPRESA.COM.AR,24/04/2024,36904.04,ARS,Marketplace,4
+V000429,46.715.967,Carlos Silva,CARLOS.SILVA.58@EMPRESA.COM.AR,06/07/2025,157587.43,ARS,App,2
+V000430,,CARLOS SILVA,,17/05/2024,3323.89,ARS,Web,4
+V000431,46715967,Carlos Silva,CARLOS.SILVA.58@EMPRESA.COM.AR,09/06/2026,39139.45,ARS,App,1
+V000432,44-413-276,Paula Ortiz,PAULA.ORTIZ.63@GMAIL.COM,17-08-25,24515.0,ARS,Marketplace,4
+V000433,44.413.276,Paula Ortiz, paula.ortiz.63@gmail.com ,27-05-26,5371.57,ARS,Web,5
+V000434,44-413-276,Paula Ortiz,paula.ortiz.63@gmail.com,2024-10-24,20420.93,ARS,Tienda,4
+V000435,44413276,Paula Ortiz,paula.ortiz.63@gmail.com,24/10/2024,23609.52,ARS,App,1
+V000436,,Paula Ortiz,PAULA.ORTIZ.63@GMAIL.COM,03-08-26,39016.88,ARS,Web,1
+V000437, 24201331 ,Sebastian Romero,SEBASTIAN.ROMERO.44@EMPRESA.COM.AR,2025-06-23,35136.58,ARS,Web,4
+V000438,,SEBASTIAN ROMERO, sebastian.romero.44@empresa.com.ar ,25/04/2025,6042.84,ARS,Tienda,3
+V000439,24201331,Sebastian Romero,sebastian.romero.44@empresa.com.ar,13-03-25,24300.8,ARS,Marketplace,1
+V000440,24.201.331,Sebastian Romero,SEBASTIAN.ROMERO.44@EMPRESA.COM.AR,03/06/2024,15387.54,ARS,App,4
+V000441,24.201.331,Sebastián Romero, sebastian.romero.44@empresa.com.ar ,01-06-26,52402.09,ARS,Web,2
+V000442,24201331,SEBASTIAN ROMERO,SEBASTIAN.ROMERO.44@EMPRESA.COM.AR,07-03-24,21.45,USD,Tienda,3
+V000443, 24201331 ,Sebastian Romero,sebastian.romero.44@empresa.com.ar,2024-07-12,13847.96,ARS,App,3
+V000444,24-201-331,SEBASTIAN ROMERO,sebastian.romero.44@empresa.com.ar,30-04-24,12664.4,ARS,Web,1
+V000445,41532957,PAULA TORRES, martinacosta15@gmail.com ,2025-05-01,16665.73,ARS,App,1
+V000446, 41532957 ,Paula Torres,MARTINACOSTA15@GMAIL.COM,24/04/2026,27761.89,ARS,App,2
+V000447,41-532-957,PAULA TORRES,martinacosta15@gmail.com,13-07-26,13166.09,ARS,Tienda,1
+V000448,45.444.283,Sofia Lopez,SOFIA.LOPEZ.92@HOTMAIL.COM,01-02-26,19664.85,ARS,App,1
+V000449,45-444-283,SOFIA LOPEZ,sofia.lopez.92@hotmail.com,10-05-26,20556.5,ARS,Web,4
+V000450,45.444.283,Sofía López,sofia.lopez.92@hotmail.com,10/04/2026,8485.34,ARS,App,4
+V000451,45.444.283,SOFIA LOPEZ,SOFIA.LOPEZ.92@HOTMAIL.COM,26-02-26,10403.02,ARS,Tienda,2
+V000452,45-444-283,Sofia Lopez, sofia.lopez.92@hotmail.com ,2024-07-30,57891.12,ARS,Tienda,2
+V000453,23-592-131,Federico Suarez,,25/07/2024,70772.4,ARS,Marketplace,1
+V000454, 23592131 ,Federico Suarez,federico.suarez.7@hotmail.com,2025-01-03,23748.58,ARS,App,3
+V000455, 23592131 ,Federico Suarez,federico.suarez.7@hotmail.com,23/07/2026,25214.44,ARS,Marketplace,1
+V000456,32-859-350,Carlos Pérez, carlos.perez.13@gmail.com ,13/05/2025,40324.22,ARS,Tienda,2
+V000457,32.859.350,CARLOS PEREZ,CARLOS.PEREZ.13@GMAIL.COM,2024-10-02,16730.39,ARS,Web,2
+V000458, 47883185 ,VALENTINA RAMIREZ,,09-07-24,27963.95,ARS,Web,2
+V000459,47883185,Valentina Ramírez,VALENTINA.RAMIREZ.65@EMPRESA.COM.AR,26-02-24,32496.16,ARS,Web,1
+V000460,47883185,Valentina Ramirez,,2026-07-04,20276.72,ARS,Web,1
+V000461,47.883.185,Valentina Ramirez,valentina.ramirez.65@empresa.com.ar,2025-06-15,94195.22,ARS,Tienda,2
+V000462, 47883185 ,VALENTINA RAMIREZ,valentinaramirez65@empresa.com.ar,25/05/2025,7627.87,ARS,App,3
+V000463,42-385-870,Agustina Silva,agustina.camila.silva.10@hotmail.com,2024-05-24,11180.64,ARS,Web,3
+V000464, 42385870 ,Agustina C. Silva,agustina.camila.silva.10@hotmail.com,14-06-25,22700.11,ARS,Marketplace,1
+V000465,42385870,Agustina Camila Silva, agustina.camila.silva.10@hotmail.com ,2026-06-30,49497.73,ARS,Marketplace,1
+V000466, 31982751 ,Sebastian Molina,SEBASTIAN.MOLINA.5@GMAIL.COM,14/08/2025,51548.29,ARS,Marketplace,2
+V000467,31-982-751,Sebastian Molina, sebastian.molina.5@gmail.com ,28/07/2024,187485.73,ARS,Marketplace,3
+V000468,31.982.751,Sebastián Molina,sebastian.molina.5@gmail.com,17/07/2024,68122.95,ARS,App,2
+V000469, 32043100 ,Federico Acosta, federico.acosta.59@empresa.com.ar ,15/10/2025,18071.55,ARS,Marketplace,4
+V000470,32043100,Federico Acosta,federico.acosta.59@empresa.com.ar,31/07/2025,56311.46,ARS,Marketplace,2
+V000471,,FEDERICO ACOSTA,federico.acosta.59@empresa.com.ar,23/04/2026,13864.19,ARS,Tienda,2
+V000472,32043100,Federico Acosta,federico.acosta.59@empresa.com.ar,26/06/2024,14989.2,ARS,Marketplace,1
+V000473,32-043-100,FEDERICO ACOSTA,,07-08-26,17720.51,ARS,App,1
+V000474,32.043.100,Federico Acosta,FEDERICO.ACOSTA.59@EMPRESA.COM.AR,2024-02-08,20272.31,ARS,Web,1
+V000475, 28984327 ,Lucia M. Acosta, lucia.matias.acosta.54@outlook.com ,18-01-26,13578.2,ARS,Tienda,2
+V000476,28.984.327,Lucia Matias Acosta,lucia.matias.acosta.54@outlook.com,15-07-26,15933.98,ARS,Web,4
+V000477, 28984327 ,LUCIA MATIAS ACOSTA,LUCIA.MATIAS.ACOSTA.54@OUTLOOK.COM,30-04-25,17055.27,ARS,Marketplace,1
+V000478,,Lucía Matías Acosta, lucia.matias.acosta.54@outlook.com ,28-01-25,59038.07,ARS,App,2
+V000479,28984327,Lucia Acosta,luciamatiasacosta54@outlook.com,09/12/2024,116279.12,ARS,App,2
+V000480,28.010.330,Leandro Benitez, leandro.benitez.85@empresa.com.ar ,2024-06-06,55820.33,ARS,Marketplace,1
+V000481,28-010-330,Leandro Benitez,LEANDRO.BENITEZ.85@EMPRESA.COM.AR,03/03/2024,21203.82,ARS,Marketplace,3
+V000482,28.010.330,Leandro Benítez,leandro.benitez.85@empresa.com.ar,23-02-26,19026.44,ARS,Tienda,1
+V000483,28-010-330,Leandro Benitez,LEANDRO.BENITEZ.85@EMPRESA.COM.AR,2024-10-04,5822.34,ARS,Web,1
+V000484,28.010.330,Leandro Benitez,leandro.benitez.85@empresa.com.ar,08-05-25,12654.18,ARS,Web,3
+V000485,34586391,Sofia Lopez,sofia.lopez.17@gmail.com,20/05/2025,30782.54,ARS,App,3
+V000486,34.586.391,SOFIA LOPEZ,sofia.lopez.17@gmail.com,22/07/2025,27511.85,ARS,Web,6
+V000487, 34586391 ,Sofía López,sofialopez17@gmail.com,12/03/2025,4679.44,ARS,Marketplace,1
+V000488, 22919872 ,Diego Ortiz,DIEGO.ORTIZ.89@OUTLOOK.COM,27/04/2025,262.34,USD,Marketplace,2
+V000489,22.919.872,Diego Ortiz,DIEGO.ORTIZ.89@OUTLOOK.COM,2024-07-23,68157.94,ARS,App,2
+V000490, 22919872 ,DIEGO ORTIZ,,28/11/2025,1500000.0,ARS,Tienda,2
+V000491,21-719-500,Sofia Rojas, sofia.carolina.rojas.56@empresa.com.ar ,08-11-24,18053.54,ARS,Web,4
+V000492,21.719.500,Sofia Carolina Rojas, sofia.carolina.rojas.56@empresa.com.ar ,31-08-25,24930.36,ARS,Marketplace,1
+V000493,21-719-500,Sofia Carolina Rojas,sofia.carolina.rojas.56@empresa.com.ar,05-08-25,41193.06,ARS,Web,2
+V000494,21-719-500,Sofia C. Rojas,sofia.carolina.rojas.56@empresa.com.ar,28/03/2026,14606.67,ARS,Web,3
+V000495,,María Suárez,mariasuarez14@gmail.com,14/05/2024,41369.12,ARS,Marketplace,4
+V000496, 35094276 ,Maria Suarez,maria.suarez.14@gmail.com,16-09-24,32634.75,ARS,App,1
+V000497,35.094.276,Maria Suarez, maria.suarez.14@gmail.com ,01/01/2024,33880.84,ARS,Marketplace,1
+V000498,35094276,Maria Suarez,MARIA.SUAREZ.14@GMAIL.COM,25/05/2024,21973.71,ARS,Marketplace,1
+V000499,35.094.276,MARIA SUAREZ,maria.suarez.14@gmail.com,2025-09-01,27600.66,ARS,Web,4
+V000500,35.094.276,Maria Suarez,,05-03-25,13227.72,ARS,Tienda,1
+V000501, 47775863 ,Tomas Suarez,TOMAS.SUAREZ.94@EMPRESA.COM.AR,19/05/2025,17.91,USD,Tienda,3
+V000502,47-775-863,Tomas Suarez,tomassuarez94@empresa.com.ar,15-10-24,18022.02,ARS,App,2
+V000503,47.775.863,TOMAS SUAREZ,TOMAS.SUAREZ.94@EMPRESA.COM.AR,2026-05-22,28407.35,ARS,Web,1
+V000504,38114535,Sofía Molina,sofia.molina.78@hotmail.com,2025-01-26,17259.48,ARS,Tienda,2
+V000505,38114535,Sofía Molina,sofia.molina.78@hotmail.com,2026-05-10,23449.04,ARS,App,1
+V000506, 38114535 ,Sofia Molina,sofia.molina.78@hotmail.com,25-03-25,25820.92,ARS,App,3
+V000507,36287184,Rocio Rodriguez, rocio.rodriguez.39@hotmail.com ,28/12/2024,67214.77,ARS,Marketplace,1
+V000508,36.287.184,Rocío Rodríguez,ROCIO.RODRIGUEZ.39@HOTMAIL.COM,31-01-24,23134.75,ARS,Tienda,5
+V000509,36-287-184,ROCIO RODRIGUEZ,rocio.rodriguez.39@hotmail.com,15-07-26,24271.71,ARS,App,2
+V000510,,DANIELA FLORES,DANIELA.FLORES.59@EMPRESA.COM.AR,13/02/2024,96495.18,ARS,Marketplace,1
+V000511,,Daniela Flores, daniela.flores.59@empresa.com.ar ,2025-10-10,108796.25,ARS,App,3
+V000512,24.901.084,Daniela Flores,daniela.flores.59@empresa.com.ar,11/07/2024,36541.89,ARS,App,5
+V000513,24901084,Daniela Flores,DANIELA.FLORES.59@EMPRESA.COM.AR,19/05/2026,24938.13,ARS,Marketplace,2
+V000514,24.901.084,Daniela Flores,,29/10/2025,80232.16,ARS,App,4
+V000515,24901084,Daniela Flores,,2025-01-20,151696.85,ARS,Web,2
+V000516,49.827.543,Carolina Gomez,CAROLINA.GOMEZ.46@OUTLOOK.COM,05/08/2026,77864.56,ARS,Tienda,2
+V000517,49-827-543,Carolina Gómez,CAROLINA.GOMEZ.46@OUTLOOK.COM,27/03/2026,5786.88,ARS,Web,1
+V000518,49.827.543,Carolina Gomez,CAROLINA.GOMEZ.46@OUTLOOK.COM,11/03/2024,15521.59,ARS,App,3
+V000519,49827543,Carolina Gomez,CAROLINA.GOMEZ.46@OUTLOOK.COM,22/11/2025,13586.07,ARS,App,3
+V000520,49-827-543,Carolina Gomez,carolina.gomez.46@outlook.com,15-06-25,34937.09,ARS,Marketplace,3
+V000521, 23605706 ,Agustina Silva, agustina.silva.95@outlook.com ,19/09/2024,6366.7,ARS,Marketplace,5
+V000522,23-605-706,Agustina Silva, agustina.silva.95@outlook.com ,2024-10-13,26205.91,ARS,App,3
+V000523, 23605706 ,Agustina Silva, agustina.silva.95@outlook.com ,08/02/2024,18244.25,ARS,App,1
+V000524,23605706,Agustina Silva, agustina.silva.95@outlook.com ,20/10/2025,38337.05,ARS,Web,2
+V000525,35-358-120,Leandro Castro,leandro.castro.79@empresa.com.ar,19-01-26,7387.25,ARS,Tienda,1
+V000526,35.358.120,Leandro Castro, leandro.castro.79@empresa.com.ar ,13/01/2026,11924.15,ARS,Marketplace,5
+V000527,35.358.120,Leandro Castro,,2025-11-05,25324.19,ARS,Web,3
+V000528,35358120,LEANDRO CASTRO, leandro.castro.79@empresa.com.ar ,05-10-25,140414.14,ARS,App,1
+V000529,35-358-120,Leandro Castro,LEANDRO.CASTRO.79@EMPRESA.COM.AR,18-07-25,24863.36,ARS,Tienda,1
+V000530,35.358.120,Leandro Castro,LEANDRO.CASTRO.79@EMPRESA.COM.AR,2024-09-24,170581.21,ARS,App,5
+V000531,35.470.246,Florencia Álvarez, florencia.alvarez.15@outlook.com ,02-11-24,70909.71,ARS,Web,4
+V000532,35.470.246,FLORENCIA ALVAREZ,FLORENCIA.ALVAREZ.15@OUTLOOK.COM,24-05-26,91098.3,ARS,App,3
+V000533, 35470246 ,FLORENCIA ALVAREZ,florencia.alvarez.15@outlook.com,2025-11-27,111576.18,ARS,Marketplace,4
+V000534,35.470.246,Florencia Alvarez, florencia.alvarez.15@outlook.com ,27-11-24,298723.04,ARS,Tienda,2
+V000535,35470246,Florencia Alvarez,,24/11/2024,169283.98,ARS,App,4
+V000536,35.470.246,Florencia Alvarez,FLORENCIA.ALVAREZ.15@OUTLOOK.COM,07-07-24,157582.7,ARS,Tienda,1
+V000537,31-017-940,Paula S. Silva,PAULA.SEBASTIAN.SILVA.25@EMPRESA.COM.AR,19-10-24,33042.2,ARS,Web,1
+V000538,31017940,Paula Silva,PAULA.SEBASTIAN.SILVA.25@EMPRESA.COM.AR,10/04/2024,13382.99,ARS,Web,1
+V000539,20800214,Micaela Ramírez, camila.diaz.18@gmail.com ,2024-11-26,19377.48,ARS,Marketplace,1
+V000540,20.800.214,Micaela Ramirez,camila.diaz.18@gmail.com,2024-11-11,12642.08,ARS,Marketplace,2
+V000541,49.806.301,Camila Silva,CAMILA.SILVA.30@GMAIL.COM,23/03/2026,70951.75,ARS,App,2
+V000542,49.806.301,Camila Silva,,2024-01-19,26663.08,ARS,Marketplace,5
+V000543, 49806301 ,Camila Silva,CAMILA.SILVA.30@GMAIL.COM,2025-10-22,24195.75,ARS,App,1
+V000544,49.806.301,Camila Silva, camila.silva.30@gmail.com ,2025-07-14,19497.27,ARS,Web,1
+V000545,,CAMILA SILVA,camila.silva.30@gmail.com,2025-08-02,31925.91,ARS,Tienda,1
+V000546,49806301,Camila Silva,CAMILA.SILVA.30@GMAIL.COM,2026-04-25,19632.57,ARS,App,2
+V000547,28-718-857,Federico M. Lopez, federico.martin.lopez.13@empresa.com.ar ,30-05-25,43653.39,ARS,Web,1
+V000548,28718857,FEDERICO MARTIN LOPEZ,FEDERICO.MARTIN.LOPEZ.13@EMPRESA.COM.AR,12/07/2024,67196.41,ARS,Marketplace,1
+V000549,,Federico Martín López, federico.martin.lopez.13@empresa.com.ar ,12/04/2026,37072.41,ARS,Web,1
+V000550,28-718-857,FEDERICO MARTIN LOPEZ,,2025-07-31,11343.28,ARS,Web,3
+V000551, 28718857 ,Federico Lopez,federico.martin.lopez.13@empresa.com.ar,17/01/2025,114608.27,ARS,Tienda,1
+V000552, 28718857 ,Federico M. Lopez,,17-11-24,36842.15,ARS,Tienda,1
+V000553,28718857,Federico Lopez,,13-04-26,60696.76,ARS,App,6
+V000554,30503680,Andres Rojas,andres.rojas.6@empresa.com.ar,2026-01-20,54401.14,ARS,Marketplace,1
+V000555,30-503-680,Andres Rojas,andres.rojas.6@empresa.com.ar,21-04-25,14208.54,ARS,Tienda,1
+V000556,30.503.680,Andres Rojas,,01-08-24,26004.1,ARS,Web,2
+V000557,30.503.680,Andres Rojas, andres.rojas.6@empresa.com.ar ,15-07-25,39590.37,ARS,Web,4
+V000558,32-760-352,Rocio Diaz,ROCIO.DIAZ.20@OUTLOOK.COM,01-12-25,158163.99,ARS,Web,1
+V000559,32760352,ROCIO DIAZ,rociodiaz20@outlook.com,10-11-25,39804.11,ARS,App,1
+V000560,32.760.352,Rocio Diaz, rocio.diaz.20@outlook.com ,03/11/2024,44753.73,ARS,Tienda,1
+V000561,32802482,Matias Acosta,MATIAS.ACOSTA.85@OUTLOOK.COM,2025-08-23,15264.53,ARS,Tienda,1
+V000562, 32802482 ,Matias Acosta,MATIAS.ACOSTA.85@OUTLOOK.COM,23/10/2025,38481.49,ARS,Marketplace,4
+V000563,,Matías Acosta, matias.acosta.85@outlook.com ,24/05/2025,143380.99,ARS,Tienda,4
+V000564,32-802-482,Matias Acosta,,04-06-26,18071.15,ARS,Marketplace,4
+V000565,32802482,Matias Acosta,matias.acosta.85@outlook.com,17-02-25,125248.59,ARS,Web,1
+V000566,32.802.482,Matias Acosta,matias.acosta.85@outlook.com,09-06-25,22700.33,ARS,Web,4
+V000567,32-802-482,Matías Acosta,matias.acosta.85@outlook.com,20-09-24,244526.17,ARS,Web,2
+V000568, 45217576 ,Gonzalo Acosta,gonzaloacosta33@gmail.com,12/06/2024,17222.18,ARS,Tienda,2
+V000569,45-217-576,Gonzalo Acosta,GONZALO.ACOSTA.33@GMAIL.COM,10-08-26,57345.2,ARS,Web,3
+V000570, 45217576 ,Gonzalo Acosta,,20/05/2024,29229.05,ARS,Web,5
+V000571, 45217576 ,GONZALO ACOSTA,,2025-12-10,16080.36,ARS,App,1
+V000572, 45174168 ,Gonzalo Acosta,GONZALO.ACOSTA.77@OUTLOOK.COM,2025-03-20,15801.1,ARS,App,2
+V000573,35.442.714,Tomas Rojas,TOMAS.ROJAS.70@GMAIL.COM,14-05-24,29011.19,ARS,App,1
+V000574,35-380-018,Daniela Andres Diaz,daniela.andres.diaz.31@empresa.com.ar,03-01-24,38907.25,ARS,Web,1
+V000575,35380018,DANIELA ANDRES DIAZ,DANIELA.ANDRES.DIAZ.31@EMPRESA.COM.AR,27/04/2024,28325.88,ARS,Tienda,4
+V000576,35380018,Daniela Andrés Díaz, daniela.andres.diaz.31@empresa.com.ar ,2024-08-13,8906.46,ARS,Marketplace,1
+V000577,35.380.018,DANIELA ANDRES DIAZ, daniela.andres.diaz.31@empresa.com.ar ,2026-02-12,28520.32,ARS,App,2
+V000578,35-699-736,Julieta Molina,julieta.molina.58@outlook.com,2024-07-29,24667.24,ARS,App,1
+V000579,,Julieta Molina, julieta.molina.58@outlook.com ,05/02/2026,13089.84,ARS,Tienda,2
+V000580, 35699736 ,Julieta Molina,julietamolina58@outlook.com,04-10-24,11618.2,ARS,Web,1
+V000581, 35699736 ,Julieta Molina,JULIETA.MOLINA.58@OUTLOOK.COM,05/09/2024,24027.03,ARS,Web,1
+V000582,31-429-687,Agustina Rodriguez,AGUSTINA.RODRIGUEZ.81@GMAIL.COM,2026-05-28,10952.49,ARS,Web,3
+V000583, 31429687 ,AGUSTINA RODRIGUEZ,agustina.rodriguez.81@gmail.com,29-02-24,48499.28,ARS,Web,1
+V000584,31429687,Agustina Rodriguez, agustina.rodriguez.81@gmail.com ,05/06/2026,34664.04,ARS,App,4
+V000585,31.429.687,AGUSTINA RODRIGUEZ,agustina.rodriguez.81@gmail.com,30/06/2024,65844.11,ARS,Tienda,2
+V000586, 47055861 ,Joaquin Lopez, joaquin.lopez.59@gmail.com ,09/07/2026,9156.97,ARS,Web,2
+V000587, 47055861 ,JOAQUIN LOPEZ,joaquin.lopez.59@gmail.com,2025-06-26,23669.32,ARS,Tienda,2
+V000588,42489808,Leandro Romero, leandro.romero.6@hotmail.com ,09/12/2025,54797.28,ARS,App,5
+V000589, 42489808 ,LEANDRO ROMERO, leandro.romero.6@hotmail.com ,2024-01-22,43016.13,ARS,Web,2
+V000590,42-489-808,Leandro Romero, leandro.romero.6@hotmail.com ,13/07/2025,28160.96,ARS,Marketplace,3
+V000591,42489808,Leandro Romero,LEANDRO.ROMERO.6@HOTMAIL.COM,22-10-24,52124.37,ARS,App,4
+V000592,20993851,Franco Tomas Ortiz,FRANCO.TOMAS.ORTIZ.78@EMPRESA.COM.AR,01-05-24,23970.29,ARS,App,5
+V000593,20993851,FRANCO TOMAS ORTIZ, franco.tomas.ortiz.78@empresa.com.ar ,19/03/2026,123487.86,ARS,Web,2
+V000594,,Franco Tomas Ortiz, franco.tomas.ortiz.78@empresa.com.ar ,10-11-24,30944.78,ARS,Tienda,1
+V000595,20.993.851,Franco Tomas Ortiz,franco.tomas.ortiz.78@empresa.com.ar,2026-08-16,34618.69,ARS,Web,3
+V000596, 20993851 ,Franco Tomas Ortiz,franco.tomas.ortiz.78@empresa.com.ar,03-08-26,46969.31,ARS,Web,5
+V000597,31-570-412,Camila Flores,camila.flores.2@gmail.com,14/03/2025,281804.55,ARS,App,4
+V000598, 31570412 ,Camila Flores,CAMILA.FLORES.2@GMAIL.COM,2025-04-05,144994.6,ARS,Marketplace,2
+V000599, 31570412 ,Camila Flores,CAMILA.FLORES.2@GMAIL.COM,01-04-26,297139.4,ARS,Web,1
+V000600,31-570-412,Camila Flores, camila.flores.2@gmail.com ,2026-06-28,113566.67,ARS,Marketplace,2
+V000601,,Camila Flores,camila.flores.2@gmail.com,21-07-26,146948.58,ARS,App,1
+V000602,31-570-412,Camila Flores,CAMILA.FLORES.2@GMAIL.COM,2024-07-26,173089.82,ARS,Tienda,2
+V000603,31.570.412,Camila Flores, camila.flores.2@gmail.com ,20/04/2026,162856.63,ARS,Web,2
+V000604,31-570-412,Camila Flores,,2024-09-19,106012.96,ARS,Marketplace,2
+V000605,31-570-412,Camila Flores,CAMILA.FLORES.2@GMAIL.COM,03/02/2026,54117.19,ARS,Web,2
+V000606,26.479.676,Sofia Leandro Romero,,20/10/2025,48570.31,ARS,Marketplace,1
+V000607,26.479.676,Sofia Leandro Romero, sofia.leandro.romero.66@hotmail.com ,17/02/2025,64304.53,ARS,Marketplace,1
+V000608,26-686-805,Leandro Ruiz,leandro.ruiz.11@gmail.com,2024-01-28,82531.03,ARS,Marketplace,3
+V000609, 26686805 ,Leandro Ruiz,LEANDRO.RUIZ.11@GMAIL.COM,2024-09-09,10645.18,ARS,Web,2
+V000610,26-686-805,LEANDRO RUIZ,,2025-12-29,57768.99,ARS,Marketplace,2
+V000611,,Leandro Ruiz, leandro.ruiz.11@gmail.com ,06-09-24,39696.38,ARS,Web,1
+V000612,26686805,Leandro Ruiz, leandro.ruiz.11@gmail.com ,05-12-25,19337.82,ARS,Tienda,4
+V000613,42000097,FEDERICO SUAREZ,,2024-02-24,901466.62,ARS,Tienda,2
+V000614,42.000.097,FEDERICO SUAREZ,FEDERICO.SUAREZ.19@OUTLOOK.COM,29/07/2024,160233.67,ARS,Marketplace,2
+V000615,42000097,Federico Suarez,federico.suarez.19@outlook.com,28-01-24,253106.29,ARS,Web,2
+V000616,42000097,Federico Suárez,federico.suarez.19@outlook.com,2025-03-31,109427.08,ARS,App,2
+V000617,42.000.097,Federico Suarez,federico.suarez.19@outlook.com,28-04-24,179141.63,ARS,Web,1
+V000618,35955326,Matías Torres,matias.torres.74@gmail.com,26/11/2024,45258.91,ARS,App,2
+V000619,35.955.326,MATIAS TORRES,,2025-10-18,20093.5,ARS,App,1
+V000620,,Matias Torres,matias.torres.74@gmail.com,2024-10-03,9911.29,ARS,App,4
+V000621,35955326,Matias Torres,MATIAS.TORRES.74@GMAIL.COM,2024-05-10,2500.0,ARS,Web,4
+V000622,35-955-326,Matias Torres, matias.torres.74@gmail.com ,13/03/2024,18516.95,ARS,Tienda,1
+V000623,37-730-682,Daniela Ramírez,DANIELA.RAMIREZ.50@OUTLOOK.COM,09/06/2026,18779.16,ARS,Marketplace,1
+V000624,,Daniela Ramírez,DANIELA.RAMIREZ.50@OUTLOOK.COM,2024-02-27,2582.3,ARS,Tienda,1
+V000625, 37730682 ,Daniela Ramirez,DANIELA.RAMIREZ.50@OUTLOOK.COM,28/05/2024,37592.72,ARS,App,2
+V000626, 27567436 ,Juan Tomas Molina, juan.tomas.molina.71@empresa.com.ar ,22/10/2025,65903.76,ARS,App,5
+V000627,27567436,Juan Molina,,08-08-25,35831.13,ARS,Marketplace,2
+V000628,27567436,Juan Molina,juan.tomas.molina.71@empresa.com.ar,06-05-25,21557.52,ARS,Web,1
+V000629, 27567436 ,Juan Molina,JUAN.TOMAS.MOLINA.71@EMPRESA.COM.AR,22-03-24,29406.29,ARS,App,3
+V000630, 40893195 ,Agustina Benitez,agustina.benitez.49@empresa.com.ar,2025-04-21,68680.6,ARS,App,2
+V000631,40893195,Agustina Benitez,AGUSTINA.BENITEZ.49@EMPRESA.COM.AR,25/02/2026,15700.13,ARS,Marketplace,3
+V000632,40-893-195,Agustina Benítez,,2024-03-08,121941.15,ARS,Web,1
+V000633,40-893-195,Agustina Benítez,agustina.benitez.49@empresa.com.ar,2025-04-22,39918.58,ARS,App,3
+V000634,26731217,VALENTINA ROMERO, valentina.romero.94@empresa.com.ar ,2025-12-27,7291.07,ARS,App,2
+V000635,30-521-997,Sebastián Flores,SEBASTIAN.FLORES.5@EMPRESA.COM.AR,2024-10-15,67988.67,ARS,App,5
+V000636,30.521.997,Sebastian Flores,sebastian.flores.5@empresa.com.ar,17/12/2025,38.8,USD,Tienda,1
+V000637, 30521997 ,Sebastián Flores,SEBASTIAN.FLORES.5@EMPRESA.COM.AR,17-03-25,25724.94,ARS,Web,5
+V000638,44191672,Tomas Joaquin Romero,tomasjoaquinromero8@empresa.com.ar,2025-04-07,5654.83,ARS,Marketplace,4
+V000639,44191672,TOMAS JOAQUIN ROMERO, tomas.joaquin.romero.8@empresa.com.ar ,23/05/2026,30761.08,ARS,Tienda,2
+V000640,44191672,TOMAS JOAQUIN ROMERO,,19-01-25,50402.72,ARS,Tienda,1
+V000641,44-191-672,Tomas Joaquin Romero,TOMAS.JOAQUIN.ROMERO.8@EMPRESA.COM.AR,09/11/2024,24950.66,ARS,App,1
+V000642,28.095.882,Julieta Benitez,julieta.benitez.71@hotmail.com,10/07/2025,18580.51,ARS,Web,3
+V000643,28.095.882,Julieta Benitez,JULIETA.BENITEZ.71@HOTMAIL.COM,07/09/2025,14867.65,ARS,Marketplace,1
+V000644,36.354.851,FEDERICO FERNANDEZ, federico.fernandez.29@gmail.com ,01-11-25,83685.62,ARS,App,2
+V000645,36354851,Federico Fernandez,FEDERICO.FERNANDEZ.29@GMAIL.COM,07/08/2024,254887.46,ARS,Web,1
+V000646, 43505109 ,Sebastian S. Romero,SEBASTIAN.SOFIA.ROMERO.38@EMPRESA.COM.AR,2026-03-28,143154.57,ARS,App,4
+V000647,43.505.109,Sebastian Romero,sebastian.sofia.romero.38@empresa.com.ar,24/02/2025,24868.54,ARS,Marketplace,2
+V000648,21005720,Carolina Rodriguez,CAROLINA.RODRIGUEZ.40@EMPRESA.COM.AR,22/08/2025,10409.02,ARS,Web,2
+V000649, 21005720 ,Carolina Rodriguez,CAROLINA.RODRIGUEZ.40@EMPRESA.COM.AR,29/06/2026,20645.5,ARS,Marketplace,4
+V000650,21.005.720,Carolina Rodriguez,carolina.rodriguez.40@empresa.com.ar,2025-02-20,22703.71,ARS,App,2
+V000651,28-241-469,Carolina Navarro, carolina.navarro.40@gmail.com ,2024-12-19,34610.77,ARS,Web,1
+V000652,28-241-469,Carolina Navarro,carolina.navarro.40@gmail.com,29/06/2025,40614.47,ARS,Web,1
+V000653,28241469,Carolina Navarro, carolina.navarro.40@gmail.com ,06/01/2025,20113.4,ARS,App,1
+V000654,28-241-469,Carolina Navarro,,19/11/2024,14203.0,ARS,Web,5
+V000655,28.241.469,Carolina Navarro,CAROLINA.NAVARRO.40@GMAIL.COM,2026-01-21,20358.89,ARS,Web,3
+V000656,45.489.119,Carlos Benitez, carlos.benitez.80@hotmail.com ,2025-01-09,47380.6,ARS,Web,3
+V000657,45-489-119,Carlos Benitez, carlos.benitez.80@hotmail.com ,01-12-25,17453.75,ARS,Web,2
+V000658, 45489119 ,Carlos Benitez,,07/07/2024,42877.54,ARS,App,1
+V000659,37-064-102,Gonzalo Fernandez,,16/12/2025,49272.29,ARS,Marketplace,7
+V000660,37.064.102,Gonzalo Fernandez,,28/08/2024,15497.16,ARS,Web,4
+V000661,36.602.230,Paula Benitez, paula.benitez.13@gmail.com ,09-04-24,99353.99,ARS,App,1
+V000662,45187864,MATIAS MARTINEZ,MATIAS.MARTINEZ.76@OUTLOOK.COM,2024-07-26,209135.64,ARS,Tienda,2
+V000663,45-187-864,Matias Martinez,MATIAS.MARTINEZ.76@OUTLOOK.COM,03-01-26,201121.01,ARS,App,4
+V000664,45.187.864,Matías Martínez, matias.martinez.76@outlook.com ,2025-09-17,87142.72,ARS,App,4
+V000665,45187864,Matías Martínez, matias.martinez.76@outlook.com ,11/10/2024,114650.15,ARS,App,3
+V000666,30-419-576,Valentina Sánchez,VALENTINA.SANCHEZ.53@OUTLOOK.COM,2025-01-30,51683.47,ARS,App,1
+V000667, 30419576 ,VALENTINA SANCHEZ,valentina.sanchez.53@outlook.com,30-11-25,16054.78,ARS,Tienda,2
+V000668,30-419-576,Valentina Sanchez,valentinasanchez53@outlook.com,16-04-25,3751.56,ARS,Tienda,1
+V000669,46187700,Tomás Matías López,TOMAS.MATIAS.LOPEZ.11@EMPRESA.COM.AR,16-05-24,6567.34,ARS,Tienda,3
+V000670,46187700,Tomas Matias Lopez,tomas.matias.lopez.11@empresa.com.ar,24-07-26,63575.06,ARS,App,2
+V000671, 46187700 ,Tomas Matias Lopez,tomas.matias.lopez.11@empresa.com.ar,08-01-25,190057.32,ARS,Web,2
+V000672,46-187-700,Tomas Matias Lopez, tomas.matias.lopez.11@empresa.com.ar ,09-11-25,96354.41,ARS,Marketplace,1
+V000673,35509837,Joaquín Rodríguez,JOAQUIN.RODRIGUEZ.68@GMAIL.COM,01-10-24,64810.27,ARS,App,1
+V000674,35-509-837,Joaquín Rodríguez,JOAQUIN.RODRIGUEZ.68@GMAIL.COM,21-01-26,56115.81,ARS,Tienda,2
+V000675,35.509.837,Joaquin Rodriguez,,17-06-25,19175.45,ARS,Web,2
+V000676,35-509-837,JOAQUIN RODRIGUEZ,JOAQUIN.RODRIGUEZ.68@GMAIL.COM,22-05-25,29701.33,ARS,Marketplace,5
+V000677, 35509837 ,Joaquin Rodriguez,joaquin.rodriguez.68@gmail.com,20-05-24,45008.35,ARS,Web,3
+V000678, 35509837 ,Joaquín Rodríguez,joaquin.rodriguez.68@gmail.com,11/09/2024,7524.66,ARS,Marketplace,2
+V000679,32.909.159,MARIA CASTRO,MARIA.CASTRO.35@GMAIL.COM,31/12/2025,38062.19,ARS,Marketplace,2
+V000680,32.909.159,Maria Castro,mariacastro35@gmail.com,27/07/2024,18731.41,ARS,App,3
+V000681,,Maria Castro,maria.castro.35@gmail.com,14-08-25,57083.1,ARS,Marketplace,1
+V000682, 32909159 ,Maria Castro,maria.castro.35@gmail.com,2024-08-23,11506.52,ARS,Web,1
+V000683,32-201-281,Nicolas Ruiz,nicolas.ruiz.56@hotmail.com,2024-02-29,59174.66,ARS,Tienda,3
+V000684, 32201281 ,Nicolas Ruiz, nicolas.ruiz.56@hotmail.com ,11-10-24,52264.35,ARS,Web,1
+V000685,,Natalia Castro,natalia.castro.64@empresa.com.ar,2025-08-28,35187.66,ARS,Tienda,2
+V000686, 28693887 ,Natalia Castro,NATALIA.CASTRO.64@EMPRESA.COM.AR,13-01-24,13418.68,ARS,Web,2
+V000687,28.693.887,Natalia Castro,NATALIA.CASTRO.64@EMPRESA.COM.AR,2024-02-05,86426.78,ARS,Web,2
+V000688,41.528.997,Juan Silva,JUAN.SILVA.0@EMPRESA.COM.AR,24-01-25,26158.85,ARS,Web,2
+V000689,41-528-997,Juan Silva,juan.silva.0@empresa.com.ar,2026-05-19,15349.25,ARS,Tienda,1
+V000690,41528997,Juan Silva, juan.silva.0@empresa.com.ar ,13-06-24,7537.72,ARS,App,3
+V000691,41-528-997,Juan Silva,juan.silva.0@empresa.com.ar,2025-05-15,7156.9,ARS,Tienda,5
+V000692,41-528-997,Juan Silva,juan.silva.0@empresa.com.ar,25-07-25,31069.43,ARS,Tienda,1
+V000693,41-528-997,Juan Silva,,2024-01-20,16.49,USD,Tienda,1
+V000694, 47195016 ,ROCIO MARTINEZ, rocio.martinez.92@empresa.com.ar ,27-09-24,21224.73,ARS,Marketplace,6
+V000695,47.195.016,Rocio Martinez, rocio.martinez.92@empresa.com.ar ,08-06-26,11919.52,ARS,App,1
+V000696, 47195016 ,ROCIO MARTINEZ,rocio.martinez.92@empresa.com.ar,01/02/2026,30665.35,ARS,App,6
+V000697,21-235-333,Franco Castro, franco.castro.72@gmail.com ,30-03-26,100545.45,ARS,Marketplace,1
+V000698,21235333,Franco Castro,franco.castro.72@gmail.com,2026-05-10,179695.59,ARS,Web,2
+V000699, 21235333 ,Franco Castro,FRANCO.CASTRO.72@GMAIL.COM,2025-12-14,196222.14,ARS,App,1
+V000700, 21235333 ,Franco Castro,FRANCO.CASTRO.72@GMAIL.COM,08-02-25,174005.23,ARS,App,2
+V000701,21.235.333,Franco Castro, franco.castro.72@gmail.com ,2026-05-15,176828.97,ARS,Web,1
+V000702, 21235333 ,FRANCO CASTRO,franco.castro.72@gmail.com,20-03-26,207414.24,ARS,Tienda,2
+V000703,20-456-261,Andres Ramirez, andres.ramirez.83@empresa.com.ar ,28-02-26,40645.58,ARS,Tienda,2
+V000704, 20456261 ,Andres Ramirez,ANDRES.RAMIREZ.83@EMPRESA.COM.AR,2025-05-23,14225.98,ARS,Tienda,2
+V000705,20.456.261,Andres Ramirez,ANDRES.RAMIREZ.83@EMPRESA.COM.AR,2024-01-25,114257.6,ARS,Marketplace,4
+V000706,20-456-261,Andres Ramirez,andres.ramirez.83@empresa.com.ar,2025-08-03,53481.39,ARS,App,2
+V000707,20-456-261,Andres Ramirez, andres.ramirez.83@empresa.com.ar ,2025-06-27,45930.67,ARS,Web,4
+V000708,20.456.261,Andres Ramirez,ANDRES.RAMIREZ.83@EMPRESA.COM.AR,13/02/2025,24743.06,ARS,Web,2
+V000709,20-456-261,ANDRES RAMIREZ,andres.ramirez.83@empresa.com.ar,2025-09-02,49876.52,ARS,App,1
+V000710,20.456.261,Andrés Ramírez,andresramirez83@empresa.com.ar,22/02/2025,38750.65,ARS,Marketplace,5
+V000711,24-574-332,Camila Navarro, camila.navarro.72@hotmail.com ,2025-04-16,17602.8,ARS,Tienda,3
+V000712,24-574-332,CAMILA NAVARRO, camila.navarro.72@hotmail.com ,29/01/2026,19910.44,ARS,Web,1
+V000713,24-574-332,CAMILA NAVARRO,camila.navarro.72@hotmail.com,07-02-25,20517.26,ARS,Marketplace,2
+V000714, 24574332 ,Camila Navarro,CAMILA.NAVARRO.72@HOTMAIL.COM,03-06-26,22374.2,ARS,Tienda,3
+V000715,24-574-332,Camila Navarro,CAMILA.NAVARRO.72@HOTMAIL.COM,23/03/2025,31558.85,ARS,Web,5
+V000716,24-574-332,Camila Navarro,CAMILA.NAVARRO.72@HOTMAIL.COM,2025-10-20,87714.67,ARS,Marketplace,1
+V000717,24.574.332,Camila Navarro, camila.navarro.72@hotmail.com ,07/02/2025,15467.82,ARS,Web,2
+V000718,45813816,Agustina Benitez,agustina.benitez.96@empresa.com.ar,09/04/2025,39887.26,ARS,App,1
+V000719,45-813-816,AGUSTINA BENITEZ,AGUSTINA.BENITEZ.96@EMPRESA.COM.AR,2024-08-24,30103.78,ARS,Tienda,3
+V000720,45813816,Agustina Benitez,agustina.benitez.96@empresa.com.ar,28/01/2026,24522.7,ARS,Marketplace,2
+V000721,33-757-189,Martin Castro,martin.castro.19@empresa.com.ar,2024-12-01,49777.06,ARS,App,1
+V000722, 33757189 ,Martin Castro,martin.castro.19@empresa.com.ar,2025-12-29,17819.02,ARS,Tienda,1
+V000723, 33757189 ,Martin Castro, martin.castro.19@empresa.com.ar ,2025-05-17,100593.4,ARS,Marketplace,1
+V000724, 33757189 ,Martin Castro,martin.castro.19@empresa.com.ar,24/03/2024,24526.33,ARS,Marketplace,4
+V000725,33.757.189,Martín Castro,MARTIN.CASTRO.19@EMPRESA.COM.AR,21-07-24,34445.26,ARS,App,3
+V000726,28-608-529,Micaela Suárez,MICAELA.SUAREZ.48@EMPRESA.COM.AR,12-04-26,3745.51,ARS,Tienda,1
+V000727,28.608.529,Micaela Suarez,MICAELA.SUAREZ.48@EMPRESA.COM.AR,2026-05-12,28850.77,ARS,Marketplace,1
+V000728,,Micaela Suarez, micaela.suarez.48@empresa.com.ar ,2024-07-25,43400.77,ARS,Marketplace,2
+V000729,47688149,Paula Romero,paula.romero.34@empresa.com.ar,30/07/2026,17207.44,ARS,App,1
+V000730,47-688-149,Paula Romero, paula.romero.34@empresa.com.ar ,22-11-25,3502.58,ARS,Marketplace,1
+V000731,47688149,Paula Romero, paula.romero.34@empresa.com.ar ,31/01/2024,25529.27,ARS,Marketplace,2
+V000732,47-688-149,Paula Romero,paula.romero.34@empresa.com.ar,05-12-25,31486.28,ARS,Marketplace,3
+V000733,20-179-048,MICAELA ACOSTA,,23-04-24,142448.51,ARS,Tienda,1
+V000734, 41609888 ,Julieta Navarro,julieta.navarro.38@hotmail.com,2024-01-02,14993.76,ARS,App,2
+V000735,41-609-888,Julieta Navarro,julieta.navarro.38@hotmail.com,2026-02-24,19242.56,ARS,App,4
+V000736,41-609-888,Julieta Navarro,julietanavarro38@hotmail.com,16-03-24,29022.34,ARS,Web,3
+V000737,31-452-164,Florencia Gonzalo Molina,FLORENCIA.GONZALO.MOLINA.73@GMAIL.COM,30/05/2024,45338.57,ARS,Web,2
+V000738,31.452.164,Florencia Gonzalo Molina,FLORENCIA.GONZALO.MOLINA.73@GMAIL.COM,2024-01-27,34191.44,ARS,Tienda,1
+V000739,31452164,Florencia Gonzalo Molina,florencia.gonzalo.molina.73@gmail.com,2026-06-11,13217.64,ARS,App,1
+V000740,31-452-164,Florencia Molina,FLORENCIA.GONZALO.MOLINA.73@GMAIL.COM,15-05-26,27323.67,ARS,Tienda,4
+V000741,36991986,Diego Silva, diego.silva.75@gmail.com ,27-04-24,71477.77,ARS,Marketplace,1
+V000742,36991986,Diego Silva,DIEGO.SILVA.75@GMAIL.COM,29-10-24,39150.88,ARS,App,1
+V000743,26927227,Leandro Ortiz,,23/02/2024,32174.02,ARS,Web,4
+V000744,32.727.652,JUAN FERNANDEZ,juan.fernandez.17@outlook.com,2025-08-25,52659.58,ARS,App,1
+V000745,32.727.652,Juan Fernandez,JUAN.FERNANDEZ.17@OUTLOOK.COM,2025-06-09,29584.3,ARS,App,1
+V000746,32727652,Juan Fernandez,juan.fernandez.17@outlook.com,2026-03-19,48145.56,ARS,Tienda,1
+V000747,22.512.916,SEBASTIAN MEDINA,sebastian.medina.17@gmail.com,2024-10-09,43469.25,ARS,Web,3
+V000748,22.512.916,Sebastian Medina,SEBASTIAN.MEDINA.17@GMAIL.COM,19/04/2024,166623.11,ARS,Web,2
+V000749, 22512916 ,Sebastián Medina,,2025-09-05,109134.93,ARS,App,2
+V000750,22.512.916,SEBASTIAN MEDINA,SEBASTIAN.MEDINA.17@GMAIL.COM,09-10-25,20847.83,ARS,Web,1
+V000751,22512916,Sebastián Medina,SEBASTIAN.MEDINA.17@GMAIL.COM,2025-07-23,35411.85,ARS,Tienda,2
+V000752,22-512-916,Sebastian Medina,sebastian.medina.17@gmail.com,2024-10-06,104619.38,ARS,Marketplace,1
+V000753, 35309233 ,Joaquin Lopez, joaquin.lopez.14@hotmail.com ,03-08-26,22103.75,ARS,Web,2
+V000754,35-309-233,Joaquin Lopez, joaquin.lopez.14@hotmail.com ,20-09-24,35808.53,ARS,Web,2
+V000755,35-309-233,JOAQUIN LOPEZ,JOAQUIN.LOPEZ.14@HOTMAIL.COM,06/05/2026,15506.62,ARS,Tienda,2
+V000756, 35309233 ,JOAQUIN LOPEZ,joaquin.lopez.14@hotmail.com,2025-11-21,30016.85,ARS,Tienda,4
+V000757, 36206940 ,Sebastian Torres,SEBASTIAN.TORRES.65@HOTMAIL.COM,2025-08-30,169098.05,ARS,Tienda,2
+V000758,36-206-940,Sebastián Torres, sebastian.torres.65@hotmail.com ,2024-12-21,81078.37,ARS,App,1
+V000759,36.206.940,Sebastian Torres,sebastian.torres.65@hotmail.com,07-04-26,24948.5,ARS,App,2
+V000760, 36206940 ,SEBASTIAN TORRES,sebastian.torres.65@hotmail.com,21-05-26,67151.95,ARS,Marketplace,2
+V000761,36-206-940,Sebastián Torres,SEBASTIAN.TORRES.65@HOTMAIL.COM,16-08-26,19492.23,ARS,Tienda,2
+V000762,48-744-805,Rocio Medina,rocio.medina.16@outlook.com,2024-03-11,57230.99,ARS,Tienda,3
+V000763,48-744-805,Rocío Medina,ROCIO.MEDINA.16@OUTLOOK.COM,2024-11-17,45517.52,ARS,App,3
+V000764,,Agustina Silva,agustina.silva.20@hotmail.com,21/09/2025,86100.69,ARS,Tienda,2
+V000765,21.747.335,Agustina Silva,AGUSTINA.SILVA.20@HOTMAIL.COM,26/02/2025,53306.37,ARS,Marketplace,3
+V000766,21747335,Agustina Silva,,29/05/2026,41708.72,ARS,Tienda,2
+V000767,23457785,Juan Rojas,,22-08-24,37382.9,ARS,Marketplace,4
+V000768, 23457785 ,Juan Rojas,juan.rojas.28@gmail.com,13/01/2024,13362.39,ARS,Tienda,5
+V000769, 23457785 ,Juan Rojas, juan.rojas.28@gmail.com ,07/03/2025,52969.5,ARS,Web,1
+V000770,23.457.785,Juan Rojas,JUAN.ROJAS.28@GMAIL.COM,2025-06-13,72318.76,ARS,App,1
+V000771,23457785,Juan Rojas,juan.rojas.28@gmail.com,29-01-24,128765.98,ARS,App,1
+V000772,23-457-785,JUAN ROJAS,JUAN.ROJAS.28@GMAIL.COM,2024-02-26,52773.83,ARS,Marketplace,2
+V000773,23457785,JUAN ROJAS,JUAN.ROJAS.28@GMAIL.COM,12-07-24,21997.26,ARS,App,4
+V000774,23457785,Juan Rojas,juan.rojas.28@gmail.com,28/07/2024,131778.68,ARS,Marketplace,2
+V000775,,Lucia Perez,lucia.perez.63@outlook.com,2025-05-16,50677.89,ARS,Tienda,2
+V000776,24.190.469,Lucia Perez,LUCIA.PEREZ.63@OUTLOOK.COM,24-12-24,14185.84,ARS,Tienda,3
+V000777,24-190-469,Lucía Pérez, lucia.perez.63@outlook.com ,22-09-25,35061.66,ARS,Marketplace,1
+V000778, 24190469 ,Lucia Perez,LUCIA.PEREZ.63@OUTLOOK.COM,01/12/2025,77032.14,ARS,Marketplace,2
+V000779,24.190.469,Lucía Pérez, lucia.perez.63@outlook.com ,19/02/2026,278884.74,ARS,Web,1
+V000780,35.774.393,AGUSTINA MEDINA,AGUSTINA.MEDINA.83@HOTMAIL.COM,2025-05-04,20200.82,ARS,Tienda,1
+V000781,35.774.393,Agustina Medina,AGUSTINA.MEDINA.83@HOTMAIL.COM,03-02-26,26222.16,ARS,App,1
+V000782,,AGUSTINA MEDINA,agustinamedina83@hotmail.com,2025-05-28,61634.52,ARS,App,2
+V000783,35-774-393,AGUSTINA MEDINA,agustina.medina.83@hotmail.com,14-06-24,42101.3,ARS,Marketplace,1
+V000784,35774393,Agustina Medina,agustinamedina83@hotmail.com,04/08/2026,17.09,USD,Web,3
+V000785, 30543984 ,Julieta Gomez, julieta.gomez.96@outlook.com ,28-03-24,5241.45,ARS,Tienda,1
+V000786,30.543.984,JULIETA GOMEZ,julieta.gomez.96@outlook.com,23-01-25,230732.96,ARS,Tienda,2
+V000787,30-543-984,Julieta Gómez,,16/05/2024,13299.72,ARS,Marketplace,1
+V000788,46.557.072,Natalia Lopez,natalia.lopez.16@empresa.com.ar,15-02-24,97882.52,ARS,Web,2
+V000789,46-557-072,Natalia Lopez,natalialopez16@empresa.com.ar,23/02/2024,25075.36,ARS,Web,2
+V000790,46557072,Natalia Lopez,natalia.lopez.16@empresa.com.ar,17/04/2024,25599.29,ARS,Web,2
+V000791,46557072,NATALIA LOPEZ,NATALIA.LOPEZ.16@EMPRESA.COM.AR,29-04-25,13715.03,ARS,Tienda,1
+V000792,,NATALIA LOPEZ,natalia.lopez.16@empresa.com.ar,02/10/2024,32061.83,ARS,Marketplace,2
+V000793,35730453,Nicolás Rodríguez,nicolas.rodriguez.14@outlook.com,2025-09-28,29924.58,ARS,Tienda,3
+V000794,35730453,Nicolas Rodriguez, nicolas.rodriguez.14@outlook.com ,2026-05-07,43812.08,ARS,Tienda,1
+V000795,35-730-453,Nicolás Rodríguez,NICOLAS.RODRIGUEZ.14@OUTLOOK.COM,23/05/2024,10362.61,ARS,Web,3
+V000796,35730453,Nicolas Rodriguez,NICOLAS.RODRIGUEZ.14@OUTLOOK.COM,2025-08-04,24721.98,ARS,Marketplace,3
+V000797,35-730-453,Nicolas Rodriguez,nicolas.rodriguez.14@outlook.com,2026-01-31,27791.95,ARS,Web,2
+V000798, 23769393 ,Lucia Fernandez, lucia.fernandez.73@gmail.com ,02/06/2025,268451.89,ARS,App,4
+V000799,23-769-393,LUCIA FERNANDEZ, lucia.fernandez.73@gmail.com ,30-09-24,54225.57,ARS,App,1
+V000800,,MARTIN MEDINA,martin.medina.89@hotmail.com,31-07-24,22567.4,ARS,Web,2
+V000801,32-607-487,Martin Medina,MARTIN.MEDINA.89@HOTMAIL.COM,17-07-25,61214.91,ARS,Web,4
+V000802,32-607-487,MARTIN MEDINA,,22/08/2024,100975.21,ARS,Tienda,2
+V000803,49.294.512,FEDERICO ROJAS, federico.rojas.24@hotmail.com ,2025-04-07,33833.93,ARS,Marketplace,1
+V000804,49.294.512,Federico Rojas,federico.rojas.24@hotmail.com,07-07-24,20999.47,ARS,Tienda,2
+V000805, 49294512 ,Federico Rojas,federicorojas24@hotmail.com,11-01-26,44681.91,ARS,App,7
+V000806, 20745050 ,Nicolas Alvarez,NICOLAS.MARTIN.ALVAREZ.55@GMAIL.COM,18/07/2026,12489.71,ARS,Tienda,1
+V000807,20.745.050,Nicolas Martin Alvarez,nicolas.martin.alvarez.55@gmail.com,14-08-26,9075.62,ARS,App,2
+V000808, 20745050 ,Nicolas Martin Alvarez,NICOLAS.MARTIN.ALVAREZ.55@GMAIL.COM,09/04/2024,25919.78,ARS,App,1
+V000809,20745050,Nicolas M. Alvarez,NICOLAS.MARTIN.ALVAREZ.55@GMAIL.COM,20/02/2024,62593.23,ARS,Marketplace,2
+V000810,,Nicolas Martin Alvarez,NICOLAS.MARTIN.ALVAREZ.55@GMAIL.COM,2024-11-08,114957.01,ARS,App,2
+V000811,20745050,NICOLAS MARTIN ALVAREZ, nicolas.martin.alvarez.55@gmail.com ,02-06-25,7608.63,ARS,App,1
+V000812,20.745.050,Nicolas Martin Alvarez, nicolas.martin.alvarez.55@gmail.com ,14-04-26,60812.49,ARS,App,2
+V000813,29-726-897,Micaela Julieta Fernandez,micaela.julieta.fernandez.63@outlook.com,19/07/2025,10896.24,ARS,Web,3
+V000814,29.726.897,Micaela Fernandez,micaela.julieta.fernandez.63@outlook.com,02-05-25,27797.97,ARS,App,1
+V000815, 21637899 ,Pablo Rodriguez,,01-12-24,46471.35,ARS,Web,2
+V000816,21-637-899,Pablo Rodriguez,PABLO.RODRIGUEZ.1@EMPRESA.COM.AR,2024-06-30,79194.79,ARS,Web,1
+V000817,21.637.899,Pablo Rodríguez,pablo.rodriguez.1@empresa.com.ar,30-10-25,178094.67,ARS,App,1
+V000818,21-637-899,Pablo Rodriguez,pablorodriguez1@empresa.com.ar,18/02/2024,48234.63,ARS,App,2
+V000819,26365131,Julieta Ortiz, julieta.ortiz.10@outlook.com ,12/11/2024,26217.4,ARS,Web,4
+V000820,26365131,JULIETA ORTIZ, julieta.ortiz.10@outlook.com ,2024-05-21,21373.61,ARS,Marketplace,2
+V000821,48.328.109,Florencia Ortiz,FLORENCIA.ORTIZ.83@HOTMAIL.COM,08/05/2025,33477.91,ARS,Tienda,2
+V000822,48328109,Florencia Ortiz,,04-09-25,8563.03,ARS,App,5
+V000823,28-373-534,Carolina Ruiz,carolina.ruiz.54@gmail.com,11/03/2026,56535.91,ARS,Tienda,1
+V000824, 28373534 ,Carolina Ruiz, carolina.ruiz.54@gmail.com ,15/08/2026,27227.43,ARS,Web,3
+V000825,28.373.534,Carolina Ruiz,CAROLINA.RUIZ.54@GMAIL.COM,2026-04-02,76153.66,ARS,Tienda,3
+V000826,28.373.534,CAROLINA RUIZ, carolina.ruiz.54@gmail.com ,09-07-25,49824.45,ARS,Marketplace,2
+V000827,20-084-930,CAROLINA ROJAS, carolina.rojas.43@outlook.com ,03/01/2025,32288.2,ARS,Marketplace,2
+V000828,20084930,Carolina Rojas, carolina.rojas.43@outlook.com ,2025-02-21,62079.07,ARS,Marketplace,1
+V000829, 44521528 ,CARLOS NICOLAS BENITEZ,federico.acosta.77@gmail.com,18-04-26,89421.71,ARS,App,1
+V000830, 44521528 ,Carlos Nicolás Benítez, federico.acosta.77@gmail.com ,2026-04-06,8133.78,ARS,Web,1
+V000831,44521528,Carlos Benitez,federico.acosta.77@gmail.com,01/07/2025,21344.13,ARS,App,2
+V000832,,Sofia Lopez,sofia.lopez.76@empresa.com.ar,12-01-26,152276.95,ARS,App,3
+V000833,48-103-049,Sofia Lopez,,2024-04-28,11757.71,ARS,Web,1
+V000834, 21351580 ,LAURA PEREZ,,2025-08-23,25797.46,ARS,App,2
+V000835, 21351580 ,Laura Perez,LAURA.PEREZ.45@GMAIL.COM,2024-10-23,121988.93,ARS,Marketplace,4
+V000836,43331525,VALENTINA ORTIZ,valentina.ortiz.30@outlook.com,18/01/2026,17642.76,ARS,Marketplace,1
+V000837,32240338,Camila Acosta,CAMILA.ACOSTA.49@HOTMAIL.COM,20/05/2026,70683.14,ARS,App,1
+V000838,32.240.338,Camila Acosta,CAMILA.ACOSTA.49@HOTMAIL.COM,28-12-24,27346.94,ARS,Tienda,3
+V000839, 43780736 ,Tomas Andres Castro,,07-03-24,34808.99,ARS,Web,1
+V000840,43780736,Tomas Castro, tomas.andres.castro.35@hotmail.com ,2025-12-30,76135.08,ARS,App,1
+V000841,43780736,Tomás Andrés Castro, tomas.andres.castro.35@hotmail.com ,10/06/2024,26079.27,ARS,Web,3
+V000842,46642087,Federico Ruiz,federicoruiz38@empresa.com.ar,30/04/2024,58640.68,ARS,Tienda,1
+V000843,46.642.087,Federico Ruiz, federico.ruiz.38@empresa.com.ar ,2024-11-12,21423.33,ARS,App,1
+V000844, 46642087 ,Federico Ruiz,FEDERICO.RUIZ.38@EMPRESA.COM.AR,29-05-26,5805.66,ARS,Web,1
+V000845,46.642.087,Federico Ruiz, federico.ruiz.38@empresa.com.ar ,20/01/2026,29548.44,ARS,Marketplace,3
+V000846, 25193527 ,Andres Gomez,,23-02-24,52892.96,ARS,Marketplace,2
+V000847,,Andres Gomez,andres.gomez.89@gmail.com,2025-06-19,84372.24,ARS,App,1
+V000848,25-193-527,ANDRES GOMEZ, andres.gomez.89@gmail.com ,06-12-24,74951.17,ARS,Marketplace,1
+V000849, 35098516 ,Joaquin Silva,joaquinsilva37@gmail.com,01-07-25,30952.69,ARS,App,1
+V000850,34664901,Matias Perez,matiasperez6@gmail.com,01-10-24,35643.09,ARS,Marketplace,2
+V000851,,Matias Perez,,02-06-25,3420.9,ARS,App,2
+V000852,34-664-901,Matias Perez, matias.perez.6@gmail.com ,17-09-25,22550.42,ARS,Marketplace,1
+V000853,34.664.901,Matias Perez,,07-07-24,8148.26,ARS,Marketplace,4
+V000854, 34664901 ,Matias Perez,,28/05/2024,27224.82,ARS,Marketplace,5
+V000855,21-832-932,Tomas Lopez,tomas.natalia.lopez.79@outlook.com,06/07/2024,43330.75,ARS,Tienda,1
+V000856,48-378-072,Daniela Romero,DANIELA.ROMERO.8@GMAIL.COM,23-05-24,54433.35,ARS,App,3
+V000857, 48378072 ,Daniela Romero,,14/02/2025,45131.25,ARS,Tienda,3
+V000858,,Daniela Romero,,26-05-25,179648.58,ARS,Marketplace,1
+V000859,49.976.237,MATIAS MEDINA,matias.medina.10@outlook.com,2025-03-20,38680.55,ARS,Web,1
+V000860,49976237,Matias Medina, matias.medina.10@outlook.com ,10/04/2025,9946.88,ARS,Marketplace,1
+V000861, 49976237 ,MATIAS MEDINA,,23/01/2025,25845.04,ARS,Marketplace,2
+V000862,40.251.826,Carlos Torres,carlos.micaela.torres.8@gmail.com,09/04/2024,102641.71,ARS,Tienda,1
+V000863,40-251-826,Carlos Micaela Torres, carlos.micaela.torres.8@gmail.com ,04-12-24,60763.22,ARS,Marketplace,1
+V000864,40-251-826,Carlos M. Torres, carlos.micaela.torres.8@gmail.com ,2026-03-01,33969.7,ARS,App,1
+V000865,42-983-194,CAMILA LOPEZ, camila.lopez.23@gmail.com ,2025-08-04,12650.17,ARS,Tienda,2
+V000866,42.983.194,Camila Lopez, camila.lopez.23@gmail.com ,2026-01-26,14006.45,ARS,Tienda,1
+V000867, 42983194 ,Camila Lopez, camila.lopez.23@gmail.com ,03/08/2025,8409.41,ARS,Web,3
+V000868,42-983-194,Camila Lopez,camila.lopez.23@gmail.com,03-01-24,8467.17,ARS,Web,4
+V000869,42-983-194,Camila Lopez, camila.lopez.23@gmail.com ,2026-03-02,27668.11,ARS,Tienda,2
+V000870,42983194,CAMILA LOPEZ, camila.lopez.23@gmail.com ,19/12/2024,28434.63,ARS,App,1
+V000871,42-983-194,Camila López, camila.lopez.23@gmail.com ,14/05/2026,9852.07,ARS,App,3
+V000872,42983194,Camila López,,18-03-25,25.21,USD,App,2
+V000873,34-917-667,AGUSTINA SANCHEZ,AGUSTINA.SANCHEZ.5@OUTLOOK.COM,20/08/2024,38939.89,ARS,Marketplace,4
+V000874,34-917-667,Agustina Sanchez,agustina.sanchez.5@outlook.com,02-06-25,11479.54,ARS,Tienda,2
+V000875,,Agustina Sánchez,AGUSTINA.SANCHEZ.5@OUTLOOK.COM,29/07/2025,6521.2,ARS,App,3
+V000876,,JUAN CASTRO,,2026-07-11,164647.51,ARS,Web,2
+V000877,28-876-929,Juan Castro, juan.castro.68@gmail.com ,09/01/2025,93095.04,ARS,Web,2
+V000878, 23824598 ,Diego A. Fernandez, diego.agustina.fernandez.81@outlook.com ,08/03/2024,17567.29,ARS,Tienda,2
+V000879,23.824.598,Diego Agustina Fernández,DIEGO.AGUSTINA.FERNANDEZ.81@OUTLOOK.COM,13/01/2025,36164.45,ARS,App,2
+V000880,,DIEGO AGUSTINA FERNANDEZ, diego.agustina.fernandez.81@outlook.com ,16-01-25,29805.63,ARS,App,1
+V000881,23-824-598,DIEGO AGUSTINA FERNANDEZ,,17-11-25,47229.09,ARS,Marketplace,1
+V000882, 22384118 ,Maria Molina,,2024-01-14,147296.95,ARS,Tienda,1
+V000883, 22384118 ,MARIA MOLINA,maria.molina.80@gmail.com,14/08/2026,74374.1,ARS,App,1
+V000884,22-384-118,Maria Molina,maria.molina.80@gmail.com,24/06/2024,116384.34,ARS,Marketplace,5
+V000885, 48263105 ,Pablo Acosta,,2025-08-29,58717.54,ARS,Web,1
+V000886,48-263-105,Pablo Acosta,PABLO.ACOSTA.53@OUTLOOK.COM,2024-08-03,74847.78,ARS,Marketplace,5
+V000887,48.263.105,Pablo Acosta,PABLO.ACOSTA.53@OUTLOOK.COM,14-02-25,68612.6,ARS,Tienda,1
+V000888, 27701560 ,Gonzalo Benítez, gonzalo.benitez.81@hotmail.com ,03-03-25,12093.52,ARS,Marketplace,5
+V000889,27701560,Gonzalo Benitez, gonzalo.benitez.81@hotmail.com ,2024-02-24,24473.05,ARS,Marketplace,4
+V000890,27701560,Gonzalo Benitez,gonzalo.benitez.81@hotmail.com,29/08/2025,63238.76,ARS,Tienda,5
+V000891,,Gonzalo Benítez, gonzalo.benitez.81@hotmail.com ,2025-03-24,11925.9,ARS,App,6
+V000892,27701560,GONZALO BENITEZ, gonzalo.benitez.81@hotmail.com ,04/10/2025,24329.24,ARS,Tienda,3
+V000893,35-207-532,Rocio Silva, rocio.silva.12@hotmail.com ,15/08/2026,6675.07,ARS,Tienda,1
+V000894,35.207.532,Rocio Silva,ROCIO.SILVA.12@HOTMAIL.COM,2025-01-07,8879.44,ARS,Web,3
+V000895,35.207.532,Rocio Silva, rocio.silva.12@hotmail.com ,21-01-25,19701.09,ARS,Marketplace,3
+V000896,42637915,Lucia Perez,lucia.perez.32@hotmail.com,2026-02-14,5868.51,ARS,Marketplace,2
+V000897,,Lucia Perez,lucia.perez.32@hotmail.com,03/08/2024,67345.96,ARS,Web,1
+V000898,35.315.778,Natalia Romero, natalia.romero.78@gmail.com ,17/09/2024,31687.04,ARS,App,1
+V000899,35.315.778,Natalia Romero,natalia.romero.78@gmail.com,12-04-24,10783.72,ARS,Web,2
+V000900, 20568672 ,Tomás Daniela Martínez,TOMAS.DANIELA.MARTINEZ.12@GMAIL.COM,08/02/2025,78991.79,ARS,Tienda,1
+V000901,20568672,Tomás Daniela Martínez,TOMAS.DANIELA.MARTINEZ.12@GMAIL.COM,30-07-25,46881.21,ARS,Tienda,1
+V000902, 40854800 ,MARIA ANDRES ROMERO,maria.andres.romero.57@hotmail.com,16-07-26,56327.31,ARS,Marketplace,1
+V000903,40854800,Maria A. Romero,MARIA.ANDRES.ROMERO.57@HOTMAIL.COM,18-08-26,10094.36,ARS,Marketplace,3
+V000904, 40854800 ,Maria Andres Romero,MARIA.ANDRES.ROMERO.57@HOTMAIL.COM,27/01/2024,95222.9,ARS,App,2
+V000905,,María Andrés Díaz, maria.andres.diaz.25@empresa.com.ar ,31-10-24,11902.83,ARS,Marketplace,1
+V000906, 31845329 ,Maria Andres Diaz,maria.andres.diaz.25@empresa.com.ar,27/03/2026,43088.85,ARS,App,1
+V000907, 39484154 ,Franco Rodriguez,FRANCO.RODRIGUEZ.75@GMAIL.COM,2024-02-10,13494.84,ARS,Marketplace,1
+V000908,39-484-154,Franco Rodriguez,FRANCO.RODRIGUEZ.75@GMAIL.COM,17/08/2026,16916.57,ARS,App,2
+V000909,24226076,Matias Romero,MATIAS.ROMERO.39@GMAIL.COM,02/10/2025,14644.02,ARS,App,1
+V000910,24226076,Matias Romero,matias.romero.39@gmail.com,2025-01-16,100515.18,ARS,App,2
+V000911,24-226-076,Matias Romero,matias.romero.39@gmail.com,03-09-24,26504.86,ARS,Marketplace,1
+V000912,24-226-076,MATIAS ROMERO,MATIAS.ROMERO.39@GMAIL.COM,25/07/2024,18145.38,ARS,Marketplace,2
+V000913,35.773.575,Rocio Ramirez,ROCIO.RAMIREZ.71@GMAIL.COM,05-10-25,58740.69,ARS,Web,3
+V000914,35-773-575,Rocio Ramirez,ROCIO.RAMIREZ.71@GMAIL.COM,27/05/2024,100288.73,ARS,Marketplace,3
+V000915,35-773-575,ROCIO RAMIREZ,rocio.ramirez.71@gmail.com,14/11/2024,64152.18,ARS,Web,1
+V000916,35-841-675,CAMILA ROJAS, camila.rojas.41@hotmail.com ,2026-06-11,20867.82,ARS,Web,3
+V000917,,Paula Lopez,PAULA.LOPEZ.52@HOTMAIL.COM,2024-09-08,12.37,USD,Web,3
+V000918,35-769-560,Paula Lopez, paula.lopez.52@hotmail.com ,2025-10-21,78498.02,ARS,Tienda,2
+V000919,39-841-977,Diego Diaz,diego.diaz.7@gmail.com,2025-02-03,10588.78,ARS,App,1
+V000920,39.841.977,Diego Díaz,diegodiaz7@gmail.com,2025-11-05,39692.87,ARS,Marketplace,2
+V000921, 39132977 ,Valentina Acosta,,28-04-25,260027.62,ARS,Marketplace,3
+V000922,39-132-977,VALENTINA ACOSTA,valentina.acosta.65@hotmail.com,19-03-24,469516.97,ARS,Marketplace,2
+V000923,25.342.306,Florencia Maria Silva, florencia.maria.silva.27@gmail.com ,2024-09-05,111667.06,ARS,Web,2
+V000924,25.342.306,FLORENCIA MARIA SILVA,FLORENCIA.MARIA.SILVA.27@GMAIL.COM,06/12/2025,148870.07,ARS,Marketplace,2
+V000925, 25342306 ,Florencia María Silva, florencia.maria.silva.27@gmail.com ,2024-11-13,106071.05,ARS,Tienda,1
+V000926,25.342.306,Florencia Maria Silva, florencia.maria.silva.27@gmail.com ,24/07/2024,407524.2,ARS,Web,2
+V000927,25-342-306,Florencia María Silva,florencia.maria.silva.27@gmail.com,2026-05-19,87262.47,ARS,Web,2
+V000928,22.799.665,Leandro J. Perez,LEANDRO.JUAN.PEREZ.84@EMPRESA.COM.AR,07/11/2024,9174.4,ARS,Marketplace,1
+V000929,22799665,Leandro J. Perez, leandro.juan.perez.84@empresa.com.ar ,03/08/2025,50086.19,ARS,Tienda,5
+V000930,22-799-665,Leandro J. Perez,,17-07-25,29.19,USD,App,2
+V000931,42.448.939,Diego Rojas, diego.rojas.9@gmail.com ,2024-01-04,21745.61,ARS,Marketplace,5
+V000932,42-448-939,Diego Rojas, diego.rojas.9@gmail.com ,2025-10-02,44032.28,ARS,Marketplace,2
+V000933,42.448.939,Diego Rojas,diego.rojas.9@gmail.com,2026-06-23,20086.3,ARS,Web,4
+V000934,22-710-041,Andres Fernandez, andres.fernandez.88@hotmail.com ,02/06/2024,23050.06,ARS,Marketplace,1
+V000935,22-710-041,Andres Fernandez,andres.fernandez.88@hotmail.com,06/04/2025,52.95,USD,Web,3
+V000936,22710041,Andres Fernandez,andres.fernandez.88@hotmail.com,21-02-24,14668.63,ARS,App,1
+V000937,22-710-041,Andres Fernandez, andres.fernandez.88@hotmail.com ,20/05/2024,49526.49,ARS,Web,3
+V000938,46-741-240,Laura Carlos Medina, laura.carlos.medina.95@empresa.com.ar ,25-06-26,8636.29,ARS,Marketplace,4
+V000939,46741240,Laura C. Medina,laura.carlos.medina.95@empresa.com.ar,09-08-24,15245.38,ARS,Marketplace,4
+V000940,46741240,Laura Medina,laura.carlos.medina.95@empresa.com.ar,15-02-26,14295.13,ARS,Tienda,4
+V000941, 46741240 ,Laura C. Medina,LAURA.CARLOS.MEDINA.95@EMPRESA.COM.AR,10/10/2024,16382.87,ARS,App,5
+V000942,43.478.884,Federico Medina,federico.medina.76@outlook.com,28-10-24,16875.45,ARS,App,1
+V000943,,Federico Medina,FEDERICO.MEDINA.76@OUTLOOK.COM,2024-02-15,7921.88,ARS,App,1
+V000944,36.339.860,Matías Pérez,matias.perez.91@empresa.com.ar,02/04/2024,233102.37,ARS,Tienda,2
+V000945,36339860,Matias Perez,matias.perez.91@empresa.com.ar,19/11/2025,13147.03,ARS,Marketplace,4
+V000946,36-339-860,Matias Perez,matias.perez.91@empresa.com.ar,2025-02-16,97396.73,ARS,Tienda,3
+V000947, 36009614 ,Franco Sanchez,FRANCO.GONZALO.SANCHEZ.4@HOTMAIL.COM,15-09-25,79186.74,ARS,Web,2
+V000948,36-009-614,Franco Sanchez, franco.gonzalo.sanchez.4@hotmail.com ,31/03/2026,28158.65,ARS,Web,4
+V000949,,Franco Gonzalo Sanchez,,04-10-25,129466.18,ARS,Tienda,5
+V000950,27.697.906,Sebastian Torres, sebastian.torres.95@hotmail.com ,03/05/2026,79022.69,ARS,Tienda,1
+V000951, 27697906 ,Sebastián Torres,sebastian.torres.95@hotmail.com,21-05-26,4870.46,ARS,App,2
+V000952,27.697.906,Sebastián Torres, sebastian.torres.95@hotmail.com ,15/07/2024,6944.27,ARS,Tienda,4
+V000953,27.697.906,Sebastián Torres,SEBASTIAN.TORRES.95@HOTMAIL.COM,14/05/2026,129147.69,ARS,Web,2
+V000954,27-697-906,Sebastian Torres,SEBASTIAN.TORRES.95@HOTMAIL.COM,29/09/2024,37482.6,ARS,Tienda,1
+V000955,,Sebastian Torres,,06-07-25,12580.83,ARS,Web,3
+V000956, 23085199 ,Lucia Martinez,LUCIA.MARTINEZ.41@EMPRESA.COM.AR,18/12/2025,233737.24,ARS,Web,1
+V000957, 23085199 ,Lucía Martínez,LUCIA.MARTINEZ.41@EMPRESA.COM.AR,19/04/2025,123347.64,ARS,Tienda,1
+V000958,23-085-199,Lucía Martínez, lucia.martinez.41@empresa.com.ar ,13-02-24,161883.93,ARS,App,1
+V000959,31517911,Florencia Alvarez,FLORENCIA.ALVAREZ.14@HOTMAIL.COM,09-05-26,38680.87,ARS,App,3
+V000960,31517911,Florencia Alvarez, florencia.alvarez.14@hotmail.com ,16/09/2024,69224.68,ARS,Web,2
+V000961, 31517911 ,Florencia Alvarez,florencia.alvarez.14@hotmail.com,06-01-24,70269.99,ARS,Web,1
+V000962, 31517911 ,Florencia Alvarez,florencia.alvarez.14@hotmail.com,11/08/2025,23261.04,ARS,Marketplace,2
+V000963, 25153553 ,Nicolas Navarro, nicolas.navarro.3@hotmail.com ,02/04/2026,68458.05,ARS,App,6
+V000964, 25153553 ,Nicolas Navarro,NICOLAS.NAVARRO.3@HOTMAIL.COM,2025-01-10,43079.27,ARS,App,3
+V000965,25153553,Nicolas Navarro,nicolas.navarro.3@hotmail.com,07/01/2026,121396.05,ARS,Tienda,1
+V000966,25153553,Nicolas Navarro,nicolas.navarro.3@hotmail.com,11-02-26,252185.61,ARS,Tienda,1
+V000967,32.546.735,Federico Fernandez,FEDERICO.MATIAS.FERNANDEZ.20@GMAIL.COM,2024-09-01,6295.66,ARS,Marketplace,2
+V000968,32546735,Federico Matias Fernandez,federico.matias.fernandez.20@gmail.com,12-06-24,38701.65,ARS,Web,1
+V000969,32546735,Federico Matías Fernández,FEDERICO.MATIAS.FERNANDEZ.20@GMAIL.COM,2026-03-05,58597.92,ARS,Web,3
+V000970,44971292,Nicolas Perez, nicolas.perez.85@gmail.com ,08/01/2026,96094.86,ARS,Web,1
+V000971,,Nicolas Perez, nicolas.perez.85@gmail.com ,03/04/2025,6934.44,ARS,Web,2
+V000972, 44971292 ,Nicolas Perez,nicolas.perez.85@gmail.com,2026-05-18,117235.76,ARS,Tienda,3
+V000973,36860139,Valentina Torres,valentina.torres.75@gmail.com,27-01-24,23451.16,ARS,App,3
+V000974,36-860-139,Valentina Torres, valentina.torres.75@gmail.com ,17-02-25,18229.17,ARS,Web,2
+V000975,,Valentina Torres,VALENTINA.TORRES.75@GMAIL.COM,04-12-24,16558.58,ARS,Web,1
+V000976, 44685062 ,Diego Ortiz,DIEGO.ORTIZ.16@OUTLOOK.COM,16/07/2025,12621.96,ARS,Web,3
+V000977,44.685.062,Diego Ortiz,diego.ortiz.16@outlook.com,29-08-24,7245.85,ARS,Tienda,2
+V000978, 44685062 ,Diego Ortiz,diegoortiz16@outlook.com,2025-07-19,20550.09,ARS,Tienda,1
+V000979,21.965.745,LAURA ROMERO, laura.romero.9@empresa.com.ar ,11-12-24,27780.35,ARS,App,1
+V000980,27667842,Joaquín Suárez,joaquin.suarez.43@hotmail.com,19-02-26,25959.12,ARS,Tienda,2
+V000981,27667842,Joaquin Suarez,,19-01-26,50659.94,ARS,Web,2
+V000982,27-667-842,Joaquín Suárez,JOAQUIN.SUAREZ.43@HOTMAIL.COM,21/02/2025,40733.97,ARS,Web,2
+V000983, 30232483 ,Pablo Sanchez,PABLO.SANCHEZ.64@EMPRESA.COM.AR,03/05/2026,29899.53,ARS,Marketplace,3
+V000984,26-947-297,Maria Julieta Acosta,MARIA.JULIETA.ACOSTA.26@HOTMAIL.COM,13-06-26,24755.4,ARS,Tienda,1
+V000985, 26947297 ,Maria Acosta,maria.julieta.acosta.26@hotmail.com,24/02/2025,43296.13,ARS,Tienda,2
+V000986,26-947-297,Maria Julieta Acosta,,20-09-24,23464.75,ARS,App,2
+V000987,26.947.297,Maria Acosta,maria.julieta.acosta.26@hotmail.com,04-07-25,12825.5,ARS,Tienda,2
+V000988,29-153-230,Camila Gomez, camila.gomez.43@outlook.com ,28/03/2024,26868.66,ARS,Web,5
+V000989,29.153.230,Camila Gomez,,28/10/2025,43125.86,ARS,App,1
+V000990,,Camila Gomez, camila.gomez.43@outlook.com ,2025-06-30,4157.74,ARS,Web,1
+V000991,25-519-404,Matias Acosta,matias.acosta.51@hotmail.com,02-07-24,12451.12,ARS,Marketplace,2
+V000992, 25519404 ,Matias Acosta, matias.acosta.51@hotmail.com ,20-03-24,37514.71,ARS,App,1
+V000993,25519404,Matias Acosta,matias.acosta.51@hotmail.com,2025-02-27,15904.35,ARS,Web,1
+V000994, 25519404 ,MATIAS ACOSTA,matias.acosta.51@hotmail.com,22/01/2024,12988.08,ARS,App,1
+V000995, 45490852 ,Federico Silva,federico.silva.55@gmail.com,2024-09-16,27071.51,ARS,Tienda,3
+V000996, 30341659 ,Joaquin Castro,,2024-04-29,19205.45,ARS,Web,6
+V000997,30.341.659,Joaquín Castro, joaquin.castro.1@hotmail.com ,22/09/2024,54840.88,ARS,App,6
+V000998, 30341659 ,Joaquin Castro, joaquin.castro.1@hotmail.com ,04/04/2024,17047.01,ARS,App,2
+V000999, 30341659 ,Joaquín Castro, joaquin.castro.1@hotmail.com ,2025-02-19,6309.42,ARS,Marketplace,2
+V001000, 35148204 ,Diego Benítez, diego.benitez.72@gmail.com ,24-01-24,27901.17,ARS,Web,3
+V001001,41284081,Agustina Paula Alvarez, agustina.paula.alvarez.42@hotmail.com ,03-07-24,252029.12,ARS,Marketplace,8
+V001002,41284081,Agustina Alvarez, agustina.paula.alvarez.42@hotmail.com ,2026-01-13,127126.69,ARS,App,1
+V001003,41284081,Agustina P. Alvarez, agustina.paula.alvarez.42@hotmail.com ,20-03-25,132840.93,ARS,App,2
+V001004, 41157224 ,Leandro Diaz,leandro.diaz.10@outlook.com,15/03/2024,10601.83,ARS,Marketplace,3
+V001005,,Leandro Diaz,leandro.diaz.10@outlook.com,12/06/2025,18722.45,ARS,Web,3
+V001006,41157224,Leandro Diaz,LEANDRO.DIAZ.10@OUTLOOK.COM,13-05-26,17131.52,ARS,App,3
+V001007,41.157.224,LEANDRO DIAZ,leandro.diaz.10@outlook.com,28/07/2024,38026.34,ARS,Web,2
+V001008,41.157.224,LEANDRO DIAZ,leandro.diaz.10@outlook.com,30-06-26,13194.7,ARS,App,3
+V001009,41157224,LEANDRO DIAZ,leandro.diaz.10@outlook.com,30/10/2024,41392.81,ARS,Marketplace,2
+V001010,,Camila Ruiz,camila.ruiz.54@gmail.com,21/08/2025,39326.42,ARS,Web,2
+V001011,25428629,Camila Ruiz,CAMILA.RUIZ.54@GMAIL.COM,31-03-26,56900.02,ARS,App,2
+V001012,25428629,CAMILA RUIZ,camila.ruiz.54@gmail.com,2026-06-24,19674.54,ARS,Marketplace,2
+V001013,25.428.629,Camila Ruiz,camila.ruiz.54@gmail.com,17-10-24,46698.86,ARS,App,4
+V001014,29.602.704,Andrés Joaquín Medina,ANDRES.JOAQUIN.MEDINA.5@GMAIL.COM,19/01/2024,121106.81,ARS,Tienda,4
+V001015,29602704,Andres Joaquin Medina, andres.joaquin.medina.5@gmail.com ,12-11-24,21816.68,ARS,Web,4
+V001016,47-643-167,Leandro Diaz,leandro.diaz.56@hotmail.com,23/01/2025,33849.38,ARS,Marketplace,3
+V001017, 47643167 ,Leandro Díaz,,19/09/2025,35008.14,ARS,App,7
+V001018, 47643167 ,Leandro Díaz, leandro.diaz.56@hotmail.com ,22/01/2025,61606.72,ARS,Marketplace,4
+V001019,47.643.167,Leandro Diaz,,08/11/2024,69709.08,ARS,Web,1
+V001020,,Leandro Diaz,,08-12-25,38526.43,ARS,Marketplace,1
+V001021,47643167,Leandro Diaz, leandro.diaz.56@hotmail.com ,18-11-25,11099.14,ARS,Marketplace,1
+V001022,,Juan Gomez,juan.gomez.31@gmail.com,2024-08-04,195808.91,ARS,Tienda,3
+V001023,21005823,Juan Gomez,JUAN.GOMEZ.31@GMAIL.COM,2024-03-10,43032.7,ARS,Web,2
+V001024,,Juan Gómez,juan.gomez.31@gmail.com,20/03/2025,36120.17,ARS,Web,4
+V001025, 21005823 ,Juan Gómez, juan.gomez.31@gmail.com ,23-02-24,158158.61,ARS,App,1
+V001026,24-483-099,Natalia Acosta,,2024-07-03,175038.61,ARS,App,3
+V001027,24483099,Natalia Acosta,natalia.acosta.20@gmail.com,2024-02-01,37360.85,ARS,Marketplace,2
+V001028,24.483.099,Natalia Acosta,NATALIA.ACOSTA.20@GMAIL.COM,11-12-25,19165.64,ARS,Tienda,1
+V001029,24-483-099,NATALIA ACOSTA,natalia.acosta.20@gmail.com,2025-01-23,18648.44,ARS,Tienda,3
+V001030,24.483.099,Natalia Acosta,natalia.acosta.20@gmail.com,2024-01-26,54261.29,ARS,App,1
+V001031, 24483099 ,NATALIA ACOSTA,natalia.acosta.20@gmail.com,2025-07-01,52123.05,ARS,App,1
+V001032, 36996345 ,Federico Acosta,federicoacosta93@outlook.com,12/05/2025,47140.43,ARS,Marketplace,3
+V001033,,Federico Acosta,federicoacosta93@outlook.com,02/04/2024,22055.85,ARS,App,1
+V001034,36.996.345,Federico Acosta,FEDERICO.ACOSTA.93@OUTLOOK.COM,07-10-24,38671.52,ARS,Marketplace,1
+V001035, 36996345 ,FEDERICO ACOSTA, federico.acosta.93@outlook.com ,2026-03-21,61485.2,ARS,Tienda,1
+V001036, 36996345 ,FEDERICO ACOSTA,FEDERICO.ACOSTA.93@OUTLOOK.COM,12-03-24,40265.22,ARS,Web,3
+V001037,36-996-345,Federico Acosta,federico.acosta.93@outlook.com,21-08-26,47921.82,ARS,Web,1
+V001038,27.095.289,Martin Silva,florencia.sanchez.8@hotmail.com,11/04/2026,21199.31,ARS,App,1
+V001039,27-095-289,Martin Silva,FLORENCIA.SANCHEZ.8@HOTMAIL.COM,23-10-25,36448.22,ARS,Tienda,1
+V001040,27-095-289,Martin Silva,florenciasanchez8@hotmail.com,2026-07-09,32200.15,ARS,Tienda,1
+V001041,27.095.289,Martin Silva, florencia.sanchez.8@hotmail.com ,07/01/2025,34468.85,ARS,Tienda,3
+V001042,23.743.432,Camila Acosta, camila.acosta.31@gmail.com ,12/12/2025,63355.53,ARS,Web,2
+V001043,,Camila Acosta,CAMILA.ACOSTA.31@GMAIL.COM,2025-02-08,59045.24,ARS,Tienda,2
+V001044,23743432,Camila Acosta,camilaacosta31@gmail.com,26-10-25,98204.57,ARS,App,2
+V001045,23-743-432,Camila Acosta, camila.acosta.31@gmail.com ,2025-06-10,81844.72,ARS,Web,2
+V001046,23-743-432,Camila Acosta, camila.acosta.31@gmail.com ,11/03/2025,30377.76,ARS,App,2
+V001047, 23743432 ,Camila Acosta,camila.acosta.31@gmail.com,05-05-26,55972.58,ARS,App,2
+V001048,23.743.432,CAMILA ACOSTA, camila.acosta.31@gmail.com ,06-04-24,16284.29,ARS,Web,2
+V001049,24-833-642,Florencia Silva,FLORENCIA.SILVA.2@EMPRESA.COM.AR,2024-12-04,23778.33,ARS,Tienda,2
+V001050,,FLORENCIA SILVA, florencia.silva.2@empresa.com.ar ,01-04-26,20921.42,ARS,Web,2
+V001051,,Florencia Silva,florencia.silva.2@empresa.com.ar,2025-01-31,29420.83,ARS,Marketplace,2
+V001052,24833642,Florencia Silva, florencia.silva.2@empresa.com.ar ,08/06/2024,8839.02,ARS,Marketplace,4
+V001053,37-232-873,Pablo Suárez,pablo.suarez.40@gmail.com,14/07/2024,71075.43,ARS,Web,1
+V001054,37-232-873,Pablo Suarez, pablo.suarez.40@gmail.com ,2024-01-20,31605.69,ARS,Tienda,2
+V001055, 37232873 ,Pablo Suárez, pablo.suarez.40@gmail.com ,27/01/2024,62050.53,ARS,Web,1
+V001056,37232873,Pablo Suarez,PABLO.SUAREZ.40@GMAIL.COM,19/03/2026,45063.52,ARS,Web,1
+V001057,37-232-873,Pablo Suarez,,02/01/2025,56393.9,ARS,Marketplace,4
+V001058,37.232.873,Pablo Suarez,PABLO.SUAREZ.40@GMAIL.COM,05-09-24,96030.58,ARS,Web,3
+V001059,41.691.662,Carlos Suarez,carlos.suarez.36@hotmail.com,23-08-26,10962.1,ARS,App,4
+V001060,,Carlos Suárez,CARLOS.SUAREZ.36@HOTMAIL.COM,14/04/2026,22439.75,ARS,Marketplace,2
+V001061,41-691-662,Carlos Suarez, carlos.suarez.36@hotmail.com ,17-10-24,143054.84,ARS,App,4
+V001062,41691662,Carlos Suarez,,29/11/2024,132041.04,ARS,App,1
+V001063,41-691-662,Carlos Suarez,carlos.suarez.36@hotmail.com,11-02-26,24964.29,ARS,Tienda,5
+V001064,41-691-662,Carlos Suarez, carlos.suarez.36@hotmail.com ,19-02-26,64115.64,ARS,App,3
+V001065,47719403,Federico Alvarez, federico.alvarez.23@hotmail.com ,18/08/2024,31896.26,ARS,Tienda,6
+V001066, 47719403 ,Federico Alvarez,federico.alvarez.23@hotmail.com,2024-10-13,11918.79,ARS,Tienda,2
+V001067,47-719-403,Federico Alvarez,federico.alvarez.23@hotmail.com,2026-06-13,17655.13,ARS,App,1
+V001068, 47719403 ,FEDERICO ALVAREZ,FEDERICO.ALVAREZ.23@HOTMAIL.COM,2024-07-11,12692.32,ARS,Marketplace,4
+V001069,,FEDERICO ALVAREZ,,2026-07-10,22063.46,ARS,Marketplace,5
+V001070,47.719.403,Federico Alvarez,federicoalvarez23@hotmail.com,2024-08-27,19355.69,ARS,App,4
+V001071,45.632.544,Sebastian Martinez,sebastian.martinez.14@hotmail.com,13-05-25,18799.67,ARS,App,5
+V001072, 45632544 ,Sebastian Martinez,SEBASTIAN.MARTINEZ.14@HOTMAIL.COM,31/08/2024,46125.74,ARS,App,5
+V001073,45-632-544,Sebastian Martinez, sebastian.martinez.14@hotmail.com ,18-03-24,46741.02,ARS,Web,3
+V001074,45-632-544,Sebastián Martínez,,30-08-25,52478.77,ARS,Marketplace,2
+V001075,45632544,Sebastian Martinez,SEBASTIAN.MARTINEZ.14@HOTMAIL.COM,2025-04-23,21980.39,ARS,App,2
+V001076,45.632.544,Sebastian Martinez,sebastian.martinez.14@hotmail.com,2026-08-21,12857.42,ARS,Web,2
+V001077,,SEBASTIAN MARTINEZ,sebastianmartinez14@hotmail.com,2024-02-19,44832.18,ARS,Marketplace,2
+V001078, 28968962 ,Agustina Perez, agustina.perez.57@empresa.com.ar ,2025-11-07,41034.99,ARS,Marketplace,1
+V001079,28-968-962,Agustina Perez, agustina.perez.57@empresa.com.ar ,12-02-24,45757.22,ARS,Tienda,4
+V001080,28-968-962,Agustina Perez,agustina.perez.57@empresa.com.ar,31-10-24,16802.34,ARS,Web,1
+V001081,28.968.962,AGUSTINA PEREZ,agustina.perez.57@empresa.com.ar,20-08-25,21552.22,ARS,Marketplace,6
+V001082,28.968.962,Agustina Perez,AGUSTINA.PEREZ.57@EMPRESA.COM.AR,2026-03-13,66563.63,ARS,Marketplace,5
+V001083,40-343-360,Lucia Benitez,LUCIA.BENITEZ.4@GMAIL.COM,28/03/2025,71249.78,ARS,Marketplace,2
+V001084,40.343.360,Lucia Benitez, lucia.benitez.4@gmail.com ,02-10-25,20104.32,ARS,App,1
+V001085,,Lucia Benitez,lucia.benitez.4@gmail.com,06-02-24,37407.87,ARS,Marketplace,1
+V001086,33679069,Micaela Fernandez,micaela.fernandez.91@empresa.com.ar,2025-07-23,12477.2,ARS,Web,2
+V001087,33.679.069,Micaela Fernandez,micaela.fernandez.91@empresa.com.ar,25/04/2025,31430.78,ARS,Marketplace,1
+V001088,21.133.253,Natalia Rojas,nataliarojas15@hotmail.com,2025-10-21,72286.95,ARS,Web,3
+V001089, 40983842 ,Matías Silva,matias.silva.45@empresa.com.ar,01/07/2024,113861.86,ARS,Tienda,1
+V001090,40-983-842,Matías Silva,matias.silva.45@empresa.com.ar,14/01/2025,97447.42,ARS,Tienda,1
+V001091,40.983.842,MATIAS SILVA,matias.silva.45@empresa.com.ar,16/10/2025,148044.63,ARS,App,3
+V001092, 40983842 ,Matias Silva,MATIAS.SILVA.45@EMPRESA.COM.AR,17/06/2024,69203.13,ARS,App,2
+V001093,40.983.842,Matias Silva,,2024-08-04,47439.65,ARS,Tienda,2
+V001094,47.587.692,Tomas Gomez, tomas.gomez.9@outlook.com ,06-11-24,37312.05,ARS,Marketplace,1
+V001095, 47587692 ,Tomás Gómez, tomas.gomez.9@outlook.com ,21/12/2025,11970.06,ARS,Web,1
+V001096,47-587-692,Tomas Gomez, tomas.gomez.9@outlook.com ,09/05/2026,19522.01,ARS,App,2
+V001097,23178977,Martin Tomas Martinez,,21/05/2025,42690.47,ARS,Web,4
+V001098,23178977,Martin Martinez,MARTIN.TOMAS.MARTINEZ.57@HOTMAIL.COM,2024-08-19,199501.07,ARS,App,3
+V001099,44-873-519,Joaquin Ortiz,JOAQUIN.ORTIZ.55@OUTLOOK.COM,2025-10-22,36638.07,ARS,Web,1
+V001100,44873519,Joaquín Ortiz,joaquin.ortiz.55@outlook.com,2024-01-11,10557.85,ARS,App,1
+V001101,20.003.195,Agustina Castro,agustina.castro.90@hotmail.com,06-07-26,49917.23,ARS,Marketplace,1
+V001102,20.003.195,AGUSTINA CASTRO,agustina.castro.90@hotmail.com,05/12/2024,30445.62,ARS,App,2
+V001103, 20003195 ,Agustina Castro,agustina.castro.90@hotmail.com,26/09/2024,62546.8,ARS,App,2
+V001104,38.390.124,Maria Ortiz,maria.ortiz.21@outlook.com,03-06-24,11874.54,ARS,Web,2
+V001105,28-542-539,Rocio Rojas,ROCIO.JOAQUIN.ROJAS.58@OUTLOOK.COM,12/10/2025,19488.83,ARS,Tienda,6
+V001106,28542539,Rocio Rojas,,27-11-24,57161.86,ARS,Web,2
+V001107,28-542-539,Rocio J. Rojas,,22/06/2026,44233.58,ARS,Web,4
+V001108,28542539,Rocio Joaquin Rojas,ROCIO.JOAQUIN.ROJAS.58@OUTLOOK.COM,2024-09-18,126314.62,ARS,App,5
+V001109,,ROCIO JOAQUIN ROJAS,ROCIO.JOAQUIN.ROJAS.58@OUTLOOK.COM,01/01/2024,66085.02,ARS,Tienda,3
+V001110,27.693.916,Leandro Molina, leandro.molina.35@empresa.com.ar ,04/07/2025,13096.04,ARS,Tienda,1
+V001111,20.743.307,TOMAS ROJAS,tomas.rojas.38@gmail.com,2026-01-22,21718.58,ARS,Marketplace,5
+V001112, 20743307 ,Tomas Rojas,tomas.rojas.38@gmail.com,19/07/2024,184708.11,ARS,Tienda,2
+V001113,20743307,Tomás Rojas,tomas.rojas.38@gmail.com,07-01-25,25692.85,ARS,Tienda,1
+V001114, 20743307 ,Tomas Rojas,TOMAS.ROJAS.38@GMAIL.COM,2026-03-01,21165.02,ARS,Web,1
+V001115,20-743-307,TOMAS ROJAS,tomas.rojas.38@gmail.com,24-08-26,55138.11,ARS,Tienda,1
+V001116,25-316-691,Lucia Castro,lucia.castro.42@outlook.com,11/08/2026,33109.87,ARS,Marketplace,2
+V001117,25.316.691,Lucia Castro,,06/08/2024,44577.21,ARS,App,1
+V001118,34.606.750,Gonzalo Diaz,GONZALO.DIAZ.79@HOTMAIL.COM,2025-09-09,33820.44,ARS,Web,1
+V001119,34606750,Gonzalo Diaz,gonzalo.diaz.79@hotmail.com,24-05-25,93006.43,ARS,Marketplace,1
+V001120,34606750,Gonzalo Diaz,gonzalodiaz79@hotmail.com,16-05-24,100670.22,ARS,App,2
+V001121,34-606-750,Gonzalo Díaz,gonzalo.diaz.79@hotmail.com,2024-03-02,292615.34,ARS,Tienda,1
+V001122,34606750,Gonzalo Diaz,gonzalo.diaz.79@hotmail.com,2026-05-25,36887.24,ARS,Web,2
+V001123, 41229647 ,Sofia Camila Ruiz,sofia.camila.ruiz.10@outlook.com,18-06-24,33645.76,ARS,App,2
+V001124, 41229647 ,Sofia C. Ruiz,sofiacamilaruiz10@outlook.com,2024-12-05,20320.5,ARS,Web,2
+V001125, 41229647 ,SOFIA CAMILA RUIZ,,2024-01-19,40687.12,ARS,Tienda,1
+V001126,41-229-647,Sofia Ruiz, sofia.camila.ruiz.10@outlook.com ,2024-01-16,52579.46,ARS,Tienda,3
+V001127,41-229-647,SOFIA CAMILA RUIZ,sofia.camila.ruiz.10@outlook.com,21-08-25,84420.02,ARS,App,2
+V001128,49.292.366,Lucia Gomez,lucia.gomez.8@gmail.com,27-09-25,87089.08,ARS,Web,4
+V001129, 49292366 ,Lucia Gomez,lucia.gomez.8@gmail.com,22/07/2025,22976.53,ARS,Web,2
+V001130,49.292.366,Lucia Gomez,,2026-07-07,36902.53,ARS,App,1
+V001131, 25723125 ,Sofia Perez,SOFIA.PEREZ.93@EMPRESA.COM.AR,24-07-24,11264.36,ARS,Tienda,3
+V001132,25-723-125,Sofia Perez,sofia.perez.93@empresa.com.ar,2025-09-22,26571.43,ARS,Marketplace,3
+V001133,25-723-125,Sofia Perez,SOFIA.PEREZ.93@EMPRESA.COM.AR,30-04-25,8263.13,ARS,App,2
+V001134,25-723-125,Sofia Perez,SOFIA.PEREZ.93@EMPRESA.COM.AR,27/03/2025,15888.38,ARS,Tienda,2
+V001135,,Sofia Perez,sofia.perez.93@empresa.com.ar,2025-03-29,45549.6,ARS,Marketplace,1
+V001136,25.723.125,Sofia Perez,SOFIA.PEREZ.93@EMPRESA.COM.AR,19-02-24,55784.76,ARS,App,3
+V001137,25-723-125,Sofía Pérez, sofia.perez.93@empresa.com.ar ,23/07/2025,21073.12,ARS,Web,1
+V001138,31280298,LEANDRO ORTIZ,leandro.ortiz.37@outlook.com,07-10-24,5403.35,ARS,Marketplace,2
+V001139,,Leandro Ortiz,LEANDRO.ORTIZ.37@OUTLOOK.COM,18-08-25,17726.07,ARS,Marketplace,1
+V001140, 31280298 ,LEANDRO ORTIZ,leandro.ortiz.37@outlook.com,24-05-25,24923.71,ARS,Marketplace,1
+V001141,41-859-258,Micaela Díaz, micaela.diaz.62@empresa.com.ar ,2024-09-06,14927.32,ARS,App,1
+V001142,41.859.258,Micaela Diaz,micaeladiaz62@empresa.com.ar,14-01-26,22202.05,ARS,Web,1
+V001143,41.859.258,Micaela Díaz,micaela.diaz.62@empresa.com.ar,2024-06-19,23151.05,ARS,Web,1
+V001144,28-264-662,Martin Alvarez,MARTIN.ALVAREZ.77@GMAIL.COM,2025-03-12,95915.4,ARS,Web,4
+V001145,28264662,Martín Álvarez,,2026-06-22,45625.7,ARS,App,3
+V001146,28.264.662,Martín Álvarez,,13/02/2025,28552.44,ARS,Tienda,1
+V001147,,Micaela Florencia Ortiz,nataliacastro42@gmail.com,02/02/2024,26474.63,ARS,Web,1
+V001148, 24102179 ,MICAELA FLORENCIA ORTIZ,NATALIACASTRO42@GMAIL.COM,2024-12-26,55131.06,ARS,Marketplace,5
+V001149,22-856-150,Leandro Ruiz,,2026-05-01,72585.96,ARS,App,3
+V001150,22.856.150,Leandro Ruiz,leandro.ruiz.2@outlook.com,2024-07-13,332684.0,ARS,App,1
+V001151, 22856150 ,Leandro Ruiz,leandro.ruiz.2@outlook.com,09/04/2025,52083.22,ARS,Marketplace,1
+V001152,22.856.150,Leandro Ruiz, leandro.ruiz.2@outlook.com ,2024-09-18,148990.71,ARS,Web,2
+V001153,28288387,Camila Alvarez,camila.alvarez.82@outlook.com,2025-01-06,154752.67,ARS,App,5
+V001154,28.288.387,Camila Alvarez,camila.alvarez.82@outlook.com,2026-06-15,38230.26,ARS,Tienda,2
+V001155,28.288.387,Camila Alvarez,camila.alvarez.82@outlook.com,2024-10-28,146016.6,ARS,Marketplace,2
+V001156, 47143297 ,Agustina Benítez,AGUSTINA.BENITEZ.87@OUTLOOK.COM,26/03/2024,154884.89,ARS,App,3
+V001157, 47143297 ,Agustina Benítez,,30-01-25,111176.85,ARS,Web,3
+V001158,47-143-297,AGUSTINA BENITEZ,agustina.benitez.87@outlook.com,10/03/2024,395949.85,ARS,Marketplace,5
+V001159,47.143.297,Agustina Benítez, agustina.benitez.87@outlook.com ,2024-03-15,403120.65,ARS,Tienda,5
+V001160,47-143-297,Agustina Benitez, agustina.benitez.87@outlook.com ,14/03/2024,41422.21,ARS,App,1
+V001161,20.724.070,Daniela Laura Rojas, daniela.laura.rojas.70@hotmail.com ,24-06-24,221811.53,ARS,App,3
+V001162,20724070,Daniela Laura Rojas, daniela.laura.rojas.70@hotmail.com ,19-05-25,33571.66,ARS,Marketplace,2
+V001163,,Daniela L. Rojas,DANIELA.LAURA.ROJAS.70@HOTMAIL.COM,2024-02-26,22995.78,ARS,App,5
+V001164,20-724-070,Daniela L. Rojas,daniela.laura.rojas.70@hotmail.com,2024-11-16,15.07,USD,Tienda,6
+V001165,20-724-070,Daniela L. Rojas,DANIELA.LAURA.ROJAS.70@HOTMAIL.COM,11-04-25,25124.93,ARS,Marketplace,1
+V001166,36-101-100,Diego Silva,,28/03/2025,43270.65,ARS,App,2
+V001167, 36101100 ,Diego Silva,DIEGO.SILVA.96@OUTLOOK.COM,2024-09-09,16461.61,ARS,App,4
+V001168,36-101-100,DIEGO SILVA,DIEGO.SILVA.96@OUTLOOK.COM,2024-10-09,68978.53,ARS,Tienda,2
+V001169,36101100,Diego Silva,diego.silva.96@outlook.com,2026-08-07,26807.17,ARS,App,3
+V001170,36-101-100,Diego Silva,diego.silva.96@outlook.com,27/09/2025,7794.08,ARS,App,3
+V001171, 26496900 ,Federico Fernandez,,06/04/2025,61997.32,ARS,Tienda,1
+V001172,26.496.900,Federico Fernandez,federico.fernandez.39@empresa.com.ar,04/09/2025,43124.09,ARS,Tienda,5
+V001173,43818225,Martín Gómez,MARTIN.GOMEZ.41@HOTMAIL.COM,04/08/2025,26865.83,ARS,App,3
+V001174,43.818.225,Martin Gomez, martin.gomez.41@hotmail.com ,23-04-25,8552.31,ARS,App,1
+V001175,43.818.225,Martin Gomez,martin.gomez.41@hotmail.com,16/03/2024,15410.04,ARS,Marketplace,2
+V001176,43.818.225,Martin Gomez,,03/08/2024,134299.31,ARS,Web,2
+V001177, 43818225 ,Martin Gomez, martin.gomez.41@hotmail.com ,2025-09-27,14567.89,ARS,App,2
+V001178, 47169884 ,Camila Diaz,CAMILA.DIAZ.68@EMPRESA.COM.AR,01-05-25,52837.16,ARS,App,4
+V001179, 47169884 ,Camila Diaz,camila.diaz.68@empresa.com.ar,29-06-24,50997.65,ARS,Marketplace,3
+V001180,47-169-884,Camila Diaz,CAMILA.DIAZ.68@EMPRESA.COM.AR,06-01-24,22769.17,ARS,Tienda,3
+V001181,47169884,CAMILA DIAZ,camiladiaz68@empresa.com.ar,06/06/2026,35807.3,ARS,App,2
+V001182, 23992427 ,Laura Navarro, laura.navarro.44@empresa.com.ar ,21-07-24,28560.13,ARS,Web,4
+V001183,25978394,Florencia Gomez, florencia.valentina.gomez.22@hotmail.com ,2025-08-25,105804.86,ARS,Marketplace,2
+V001184,25-978-394,Florencia Valentina Gómez, florencia.valentina.gomez.22@hotmail.com ,06/07/2026,52451.0,ARS,Tienda,2
+V001185,25.978.394,Florencia Valentina Gomez,florenciavalentinagomez22@hotmail.com,2025-01-06,37232.41,ARS,App,2
+V001186,42-640-126,Matias Acosta, matias.acosta.58@hotmail.com ,2026-06-12,16342.38,ARS,Tienda,3
+V001187,,Matias Acosta, matias.acosta.58@hotmail.com ,2024-06-15,57504.28,ARS,Marketplace,3
+V001188,,Rocio Medina, rocio.medina.77@empresa.com.ar ,2025-06-18,56986.68,ARS,Tienda,3
+V001189,22264345,Rocio Medina,,09-12-24,50474.23,ARS,App,3
+V001190,22264345,ROCIO MEDINA,rocio.medina.77@empresa.com.ar,02-10-25,17102.71,ARS,Tienda,2
+V001191,22264345,Rocio Medina,ROCIO.MEDINA.77@EMPRESA.COM.AR,2024-10-05,49796.47,ARS,Web,1
+V001192, 47454867 ,Sebastián Molina,SEBASTIAN.MOLINA.13@GMAIL.COM,2024-02-19,53053.32,ARS,App,3
+V001193,47454867,Sebastian Molina,SEBASTIAN.MOLINA.13@GMAIL.COM,22/01/2024,7582.54,ARS,Web,3
+V001194,47.454.867,SEBASTIAN MOLINA, sebastian.molina.13@gmail.com ,22/12/2024,25389.77,ARS,Tienda,4
+V001195,47454867,Sebastian Molina,sebastian.molina.13@gmail.com,06-01-25,17851.64,ARS,Web,3
+V001196, 47828535 ,Rocío Fernández,ROCIO.FERNANDEZ.32@GMAIL.COM,16-05-25,11390.15,ARS,Marketplace,3
+V001197,,Rocio Fernandez, rocio.fernandez.32@gmail.com ,08/07/2025,7319.78,ARS,Web,1
+V001198, 39650034 ,Federico Perez, federico.perez.74@empresa.com.ar ,2025-11-13,56912.0,ARS,App,1
+V001199,39-650-034,Federico Perez,federico.perez.74@empresa.com.ar,17-08-25,15919.15,ARS,Tienda,3
+V001200,39-650-034,Federico Perez, federico.perez.74@empresa.com.ar ,2026-08-19,78837.83,ARS,Tienda,1
+V001201,39520807,Tomas Rojas, tomas.rojas.86@empresa.com.ar ,2025-09-19,18070.58,ARS,Web,1
+V001202,39-520-807,Tomas Rojas,,02/10/2024,37974.91,ARS,Web,3
+V001203,39520807,TOMAS ROJAS,,2026-07-14,61632.62,ARS,Marketplace,3
+V001204,,Tomás Rojas, tomas.rojas.86@empresa.com.ar ,06-01-26,21106.3,ARS,Web,1
+V001205, 39520807 ,Tomas Rojas,TOMAS.ROJAS.86@EMPRESA.COM.AR,01-11-24,118840.32,ARS,App,2
+V001206,33460248,Diego López,diego.lopez.3@hotmail.com,21-10-25,12849.36,ARS,Tienda,5
+V001207,33460248,Diego Lopez,DIEGO.LOPEZ.3@HOTMAIL.COM,14-09-24,10518.19,ARS,Tienda,1
+V001208,33.460.248,Diego Lopez,DIEGO.LOPEZ.3@HOTMAIL.COM,2026-08-16,22755.41,ARS,App,1
+V001209,33-460-248,Diego López, diego.lopez.3@hotmail.com ,2024-04-30,34494.84,ARS,Tienda,1
+V001210, 29316173 ,Martin Torres,martin.torres.72@hotmail.com,13-08-26,19596.46,ARS,App,1
+V001211,29316173,Martin Torres,MARTIN.TORRES.72@HOTMAIL.COM,31/12/2024,71963.27,ARS,Tienda,1
+V001212,29.316.173,Martin Torres,MARTIN.TORRES.72@HOTMAIL.COM,07/02/2024,58611.67,ARS,Web,2
+V001213,24469145,Florencia Perez, florencia.perez.36@empresa.com.ar ,2026-02-10,20528.12,ARS,Tienda,2
+V001214,24469145,Florencia Perez,florencia.perez.36@empresa.com.ar,2025-12-05,21888.79,ARS,Tienda,1
+V001215,,Franco Castro,FRANCO.CASTRO.88@HOTMAIL.COM,06/01/2026,198602.21,ARS,App,2
+V001216,26.510.916,Franco Castro,FRANCO.CASTRO.88@HOTMAIL.COM,08-01-25,85440.16,ARS,Marketplace,3
+V001217,,FRANCO CASTRO,franco.castro.88@hotmail.com,17/10/2024,35740.87,ARS,Web,2
+V001218,49.071.642,Natalia Castro, natalia.castro.42@gmail.com ,03/12/2025,96936.15,ARS,Web,4
+V001219, 49071642 ,Natalia Castro,natalia.castro.42@gmail.com,30-03-24,9710.72,ARS,Marketplace,1
+V001220,,Natalia Castro,NATALIA.CASTRO.42@GMAIL.COM,11-05-24,30106.8,ARS,Tienda,7
+V001221,47-336-146,SOFIA FERNANDEZ,,20/09/2024,15656.05,ARS,Web,1
+V001222,47336146,Sofia Fernandez, sofia.fernandez.10@outlook.com ,2026-01-19,31119.44,ARS,Tienda,2
+V001223,47.336.146,Sofía Fernández,SOFIA.FERNANDEZ.10@OUTLOOK.COM,2025-04-18,23851.01,ARS,Tienda,4
+V001224,47336146,Sofia Fernandez,sofia.fernandez.10@outlook.com,03/05/2026,76996.62,ARS,Marketplace,2
+V001225, 47336146 ,Sofia Fernandez,SOFIA.FERNANDEZ.10@OUTLOOK.COM,02/12/2025,15868.96,ARS,Marketplace,6
+V001226,47336146,Sofia Fernandez,sofiafernandez10@outlook.com,2024-02-18,19230.62,ARS,Marketplace,2
+V001227, 47336146 ,Sofia Fernandez,,15-02-26,23856.15,ARS,Web,5
+V001228, 47336146 ,Sofía Fernández, sofia.fernandez.10@outlook.com ,06-11-24,54953.43,ARS,Tienda,1
+V001229,37.563.209,Joaquin Sanchez,JOAQUIN.SANCHEZ.47@GMAIL.COM,10-03-26,169023.14,ARS,App,2
+V001230,,Daniela López,daniela.lopez.32@empresa.com.ar,24/05/2026,72327.68,ARS,Web,4
+V001231, 39060261 ,DANIELA LOPEZ,DANIELA.LOPEZ.32@EMPRESA.COM.AR,09-01-26,17636.31,ARS,Web,2
+V001232,39.060.261,Daniela López, daniela.lopez.32@empresa.com.ar ,2025-08-10,25060.81,ARS,App,1
+V001233, 39060261 ,DANIELA LOPEZ,danielalopez32@empresa.com.ar,24/08/2024,30963.16,ARS,Tienda,2
+V001234,27-853-455,Micaela Natalia Acosta,florenciamariasilva27@gmail.com,06/07/2025,146286.43,ARS,Web,3
+V001235,27.853.455,MICAELA NATALIA ACOSTA,FLORENCIAMARIASILVA27@GMAIL.COM,03-10-25,113525.05,ARS,Tienda,3
+V001236,23.357.600,Franco Diaz,franco.diaz.3@outlook.com,27/04/2025,10401.5,ARS,Marketplace,1
+V001237,23357600,Franco Diaz, franco.diaz.3@outlook.com ,03/04/2024,22900.15,ARS,Marketplace,1
+V001238, 41302790 ,CARLOS ROMERO,,14-01-25,33374.85,ARS,Tienda,4
+V001239,,CARLOS ROMERO,carlos.romero.22@outlook.com,2026-02-28,32737.58,ARS,Tienda,3
+V001240, 41302790 ,Carlos Romero,,22/01/2026,20039.53,ARS,Tienda,1
+V001241,41.302.790,Carlos Romero,carlosromero22@outlook.com,2024-05-30,17894.82,ARS,App,2
+V001242,,LEANDRO RUIZ, leandro.ruiz.92@empresa.com.ar ,13-07-24,26486.82,ARS,Marketplace,1
+V001243,32359987,LEANDRO RUIZ, leandro.ruiz.92@empresa.com.ar ,2024-03-01,21305.59,ARS,Tienda,2
+V001244, 32359987 ,LEANDRO RUIZ,,2025-05-26,16997.09,ARS,Tienda,2
+V001245,32-359-987,Leandro Ruiz,leandro.ruiz.92@empresa.com.ar,2026-03-19,14490.65,ARS,Web,1
+V001246,31.483.836,Leandro Ortiz,LEANDRO.ORTIZ.34@HOTMAIL.COM,2026-05-05,6920.44,ARS,Marketplace,3
+V001247, 31483836 ,Leandro Ortiz,leandro.ortiz.34@hotmail.com,19-09-25,34206.11,ARS,Marketplace,2
+V001248,31483836,Leandro Ortiz, leandro.ortiz.34@hotmail.com ,21-09-25,17955.87,ARS,Web,3
+V001249,31-483-836,Leandro Ortiz,,25-08-24,35709.15,ARS,Marketplace,1
+V001250,31.483.836,Leandro Ortiz, leandro.ortiz.34@hotmail.com ,20-02-24,12787.2,ARS,Tienda,1
+V001251,31-483-836,Leandro Ortiz, leandro.ortiz.34@hotmail.com ,2024-06-29,39135.6,ARS,Tienda,1
+V001252, 37216344 ,DANIELA SILVA,DANIELA.SILVA.44@EMPRESA.COM.AR,27-10-25,18843.93,ARS,Tienda,3
+V001253,37216344,DANIELA SILVA, daniela.silva.44@empresa.com.ar ,2025-04-07,37714.43,ARS,Tienda,1
+V001254,42-904-548,Camila Alvarez, camila.alvarez.40@hotmail.com ,10-02-24,48214.49,ARS,Marketplace,1
+V001255,42904548,Camila Álvarez,camila.alvarez.40@hotmail.com,27/04/2026,27085.93,ARS,Marketplace,2
+V001256, 42904548 ,Camila Alvarez, camila.alvarez.40@hotmail.com ,2025-06-28,17920.21,ARS,App,1
+V001257,38.322.058,NATALIA FERNANDEZ,natalia.fernandez.15@hotmail.com,29/12/2024,273643.93,ARS,Tienda,2
+V001258,38-322-058,Natalia Fernández,NATALIA.FERNANDEZ.15@HOTMAIL.COM,2026-04-09,44647.78,ARS,Marketplace,2
+V001259,38.322.058,Natalia Fernández, natalia.fernandez.15@hotmail.com ,30/07/2026,39610.06,ARS,Tienda,2
+V001260, 24090677 ,Federico Castro, federico.castro.43@outlook.com ,25/04/2025,107577.09,ARS,Web,6
+V001261, 24090677 ,FEDERICO CASTRO,federico.castro.43@outlook.com,07-01-26,29987.23,ARS,Web,2
+V001262,24-090-677,FEDERICO CASTRO,FEDERICO.CASTRO.43@OUTLOOK.COM,08-04-24,47564.16,ARS,Tienda,1
+V001263,24090677,Federico Castro,FEDERICO.CASTRO.43@OUTLOOK.COM,15-02-24,25070.08,ARS,Web,3
+V001264, 30204305 ,ANDRES NAVARRO, andres.navarro.27@outlook.com ,02-12-24,21733.9,ARS,Tienda,4
+V001265,30.204.305,ANDRES NAVARRO,andres.navarro.27@outlook.com,05-02-24,117757.97,ARS,Web,2
+V001266,30.204.305,Andres Navarro, andres.navarro.27@outlook.com ,2025-11-03,32390.12,ARS,Web,1
+V001267,44-308-683,Micaela Perez, micaela.perez.33@hotmail.com ,2024-07-21,27335.47,ARS,Web,2
+V001268,44.308.683,Micaela Perez,,10/07/2025,30257.58,ARS,App,1
+V001269, 44308683 ,Micaela Perez, micaela.perez.33@hotmail.com ,2026-05-18,31173.97,ARS,Tienda,3
+V001270,44.308.683,Micaela Perez,,24/06/2026,6910.92,ARS,App,3
+V001271, 44308683 ,Micaela Pérez, micaela.perez.33@hotmail.com ,2026-08-02,24966.81,ARS,Tienda,3
+V001272,42777604,Diego Lopez,diego.lopez.62@hotmail.com,13-07-26,9108.79,ARS,Marketplace,3
+V001273,35078650,Micaela Ramírez,MICAELA.RAMIREZ.12@HOTMAIL.COM,2024-06-21,33297.9,ARS,App,1
+V001274,35.078.650,Micaela Ramírez, micaela.ramirez.12@hotmail.com ,2026-06-05,32164.66,ARS,Tienda,3
+V001275,45.811.099,Micaela Laura Torres,micaela.laura.torres.7@outlook.com,07-11-25,78002.37,ARS,App,2
+V001276, 45811099 ,MICAELA LAURA TORRES,,02/05/2025,51797.1,ARS,Tienda,1
+V001277, 45811099 ,Micaela Torres,micaela.laura.torres.7@outlook.com,01-02-24,129166.31,ARS,Tienda,1
+V001278,45.811.099,Micaela Torres, micaela.laura.torres.7@outlook.com ,2025-07-25,86109.25,ARS,Tienda,1
+V001279,45-811-099,Micaela Laura Torres,micaela.laura.torres.7@outlook.com,2026-07-26,53682.82,ARS,Tienda,5
+V001280,45-811-099,Micaela Laura Torres, micaela.laura.torres.7@outlook.com ,28-11-25,89588.42,ARS,Tienda,3
+V001281,37.300.619,Matias Diaz, matias.diaz.22@gmail.com ,29/09/2024,13180.37,ARS,App,3
+V001282,37300619,Matias Diaz, matias.diaz.22@gmail.com ,09/01/2025,13.14,USD,Web,3
+V001283,37-300-619,Matías Díaz,MATIAS.DIAZ.22@GMAIL.COM,10/07/2025,5675.48,ARS,Tienda,3
+V001284,37.300.619,Matías Díaz, matias.diaz.22@gmail.com ,15/03/2026,67505.23,ARS,Marketplace,1
+V001285, 37300619 ,Matías Díaz,MATIAS.DIAZ.22@GMAIL.COM,19-04-26,56462.83,ARS,App,2
+V001286,37-300-619,Matias Diaz,MATIAS.DIAZ.22@GMAIL.COM,22/02/2025,17916.35,ARS,Web,1
+V001287,37-300-619,MATIAS DIAZ,MATIAS.DIAZ.22@GMAIL.COM,05/05/2024,3510.53,ARS,Tienda,2
+V001288,37300619,Matias Diaz,matias.diaz.22@gmail.com,2026-01-26,56332.34,ARS,Tienda,2
+V001289,40.273.647,Sebastian Romero,SEBASTIAN.ROMERO.47@EMPRESA.COM.AR,2025-07-28,35519.53,ARS,Web,2
+V001290,40273647,Sebastian Romero,SEBASTIAN.ROMERO.47@EMPRESA.COM.AR,30/08/2025,15989.39,ARS,Web,1
+V001291,40-273-647,Sebastian Romero,SEBASTIAN.ROMERO.47@EMPRESA.COM.AR,17/04/2025,52977.23,ARS,Tienda,4
+V001292,40-273-647,Sebastian Romero,SEBASTIAN.ROMERO.47@EMPRESA.COM.AR,03-07-26,28434.83,ARS,Tienda,3
+V001293,40.946.489,Federico Gomez, federico.gomez.43@hotmail.com ,2024-06-01,12686.85,ARS,Tienda,3
+V001294,40.946.489,Federico Gomez,federico.gomez.43@hotmail.com,08/01/2024,31763.62,ARS,Web,1
+V001295,40-946-489,Federico Gomez,FEDERICO.GOMEZ.43@HOTMAIL.COM,12-10-24,21972.95,ARS,Web,4
+V001296, 40946489 ,Federico Gomez, federico.gomez.43@hotmail.com ,2026-04-04,14457.87,ARS,Web,1
+V001297, 43226966 ,Sofia Benitez,SOFIA.BENITEZ.39@EMPRESA.COM.AR,08/04/2026,49443.73,ARS,Tienda,1
+V001298, 43226966 ,Sofia Benitez,sofia.benitez.39@empresa.com.ar,2025-04-03,56252.37,ARS,Tienda,3
+V001299,29.042.274,TOMAS MEDINA, tomas.medina.57@outlook.com ,2025-07-02,10342.36,ARS,App,2
+V001300, 29042274 ,Tomas Medina,TOMAS.MEDINA.57@OUTLOOK.COM,28-04-26,21037.78,ARS,Tienda,1
+V001301, 29042274 ,TOMAS MEDINA, tomas.medina.57@outlook.com ,26/03/2025,13216.55,ARS,Web,1
+V001302,29042274,Tomas Medina,tomas.medina.57@outlook.com,17-04-25,43063.75,ARS,Marketplace,1
+V001303, 31218296 ,Federico Lopez,federico.lopez.29@outlook.com,02/06/2025,12951.85,ARS,Web,1
+V001304,31-218-296,Federico López,FEDERICO.LOPEZ.29@OUTLOOK.COM,2024-12-20,22390.26,ARS,Marketplace,3
+V001305,31.218.296,FEDERICO LOPEZ,,11/06/2024,9662.84,ARS,App,3
+V001306,,Franco Fernandez,franco.fernandez.70@outlook.com,2024-04-08,6522.11,ARS,Tienda,4
+V001307,21.444.100,Franco Fernandez,FRANCO.FERNANDEZ.70@OUTLOOK.COM,2025-06-24,16986.91,ARS,Tienda,1
+V001308,,Franco Fernandez, franco.fernandez.70@outlook.com ,2024-02-21,32547.59,ARS,Web,3
+V001309, 21444100 ,FRANCO FERNANDEZ, franco.fernandez.70@outlook.com ,22-09-25,16692.87,ARS,Web,3
+V001310,32605884,VALENTINA ALVAREZ,,2024-08-11,227224.29,ARS,Marketplace,2
+V001311,32-605-884,Valentina Álvarez, valentina.alvarez.4@empresa.com.ar ,2024-05-14,16310.71,ARS,App,5
+V001312, 32605884 ,Valentina Alvarez,VALENTINA.ALVAREZ.4@EMPRESA.COM.AR,27-09-25,12147.23,ARS,Web,4
+V001313, 28146609 ,Sebastian Rocio Rodriguez, sebastian.rocio.rodriguez.91@outlook.com ,03-02-24,87690.3,ARS,App,3
+V001314,28.146.609,SEBASTIAN ROCIO RODRIGUEZ,,2025-04-08,29274.45,ARS,Marketplace,3
+V001315, 28146609 ,Sebastian Rocio Rodriguez,SEBASTIAN.ROCIO.RODRIGUEZ.91@OUTLOOK.COM,19/03/2025,56109.55,ARS,Web,4
+V001316,28146609,Sebastian Rocio Rodriguez,sebastian.rocio.rodriguez.91@outlook.com,21-02-25,48723.11,ARS,App,3
+V001317,29-800-583,DIEGO SEBASTIAN CASTRO, diego.sebastian.castro.4@hotmail.com ,14/07/2025,11662.52,ARS,Web,3
+V001318, 29800583 ,Diego Sebastian Castro,diego.sebastian.castro.4@hotmail.com,20-09-24,17923.85,ARS,Marketplace,1
+V001319, 46785724 ,Sofia Carolina Rojas, leandro.diaz.68@empresa.com.ar ,2026-04-17,7054.51,ARS,Marketplace,3
+V001320,46785724,Sofia C. Rojas,LEANDRO.DIAZ.68@EMPRESA.COM.AR,03-08-26,68248.41,ARS,Tienda,2
+V001321, 33225987 ,Carlos Torres,CARLOS.TORRES.89@GMAIL.COM,29-06-24,97790.26,ARS,App,2
+V001322,33-225-987,CARLOS TORRES,carlos.torres.89@gmail.com,23-04-25,99968.52,ARS,Tienda,4
+V001323,47-649-932,Maria Gomez,maria.gomez.13@outlook.com,08-04-26,35450.63,ARS,App,3
+V001324,47649932,Maria Gomez, maria.gomez.13@outlook.com ,14/11/2024,10211.09,ARS,App,1
+V001325,47.649.932,Maria Gomez,MARIA.GOMEZ.13@OUTLOOK.COM,07/05/2025,9923.33,ARS,Web,1
+V001326,47.649.932,MARIA GOMEZ,MARIA.GOMEZ.13@OUTLOOK.COM,24-04-24,15384.5,ARS,Tienda,3
+V001327,,Federico Fernandez,,2026-06-11,23451.41,ARS,Tienda,1
+V001328, 39303981 ,Federico Fernandez,FEDERICO.FERNANDEZ.77@OUTLOOK.COM,24-08-24,42710.84,ARS,Web,3
+V001329, 48268178 ,MARTIN RODRIGUEZ,martin.rodriguez.45@empresa.com.ar,26/06/2024,17992.65,ARS,Tienda,6
+V001330,48.268.178,Martin Rodriguez,MARTIN.RODRIGUEZ.45@EMPRESA.COM.AR,31/05/2026,54849.51,ARS,Web,1
+V001331, 48268178 ,Martin Rodriguez,MARTIN.RODRIGUEZ.45@EMPRESA.COM.AR,12-02-24,60930.39,ARS,Marketplace,3
+V001332,48-268-178,Martin Rodriguez,martinrodriguez45@empresa.com.ar,25/06/2024,90619.04,ARS,Web,2
+V001333,29.859.679,Lucia Diaz,lucia.diaz.27@empresa.com.ar,24/04/2026,132096.12,ARS,Web,3
+V001334,29859679,Lucia Diaz,lucia.diaz.27@empresa.com.ar,2025-01-08,51599.21,ARS,Marketplace,1
+V001335, 29859679 ,Lucia Diaz,lucia.diaz.27@empresa.com.ar,2024-01-23,8762.69,ARS,App,1
+V001336,29-859-679,Lucía Díaz,lucia.diaz.27@empresa.com.ar,24/07/2026,22540.51,ARS,Marketplace,1
+V001337, 29859679 ,Lucia Diaz,,01-03-25,32308.08,ARS,Tienda,1
+V001338,44.232.252,SEBASTIAN MEDINA,sebastian.medina.32@outlook.com,23/09/2025,138554.9,ARS,App,2
+V001339,44232252,Sebastian Medina, sebastian.medina.32@outlook.com ,05-08-24,31382.19,ARS,App,3
+V001340,44-232-252,Sebastian Medina,,2024-12-11,54943.06,ARS,Web,3
+V001341,44-232-252,SEBASTIAN MEDINA,sebastian.medina.32@outlook.com,2025-10-14,33341.27,ARS,Tienda,2
+V001342,44.232.252,SEBASTIAN MEDINA,sebastian.medina.32@outlook.com,25-04-26,184340.77,ARS,Marketplace,4
+V001343,45940821,Joaquín Flores,JOAQUIN.FLORES.26@OUTLOOK.COM,24-08-25,47275.75,ARS,Tienda,1
+V001344,45940821,Joaquin Flores, joaquin.flores.26@outlook.com ,09-01-24,24267.54,ARS,Tienda,2
+V001345,45940821,Joaquin Flores, joaquin.flores.26@outlook.com ,08-07-25,18904.06,ARS,Marketplace,4
+V001346,45.940.821,Joaquín Flores,,18-07-26,38515.85,ARS,Web,2
+V001347, 45940821 ,Joaquin Flores,joaquin.flores.26@outlook.com,22/04/2025,14950.12,ARS,Marketplace,2
+V001348,,Gonzalo Fernandez, gonzalo.fernandez.61@empresa.com.ar ,26-01-24,17812.41,ARS,Tienda,4
+V001349,,Gonzalo Fernández,,2025-02-28,16399.1,ARS,Tienda,2
+V001350, 42252920 ,GONZALO FERNANDEZ, gonzalo.fernandez.61@empresa.com.ar ,08-04-24,2500.0,ARS,Tienda,2
+V001351,42252920,Gonzalo Fernandez,gonzalo.fernandez.61@empresa.com.ar,14-11-25,44053.75,ARS,Web,4
+V001352,42252920,GONZALO FERNANDEZ, gonzalo.fernandez.61@empresa.com.ar ,15/02/2024,7302.73,ARS,Marketplace,1
+V001353,42252920,Gonzalo Fernandez,gonzalo.fernandez.61@empresa.com.ar,26-04-26,37385.5,ARS,Marketplace,1
+V001354,40-887-002,Laura Flores,laura.flores.94@outlook.com,30-06-25,14394.39,ARS,App,4
+V001355,40.887.002,Laura Flores,,2026-05-30,22564.08,ARS,Web,3
+V001356,40.887.002,Laura Flores,laura.flores.94@outlook.com,14/10/2025,73791.22,ARS,Tienda,1
+V001357,40.887.002,LAURA FLORES,LAURA.FLORES.94@OUTLOOK.COM,04/04/2025,33605.67,ARS,Web,2
+V001358, 40887002 ,LAURA FLORES,laura.flores.94@outlook.com,15-02-25,34893.82,ARS,App,2
+V001359,40887002,Laura Flores,,05/11/2025,30394.15,ARS,Marketplace,3
+V001360,22.496.371,Juan Martinez, juan.martinez.52@hotmail.com ,2026-08-03,16944.09,ARS,Marketplace,2
+V001361,,Juan Martínez, juan.martinez.52@hotmail.com ,26-12-24,47656.9,ARS,Marketplace,2
+V001362,22.496.371,Juan Martinez,juan.martinez.52@hotmail.com,18-12-24,22633.51,ARS,Tienda,1
+V001363,22496371,Juan Martínez,JUAN.MARTINEZ.52@HOTMAIL.COM,05-04-26,12569.56,ARS,Web,5
+V001364, 22496371 ,Juan Martínez,juan.martinez.52@hotmail.com,23/07/2025,51475.66,ARS,Marketplace,1
+V001365,32-253-208,Diego Acosta,diego.acosta.93@gmail.com,2025-12-28,6194.98,ARS,Web,4
+V001366,32.253.208,Diego Acosta,,24/08/2025,22763.22,ARS,Marketplace,2
+V001367,,Diego Acosta,diego.acosta.93@gmail.com,08-09-25,37743.79,ARS,Marketplace,3
+V001368,32253208,DIEGO ACOSTA,diego.acosta.93@gmail.com,2025-09-09,28372.04,ARS,Tienda,3
+V001369, 41354209 ,Gonzalo Martinez,,2025-03-15,39162.47,ARS,Web,6
+V001370,41-354-209,Gonzalo Martinez,GONZALO.MARTINEZ.64@OUTLOOK.COM,01/07/2026,9156.59,ARS,Marketplace,1
+V001371,41354209,Gonzalo Martínez, gonzalo.martinez.64@outlook.com ,03-05-24,56853.03,ARS,Web,1
+V001372, 41354209 ,Gonzalo Martinez, gonzalo.martinez.64@outlook.com ,25/09/2024,51254.3,ARS,Marketplace,2
+V001373,41.354.209,Gonzalo Martínez,GONZALO.MARTINEZ.64@OUTLOOK.COM,2026-07-13,15354.23,ARS,Marketplace,1
+V001374,44974623,Natalia Romero,natalia.romero.12@empresa.com.ar,2024-01-03,76268.63,ARS,Tienda,2
+V001375, 44974623 ,NATALIA ROMERO, natalia.romero.12@empresa.com.ar ,21/01/2026,36095.18,ARS,Web,4
+V001376, 44974623 ,Natalia Romero,natalia.romero.12@empresa.com.ar,2026-04-17,11961.21,ARS,App,1
+V001377,44.974.623,Natalia Romero,NATALIA.ROMERO.12@EMPRESA.COM.AR,11/10/2024,8620.4,ARS,Tienda,1
+V001378, 44974623 ,NATALIA ROMERO,NATALIA.ROMERO.12@EMPRESA.COM.AR,20-06-26,68328.85,ARS,Web,3
+V001379,36970022,Agustina Navarro,,24-06-25,7890.57,ARS,Tienda,5
+V001380,,Agustina Navarro,,10-04-24,30326.49,ARS,Tienda,3
+V001381,33986162,Laura Rocio Molina,laura.rocio.molina.64@gmail.com,14/01/2026,120447.48,ARS,Tienda,2
+V001382,33-986-162,Laura Molina, laura.rocio.molina.64@gmail.com ,16/10/2024,12002.75,ARS,Marketplace,3
+V001383,33-986-162,LAURA ROCIO MOLINA,LAURA.ROCIO.MOLINA.64@GMAIL.COM,14/11/2024,13571.0,ARS,App,5
+V001384, 40542522 ,Tomas Silva,,22/03/2026,109878.98,ARS,Marketplace,3
+V001385,40.542.522,Tomás Silva,,11-03-24,114547.56,ARS,Web,2
+V001386,40-542-522,TOMAS SILVA, tomas.silva.81@empresa.com.ar ,17-04-26,112659.0,ARS,App,4
+V001387, 33022384 ,Paula Rojas,paula.rojas.18@outlook.com,05-05-25,65562.41,ARS,App,1
+V001388, 33022384 ,Paula Rojas, paula.rojas.18@outlook.com ,2024-01-31,69988.52,ARS,App,3
+V001389,,Paula Rojas, paula.rojas.18@outlook.com ,2025-01-04,388278.59,ARS,Tienda,1
+V001390,33022384,PAULA ROJAS,PAULA.ROJAS.18@OUTLOOK.COM,07/06/2024,250335.73,ARS,Web,1
+V001391,33-022-384,PAULA ROJAS,paula.rojas.18@outlook.com,2025-08-22,67858.3,ARS,App,2
+V001392, 33022384 ,Paula Rojas,PAULA.ROJAS.18@OUTLOOK.COM,2025-05-21,584593.32,ARS,Marketplace,1
+V001393, 33022384 ,Paula Rojas, paula.rojas.18@outlook.com ,17/10/2025,197436.34,ARS,App,1
+V001394, 20427454 ,Nicolas Rojas,nicolas.rojas.15@gmail.com,2026-05-22,38827.13,ARS,Tienda,1
+V001395,20.427.454,Nicolas Rojas, nicolas.rojas.15@gmail.com ,22/09/2025,8232.7,ARS,Web,3
+V001396, 20427454 ,Nicolas Rojas,NICOLAS.ROJAS.15@GMAIL.COM,2024-07-04,12267.8,ARS,Marketplace,3
+V001397,,NICOLAS ROJAS,NICOLAS.ROJAS.15@GMAIL.COM,19-07-26,63081.66,ARS,Web,1
+V001398,43.558.059,Nicolás López, nicolas.lopez.16@gmail.com ,2024-12-10,19421.09,ARS,Marketplace,2
+V001399,43.558.059,Nicolas Lopez,nicolaslopez16@gmail.com,2026-06-11,34765.68,ARS,App,1
+V001400,43.558.059,Nicolas Lopez,NICOLAS.LOPEZ.16@GMAIL.COM,2025-06-02,73703.74,ARS,App,1
+V001401, 28006003 ,Micaela Flores, micaela.flores.34@hotmail.com ,12/03/2024,16283.11,ARS,Web,3
+V001402,28006003,Micaela Flores, micaela.flores.34@hotmail.com ,27/04/2025,73545.52,ARS,Marketplace,3
+V001403,28.006.003,Micaela Flores,MICAELA.FLORES.34@HOTMAIL.COM,12/03/2024,266985.55,ARS,Tienda,1
+V001404,22370563,Martin Alvarez,MARTIN.ALVAREZ.17@EMPRESA.COM.AR,17/02/2024,35781.08,ARS,Marketplace,2
+V001405,22370563,Martin Alvarez, martin.alvarez.17@empresa.com.ar ,2025-11-11,3612.0,ARS,Tienda,4
+V001406,22-370-563,Martin Alvarez,MARTIN.ALVAREZ.17@EMPRESA.COM.AR,2026-03-21,32474.34,ARS,Marketplace,4
+V001407,,SOFIA MICAELA GOMEZ,,20-07-25,118815.98,ARS,App,2
+V001408,35.960.077,Sofia Gomez, sofia.micaela.gomez.28@gmail.com ,09-03-26,374297.24,ARS,Marketplace,3
+V001409,35960077,Sofía Micaela Gómez,,15/02/2025,47540.99,ARS,App,1
+V001410, 29668540 ,JOAQUIN ORTIZ, joaquin.ortiz.1@outlook.com ,26/05/2025,10392.56,ARS,App,3
+V001411, 29668540 ,Joaquin Ortiz,,27/07/2024,25515.14,ARS,App,1
+V001412,29668540,Joaquin Ortiz,joaquin.ortiz.1@outlook.com,2024-04-16,95496.21,ARS,Marketplace,4
+V001413,29.668.540,Joaquin Ortiz,joaquinortiz1@outlook.com,08/03/2026,35609.2,ARS,Tienda,1
+V001414,37-722-421,Laura Pérez,lauraperez69@outlook.com,05-07-25,48695.84,ARS,Web,4
+V001415, 37722421 ,Laura Perez, laura.perez.69@outlook.com ,2025-08-21,158066.26,ARS,Tienda,5
+V001416,,LAURA PEREZ,LAURA.PEREZ.69@OUTLOOK.COM,2026-08-09,46823.54,ARS,App,2
+V001417,37-722-421,Laura Perez,laura.perez.69@outlook.com,2026-03-05,75736.54,ARS,Web,2
+V001418,37.722.421,LAURA PEREZ,laura.perez.69@outlook.com,19/01/2026,117853.33,ARS,App,4
+V001419,41.806.938,Federico J. Ruiz,FEDERICO.JUAN.RUIZ.79@EMPRESA.COM.AR,2025-10-04,45148.33,ARS,Web,1
+V001420, 41806938 ,Federico Ruiz,federico.juan.ruiz.79@empresa.com.ar,2024-01-29,48385.82,ARS,App,3
+V001421,26-962-804,VALENTINA RODRIGUEZ,,2024-03-19,95804.41,ARS,App,1
+V001422,26-962-804,Valentina Rodriguez,valentinarodriguez17@hotmail.com,25/01/2026,47521.13,ARS,Tienda,3
+V001423,26-962-804,Valentina Rodriguez,valentina.rodriguez.17@hotmail.com,2026-05-05,19970.05,ARS,App,4
+V001424,26962804,Valentina Rodriguez,VALENTINA.RODRIGUEZ.17@HOTMAIL.COM,31/05/2025,31604.32,ARS,Web,1
+V001425,36.798.787,Sofía Tomás Ramírez,sofiatomasramirez21@gmail.com,2024-03-27,110713.12,ARS,Marketplace,2
+V001426, 36798787 ,Sofia T. Ramirez,sofiatomasramirez21@gmail.com,2026-06-10,63586.26,ARS,Web,1
+V001427,36.798.787,Sofia T. Ramirez,,06/09/2024,9279.71,ARS,Tienda,1
+V001428,26-772-112,FEDERICO ROJAS, federico.rojas.24@empresa.com.ar ,09-06-26,6705.91,ARS,App,3
+V001429, 26772112 ,Federico Rojas,federico.rojas.24@empresa.com.ar,12-09-25,31599.72,ARS,Tienda,3
+V001430,44-753-798,NATALIA ROCIO CASTRO,NATALIA.ROCIO.CASTRO.20@GMAIL.COM,2025-06-24,18872.36,ARS,Web,5
+V001431,44.753.798,Natalia Castro,,2025-06-25,10505.14,ARS,App,3
+V001432,,Natalia Castro, natalia.rocio.castro.20@gmail.com ,2026-08-19,39405.6,ARS,App,4
+V001433,,NATALIA ROCIO CASTRO,NATALIA.ROCIO.CASTRO.20@GMAIL.COM,2026-04-27,40987.3,ARS,App,1
+V001434, 26689522 ,Diego Medina,diego.medina.1@gmail.com,16-04-25,179302.03,ARS,App,1
+V001435,26689522,Diego Medina,DIEGO.MEDINA.1@GMAIL.COM,2025-10-21,32909.24,ARS,App,2
+V001436,26.689.522,Diego Medina,DIEGO.MEDINA.1@GMAIL.COM,04/03/2024,51478.39,ARS,Marketplace,2
+V001437,26689522,Diego Medina, diego.medina.1@gmail.com ,07-11-24,36076.57,ARS,App,3
+V001438,26-689-522,Diego Medina,diego.medina.1@gmail.com,16/09/2025,9178.52,ARS,Tienda,3
+V001439,26913819,Valentina Benitez,valentinabenitez52@outlook.com,23/09/2024,20535.26,ARS,Tienda,1
+V001440,,Valentina Benitez,valentina.benitez.52@outlook.com,20-08-25,20174.93,ARS,Tienda,5
+V001441,38.690.758,LEANDRO SUAREZ,leandro.suarez.80@outlook.com,09-07-25,68869.41,ARS,Web,3
+V001442,38-690-758,Leandro Suárez,leandro.suarez.80@outlook.com,11-05-25,18477.05,ARS,App,1
+V001443,38690758,Leandro Suárez,leandro.suarez.80@outlook.com,2026-08-11,17951.51,ARS,Marketplace,2
+V001444, 38690758 ,Leandro Suarez, leandro.suarez.80@outlook.com ,2025-03-31,5573.95,ARS,Web,2
+V001445, 34388446 ,Natalia J. Rodriguez, natalia.julieta.rodriguez.21@outlook.com ,03-10-25,40605.07,ARS,Web,1
+V001446,24-204-533,LAURA ACOSTA,LAURA.ACOSTA.48@EMPRESA.COM.AR,2024-10-18,9225.47,ARS,App,2
+V001447,24-204-533,Laura Acosta,LAURA.ACOSTA.48@EMPRESA.COM.AR,08-03-26,23883.71,ARS,App,3
+V001448,,LAURA ACOSTA, laura.acosta.48@empresa.com.ar ,2026-07-19,36694.63,ARS,Marketplace,2
+V001449, 24204533 ,LAURA ACOSTA,LAURA.ACOSTA.48@EMPRESA.COM.AR,21-02-24,59582.57,ARS,Web,4
+V001450,27.573.014,Micaela Suarez, maria.martinez.57@outlook.com ,22/02/2026,39630.82,ARS,App,2
+V001451,27573014,MICAELA SUAREZ,MARIA.MARTINEZ.57@OUTLOOK.COM,27-10-25,25575.04,ARS,Marketplace,3
+V001452,27.573.014,MICAELA SUAREZ,MARIA.MARTINEZ.57@OUTLOOK.COM,13/03/2024,37348.6,ARS,App,3
+V001453,27573014,Micaela Suarez,MARIA.MARTINEZ.57@OUTLOOK.COM,06-11-24,112890.78,ARS,Tienda,3
+V001454, 27573014 ,Micaela Suarez, maria.martinez.57@outlook.com ,21/07/2026,13558.46,ARS,Marketplace,1
+V001455,24.928.771,Paula Benitez,PAULA.BENITEZ.69@OUTLOOK.COM,06-07-26,85536.11,ARS,Web,4
+V001456, 24928771 ,PAULA BENITEZ, paula.benitez.69@outlook.com ,21/06/2026,143852.38,ARS,App,4
+V001457,24949709,CAROLINA SANCHEZ, carolina.sanchez.49@outlook.com ,2026-04-25,17388.34,ARS,App,2
+V001458,24949709,Carolina Sánchez,,2024-02-27,9927.5,ARS,Marketplace,4
+V001459,24-949-709,Carolina Sanchez,CAROLINA.SANCHEZ.49@OUTLOOK.COM,01-01-25,45284.53,ARS,Marketplace,1
+V001460, 24949709 ,Carolina Sanchez,carolina.sanchez.49@outlook.com,22/06/2026,37926.98,ARS,Tienda,5
+V001461,24.949.709,CAROLINA SANCHEZ,CAROLINA.SANCHEZ.49@OUTLOOK.COM,2025-03-10,61025.46,ARS,Marketplace,2
+V001462,45-047-988,Valentina Carlos Sánchez,,2024-09-06,60500.69,ARS,Tienda,1
+V001463, 45047988 ,Valentina Carlos Sanchez,valentina.carlos.sanchez.23@empresa.com.ar,03/08/2024,232528.47,ARS,Marketplace,1
+V001464,45.047.988,VALENTINA CARLOS SANCHEZ,valentina.carlos.sanchez.23@empresa.com.ar,29/06/2025,86348.58,ARS,App,1
+V001465,45047988,VALENTINA CARLOS SANCHEZ, valentina.carlos.sanchez.23@empresa.com.ar ,15-02-25,116629.41,ARS,Web,1
+V001466,45-696-626,Diego Joaquin Ramirez, diego.joaquin.ramirez.30@hotmail.com ,13/01/2025,42736.82,ARS,Tienda,3
+V001467, 45696626 ,Diego Joaquin Ramirez,DIEGO.JOAQUIN.RAMIREZ.30@HOTMAIL.COM,10/10/2024,14106.05,ARS,Tienda,2
+V001468, 45696626 ,DIEGO JOAQUIN RAMIREZ, diego.joaquin.ramirez.30@hotmail.com ,2026-02-27,9415.69,ARS,Marketplace,1
+V001469,35457714,Maria Ramirez,maria.ramirez.50@outlook.com,2025-10-15,30529.32,ARS,App,1
+V001470,,Maria Ramirez,,18/12/2024,14385.47,ARS,Marketplace,2
+V001471,35.457.714,Maria Ramirez,maria.ramirez.50@outlook.com,19/04/2026,15933.89,ARS,Tienda,2
+V001472,35-457-714,Maria Ramirez, maria.ramirez.50@outlook.com ,30-06-24,55718.73,ARS,Marketplace,4
+V001473,22.931.184,TOMAS ANDRES TORRES,TOMAS.ANDRES.TORRES.70@HOTMAIL.COM,25/08/2025,23195.32,ARS,App,2
+V001474,22-931-184,Tomas Andres Torres,TOMAS.ANDRES.TORRES.70@HOTMAIL.COM,02/06/2024,34233.92,ARS,Tienda,3
+V001475,33437063,Sofía Medina,sofia.medina.67@gmail.com,2024-05-30,10931.02,ARS,Marketplace,4
+V001476,33437063,Sofia Medina,sofiamedina67@gmail.com,12-09-25,20609.69,ARS,Web,3
+V001477, 33437063 ,SOFIA MEDINA,sofia.medina.67@gmail.com,26/05/2024,52196.99,ARS,Tienda,3
+V001478,33.437.063,Sofia Medina,SOFIA.MEDINA.67@GMAIL.COM,11/03/2026,33770.37,ARS,Web,2
+V001479,33437063,Sofía Medina,SOFIA.MEDINA.67@GMAIL.COM,20-01-24,75482.57,ARS,App,1
+V001480,33.437.063,Sofia Medina,SOFIA.MEDINA.67@GMAIL.COM,2026-04-16,37811.17,ARS,App,2
+V001481,33.437.063,Sofía Medina,sofia.medina.67@gmail.com,2026-03-13,13837.49,ARS,Marketplace,1
+V001482, 47537865 ,Paula Rodriguez,paula.rodriguez.8@empresa.com.ar,28/06/2025,39961.78,ARS,Tienda,1
+V001483,47537865,Paula Rodriguez, paula.rodriguez.8@empresa.com.ar ,23-07-25,120656.52,ARS,Marketplace,1
+V001484,47537865,Paula Rodriguez, paula.rodriguez.8@empresa.com.ar ,13-07-26,151861.72,ARS,Web,1
+V001485, 47537865 ,Paula Rodriguez,PAULA.RODRIGUEZ.8@EMPRESA.COM.AR,06-03-24,415939.65,ARS,Tienda,1
+V001486,,PAULA RODRIGUEZ,paula.rodriguez.8@empresa.com.ar,2025-02-02,71446.96,ARS,Tienda,1
+V001487, 47537865 ,Paula Rodriguez, paula.rodriguez.8@empresa.com.ar ,2024-09-12,38086.23,ARS,App,3
+V001488, 47537865 ,Paula Rodriguez,,19-07-24,134352.9,ARS,Tienda,2
+V001489,35202237,DIEGO SUAREZ,DIEGO.SUAREZ.33@OUTLOOK.COM,2025-05-24,44167.76,ARS,Web,1
+V001490,35.202.237,Diego Suarez,DIEGO.SUAREZ.33@OUTLOOK.COM,2026-05-14,17812.28,ARS,Web,3
+V001491, 35202237 ,Diego Suarez,,05/12/2024,10916.02,ARS,Marketplace,1
+V001492, 35202237 ,Diego Suarez,,25-05-25,5516.58,ARS,Marketplace,4
+V001493,24.235.535,Federico Rodriguez,FEDERICO.RODRIGUEZ.87@GMAIL.COM,20-10-25,50549.7,ARS,Web,1
+V001494, 24235535 ,Federico Rodriguez, federico.rodriguez.87@gmail.com ,2024-06-04,8.96,USD,Tienda,4
+V001495,24-235-535,Federico Rodriguez, federico.rodriguez.87@gmail.com ,22/02/2024,49947.31,ARS,Marketplace,2
+V001496,,Federico Rodriguez,,23/05/2024,18331.04,ARS,Web,4
+V001497,,Sofía Sánchez, sofia.sanchez.35@gmail.com ,03/08/2026,141839.08,ARS,App,2
+V001498,38.461.737,Sofía Sánchez, sofia.sanchez.35@gmail.com ,26-06-24,36162.78,ARS,App,3
+V001499,38.461.737,Sofia Sanchez,,2026-08-24,50620.23,ARS,Web,1
+V001500,38-461-737,Sofia Sanchez, sofia.sanchez.35@gmail.com ,10/11/2025,46011.19,ARS,Marketplace,2
+V001501,26-418-539,FLORENCIA PEREZ,FLORENCIA.PEREZ.60@OUTLOOK.COM,02/02/2025,25762.4,ARS,Marketplace,1
+V001502,26418539,Florencia Perez,florencia.perez.60@outlook.com,2025-09-18,5012.05,ARS,Marketplace,3
+V001503,26-418-539,Florencia Perez, florencia.perez.60@outlook.com ,11/05/2026,12949.69,ARS,Web,2
+V001504,26.418.539,Florencia Perez,FLORENCIA.PEREZ.60@OUTLOOK.COM,2025-07-06,20524.17,ARS,App,1
+V001505,30-072-928,Gonzalo Ortiz,GONZALO.CARLOS.ORTIZ.60@GMAIL.COM,2024-04-06,10547.79,ARS,Web,1
+V001506,30072928,Gonzalo C. Ortiz,GONZALO.CARLOS.ORTIZ.60@GMAIL.COM,2024-09-16,97664.27,ARS,Tienda,2
+V001507,30-072-928,GONZALO CARLOS ORTIZ,GONZALO.CARLOS.ORTIZ.60@GMAIL.COM,2024-01-21,45948.59,ARS,Web,1
+V001508,30.072.928,Gonzalo Carlos Ortiz, gonzalo.carlos.ortiz.60@gmail.com ,20/07/2025,23664.82,ARS,App,1
+V001509,30-072-928,Gonzalo Carlos Ortiz,gonzalo.carlos.ortiz.60@gmail.com,2024-04-10,45307.88,ARS,Marketplace,1
+V001510,40-119-844,Joaquin Martinez,JOAQUIN.MARTINEZ.60@HOTMAIL.COM,2025-03-17,25410.62,ARS,App,3
+V001511,40.119.844,JOAQUIN MARTINEZ,JOAQUIN.MARTINEZ.60@HOTMAIL.COM,03/06/2024,27747.83,ARS,App,2
+V001512,36322259,Joaquin Martinez, joaquin.sofia.martinez.66@outlook.com ,02-06-26,21557.98,ARS,Marketplace,2
+V001513,36.322.259,Joaquin Sofia Martinez,joaquin.sofia.martinez.66@outlook.com,2025-01-14,16928.48,ARS,App,1
+V001514,36.322.259,Joaquin S. Martinez,JOAQUIN.SOFIA.MARTINEZ.66@OUTLOOK.COM,26/08/2024,30032.53,ARS,Marketplace,3
+V001515,39551520,Camila Rodriguez,camila.rodriguez.24@empresa.com.ar,11/06/2025,20017.15,ARS,Marketplace,3
+V001516,39551520,Camila Rodriguez,CAMILA.RODRIGUEZ.24@EMPRESA.COM.AR,25/08/2025,83991.89,ARS,Marketplace,1
+V001517, 39551520 ,Camila Rodríguez,CAMILA.RODRIGUEZ.24@EMPRESA.COM.AR,08/03/2024,11881.54,ARS,App,4
+V001518,39-551-520,Camila Rodríguez,camila.rodriguez.24@empresa.com.ar,01/10/2024,21789.25,ARS,Marketplace,3
+V001519,,Camila Rodriguez, camila.rodriguez.24@empresa.com.ar ,2026-04-22,8982.22,ARS,Marketplace,1
+V001520, 38825261 ,Federico Benitez,FEDERICO.BENITEZ.45@OUTLOOK.COM,2024-11-02,23578.38,ARS,Tienda,2
+V001521,,FEDERICO BENITEZ,federico.benitez.45@outlook.com,2025-06-13,22568.07,ARS,App,1
+V001522, 23469755 ,Tomas Romero, tomas.romero.54@outlook.com ,2024-11-03,25978.67,ARS,App,4
+V001523,23469755,TOMAS ROMERO,tomas.romero.54@outlook.com,2024-03-08,25149.34,ARS,Marketplace,2
+V001524,23469755,Tomás Romero, tomas.romero.54@outlook.com ,31-03-25,29791.67,ARS,Web,2
+V001525,23-469-755,Tomas Romero,TOMAS.ROMERO.54@OUTLOOK.COM,09-10-24,22385.05,ARS,Web,2
+V001526, 40665538 ,Julieta Castro,JULIETA.CASTRO.74@OUTLOOK.COM,2025-01-23,46425.66,ARS,Web,1
+V001527,40665538,Julieta Castro,JULIETA.CASTRO.74@OUTLOOK.COM,2026-05-27,25136.7,ARS,Tienda,1
+V001528,40-665-538,JULIETA CASTRO,,2026-02-18,35134.69,ARS,Tienda,2
+V001529,40665538,Julieta Castro,,2024-12-24,12870.74,ARS,Marketplace,3
+V001530,23723797,Maria Benitez,,17/12/2024,41368.25,ARS,App,1
+V001531,23-723-797,Maria Benitez,,16/08/2024,23204.89,ARS,Tienda,3
+V001532,23723797,MARIA BENITEZ,maria.benitez.28@outlook.com,11-04-24,29628.17,ARS,Web,2
+V001533,23-723-797,Maria Benitez,MARIA.BENITEZ.28@OUTLOOK.COM,09-11-25,89125.09,ARS,Marketplace,1
+V001534,23723797,María Benítez,maria.benitez.28@outlook.com,12/03/2024,22211.05,ARS,App,2
+V001535,41-080-774,Paula Sofia Ortiz, paula.sofia.ortiz.86@outlook.com ,26-06-26,66084.65,ARS,Marketplace,4
+V001536,41-080-774,PAULA SOFIA ORTIZ, paula.sofia.ortiz.86@outlook.com ,2025-02-18,18717.29,ARS,App,3
+V001537, 41080774 ,Paula Sofia Ortiz, paula.sofia.ortiz.86@outlook.com ,07/09/2025,14639.52,ARS,Tienda,3
+V001538,34.918.548,Carolina Castro,CAROLINA.CASTRO.88@EMPRESA.COM.AR,20/09/2024,21417.64,ARS,Web,2
+V001539,34.918.548,Carolina Castro,carolinacastro88@empresa.com.ar,10/09/2024,69507.4,ARS,Web,3
+V001540,34-918-548,Carolina Castro,carolina.castro.88@empresa.com.ar,04/09/2025,92933.67,ARS,Marketplace,1
+V001541,47-418-630,Sofia Romero,SOFIA.ROMERO.76@OUTLOOK.COM,2026-01-22,21040.84,ARS,Marketplace,1
+V001542,,Sofia Romero, sofia.romero.76@outlook.com ,2025-12-04,63754.97,ARS,Marketplace,3
+V001543,43.384.744,ANDRES TORRES, andres.torres.0@hotmail.com ,20/07/2026,87937.95,ARS,Marketplace,1
+V001544,43-384-744,Andrés Torres, andres.torres.0@hotmail.com ,20/06/2026,88113.53,ARS,Marketplace,1
+V001545,,Camila Benitez,CAMILA.NATALIA.BENITEZ.5@HOTMAIL.COM,05/05/2024,57467.67,ARS,App,2
+V001546,28-986-343,Camila N. Benitez,,12-09-25,11901.21,ARS,Web,3
+V001547,28986343,CAMILA NATALIA BENITEZ,,05/05/2025,51160.96,ARS,Marketplace,1
+V001548,28.986.343,Camila Natalia Benitez, camila.natalia.benitez.5@hotmail.com ,28-02-25,43582.29,ARS,App,3
+V001549,40.724.798,Micaela Medina, micaela.medina.67@empresa.com.ar ,31/03/2025,6938.42,ARS,App,4
+V001550, 40724798 ,Micaela Medina,MICAELA.MEDINA.67@EMPRESA.COM.AR,02-04-24,74627.85,ARS,App,2
+V001551,40-724-798,Micaela Medina,MICAELA.MEDINA.67@EMPRESA.COM.AR,08-04-26,25870.62,ARS,Web,4
+V001552,40-724-798,Micaela Medina, micaela.medina.67@empresa.com.ar ,20-08-25,20649.25,ARS,Tienda,1
+V001553,40.724.798,Micaela Medina, micaela.medina.67@empresa.com.ar ,28/05/2026,50445.29,ARS,Marketplace,1
+V001554,,Micaela Medina,MICAELA.MEDINA.67@EMPRESA.COM.AR,22/06/2025,60178.46,ARS,Marketplace,4
+V001555,36.852.731,Maria Castro,maria.rocio.castro.41@outlook.com,2026-01-23,11382.3,ARS,App,3
+V001556,36-852-731,Maria Rocio Castro, maria.rocio.castro.41@outlook.com ,25-02-26,18535.45,ARS,Tienda,3
+V001557,48414906,Carlos Ruiz, carlos.ruiz.54@outlook.com ,2024-07-22,6237.83,ARS,Tienda,3
+V001558, 48414906 ,Carlos Ruiz,carlos.ruiz.54@outlook.com,05-09-25,40342.15,ARS,Marketplace,2
+V001559,48414906,Carlos Ruiz,CARLOS.RUIZ.54@OUTLOOK.COM,23/04/2025,135963.49,ARS,Tienda,8
+V001560, 47740943 ,NATALIA LOPEZ,,2024-10-21,44749.84,ARS,Marketplace,1
+V001561,47-740-943,Natalia Lopez, natalia.lopez.48@empresa.com.ar ,18/03/2025,32405.43,ARS,Marketplace,1
+V001562,47-740-943,Natalia López,natalia.lopez.48@empresa.com.ar,20/12/2025,12359.28,ARS,Web,1
+V001563,,Natalia López,,2025-01-17,46333.89,ARS,App,2
+V001564,45-399-464,GONZALO ROMERO,GONZALO.ROMERO.53@GMAIL.COM,2026-08-22,45428.08,ARS,Marketplace,1
+V001565,45399464,Gonzalo Romero,gonzalo.romero.53@gmail.com,2025-01-13,39067.52,ARS,Web,1
+V001566,41.668.785,Rocio Laura Ruiz,ROCIO.LAURA.RUIZ.48@OUTLOOK.COM,2024-09-09,27479.27,ARS,Tienda,3
+V001567,41.668.785,Rocio Laura Ruiz,ROCIO.LAURA.RUIZ.48@OUTLOOK.COM,13/11/2025,15422.67,ARS,Marketplace,1
+V001568,,Rocio L. Ruiz, rocio.laura.ruiz.48@outlook.com ,2025-07-08,3421.5,ARS,App,1
+V001569,41.668.785,Rocio Laura Ruiz, rocio.laura.ruiz.48@outlook.com ,31-05-25,117401.17,ARS,Marketplace,2
+V001570,24753833,JUAN DIAZ,,2025-05-01,13017.57,ARS,Web,5
+V001571,24.753.833,Juan Díaz,,2024-12-04,24695.27,ARS,App,1
+V001572,24.753.833,JUAN DIAZ,juan.diaz.65@outlook.com,2024-08-16,6900.27,ARS,Tienda,2
+V001573,24.753.833,Juan Díaz,juan.diaz.65@outlook.com,2025-03-13,7178.5,ARS,Web,2
+V001574, 24753833 ,Juan Diaz,juan.diaz.65@outlook.com,26/02/2025,55776.52,ARS,Marketplace,3
+V001575,25.502.931,Matias Diaz,matias.rocio.diaz.24@gmail.com,23-07-24,150491.13,ARS,App,2
+V001576,25502931,Matias Rocio Diaz,matias.rocio.diaz.24@gmail.com,20/08/2025,96499.1,ARS,Tienda,2
+V001577,25.502.931,Matias R. Diaz, matias.rocio.diaz.24@gmail.com ,22-01-26,52268.35,ARS,Tienda,1
+V001578, 25502931 ,Matías Rocío Díaz,matias.rocio.diaz.24@gmail.com,11/11/2024,150689.31,ARS,Tienda,5
+V001579,26-345-233,Florencia Romero,florencia.joaquin.romero.9@outlook.com,19-03-24,174772.32,ARS,Tienda,2
+V001580, 26345233 ,Florencia Joaquín Romero,,2025-01-11,148251.28,ARS,App,3
+V001581,30-326-929,Sebastian Acosta,sebastian.acosta.15@hotmail.com,25/05/2026,24627.97,ARS,App,3
+V001582,30326929,Sebastian Acosta,sebastian.acosta.15@hotmail.com,2024-12-22,35006.17,ARS,App,3
+V001583,25.071.951,Franco Silva,franco.silva.32@hotmail.com,13/02/2024,8147.16,ARS,Marketplace,1
+V001584,,Franco Silva,FRANCO.SILVA.32@HOTMAIL.COM,2024-10-14,52424.76,ARS,Marketplace,3
+V001585,25-071-951,Franco Silva, franco.silva.32@hotmail.com ,2026-06-15,20839.75,ARS,Marketplace,3
+V001586, 25071951 ,Franco Silva, franco.silva.32@hotmail.com ,29/07/2026,16857.24,ARS,Web,1
+V001587, 25071951 ,Franco Silva, franco.silva.32@hotmail.com ,2026-07-16,13024.09,ARS,Tienda,2
+V001588,27.580.600,Gonzalo Rojas,GONZALO.ROJAS.0@EMPRESA.COM.AR,08/03/2025,29970.24,ARS,Web,1
+V001589, 27580600 ,GONZALO ROJAS,gonzalo.rojas.0@empresa.com.ar,10-06-24,98503.58,ARS,App,1
+V001590,27.580.600,Gonzalo Rojas,gonzalo.rojas.0@empresa.com.ar,26/02/2025,57394.8,ARS,Marketplace,1
+V001591, 47829438 ,Franco Ramirez,franco.ramirez.2@hotmail.com,24-10-25,92608.06,ARS,App,3
+V001592, 47829438 ,Franco Ramirez,,2025-06-01,113838.63,ARS,Tienda,1
+V001593,47-829-438,Franco Ramírez,franco.ramirez.2@hotmail.com,2024-06-12,57274.01,ARS,Marketplace,2
+V001594,,Franco Ramirez,FRANCO.RAMIREZ.2@HOTMAIL.COM,07/11/2024,49668.18,ARS,Web,2
+V001595,47.829.438,Franco Ramirez,FRANCO.RAMIREZ.2@HOTMAIL.COM,16-07-25,12189.41,ARS,Web,3
+V001596,41982767,Tomas Martinez,tomas.martinez.84@outlook.com,29-04-25,11327.25,ARS,App,1
+V001597,41982767,Tomas Martinez,tomas.martinez.84@outlook.com,19-03-24,25269.36,ARS,Tienda,2
+V001598, 35382999 ,JULIETA CARLOS NAVARRO, julieta.carlos.navarro.18@hotmail.com ,17/09/2025,54745.36,ARS,Web,3
+V001599,35-382-999,Julieta Carlos Navarro, julieta.carlos.navarro.18@hotmail.com ,17-03-24,14837.9,ARS,Tienda,4
+V001600,33.884.506,Franco Flores,rocio.martinez.0@gmail.com,24-03-26,23713.42,ARS,App,2
+V001601,33884506,Franco Flores, rocio.martinez.0@gmail.com ,13-07-26,23657.71,ARS,Web,4
+V001602,,Franco Flores,rocio.martinez.0@gmail.com,26-06-25,84660.42,ARS,Marketplace,3
+V001603,33.884.506,Franco Flores, rocio.martinez.0@gmail.com ,12/04/2024,21349.18,ARS,Tienda,2
+V001604,20.684.393,María Ramírez,maria.ramirez.46@empresa.com.ar,16-04-26,114105.03,ARS,App,5
+V001605, 29710829 ,Julieta López,julieta.lopez.96@hotmail.com,23-11-24,10518.19,ARS,Marketplace,2
+V001606,29-710-829,Julieta Lopez,julieta.lopez.96@hotmail.com,06/11/2024,44488.08,ARS,Web,2
+V001607, 29710829 ,Julieta Lopez,julieta.lopez.96@hotmail.com,2026-04-03,27214.06,ARS,Marketplace,1
+V001608, 29710829 ,Julieta Lopez, julieta.lopez.96@hotmail.com ,19-06-26,91401.03,ARS,Marketplace,1
+V001609, 30165626 ,Franco Flores, franco.flores.88@gmail.com ,2025-03-30,182317.58,ARS,App,1
+V001610,30.165.626,Franco Flores, franco.flores.88@gmail.com ,19-11-25,143909.32,ARS,App,2
+V001611,30165626,Franco Flores,FRANCO.FLORES.88@GMAIL.COM,2024-10-17,97356.33,ARS,Marketplace,1
+V001612,,Franco Flores,franco.flores.88@gmail.com,2025-08-09,186145.58,ARS,Tienda,4
+V001613,,Micaela Lopez,micaelalopez66@hotmail.com,2026-06-30,19609.05,ARS,App,1
+V001614,49-353-599,Micaela Lopez,,2026-07-12,13.97,USD,Tienda,5
+V001615,49353599,Micaela Lopez,micaela.lopez.66@hotmail.com,2025-06-18,46107.84,ARS,Web,3
+V001616,42-645-423,Paula Suárez,paula.suarez.46@hotmail.com,2024-12-16,31358.44,ARS,Tienda,1
+V001617, 42645423 ,Paula Suarez,PAULA.SUAREZ.46@HOTMAIL.COM,14/02/2026,31326.92,ARS,Marketplace,4
+V001618,42.645.423,Paula Suarez,paula.suarez.46@hotmail.com,07-03-24,46613.35,ARS,Web,2
+V001619, 42645423 ,Paula Suarez,paula.suarez.46@hotmail.com,25/07/2026,45955.87,ARS,Web,3
+V001620, 49145955 ,Tomas Romero,,13-11-24,20082.67,ARS,Tienda,3
+V001621,37-864-066,Martin Silva,martinsilva2@outlook.com,22/10/2025,57064.22,ARS,Marketplace,2
+V001622,,Martin Silva,martin.silva.2@outlook.com,2025-04-16,53683.58,ARS,Web,5
+V001623,37.864.066,Martin Silva, martin.silva.2@outlook.com ,2024-12-06,30448.77,ARS,Web,3
+V001624,22.856.150,Leandro Ruiz,leandro.ruiz.2@outlook.com,2026-08-15,4800000.0,ARS,Web,86
+V001625,42.995.931,Julieta Rodríguez,julieta.rodriguez.21@gmail.com,2026-08-15,4800000.0,ARS,Web,86
+V001626,29.272.848,Franco Martínez,franco.martinez.22@outlook.com,2026-08-15,4800000.0,ARS,Web,86

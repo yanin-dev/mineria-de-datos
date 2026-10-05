@@ -1,0 +1,326 @@
+﻿suscriptor_id,email,nombre,estado,aperturas_90d,clicks_90d
+N0001,gonzaloacosta77@outlook.com,Gonzalo Acosta,activo,5,1
+N0002,FEDERICO.CASTRO.43@OUTLOOK.COM,Federico Castro,activo,4,0
+N0003, micaela.suarez.48@empresa.com.ar ,Micaela Suarez,activo,4,2
+N0004,TOMAS.ROJAS.70@GMAIL.COM,Tomas Rojas,activo,9,2
+N0005, julieta.acosta.11@outlook.com ,Julieta Acosta,activo,4,0
+N0006, lucia.martinez.36@empresa.com.ar ,LUCIA MARTINEZ,activo,3,2
+N0007,tomas.natalia.lopez.79@outlook.com,Tomas Lopez,activo,5,0
+N0008,maria@@gmail.com,Martin Rodriguez,inactivo,4,1
+N0009, federico.perez.74@empresa.com.ar ,Federico Perez,inactivo,6,2
+N0010,FRANCO.MARTINEZ.22@OUTLOOK.COM,Franco Martinez,rebote,2,0
+N0011, paula.romero.34@empresa.com.ar ,Paula Romero,activo,2,1
+N0012,camila.suarez.23@hotmail.com,CAMILA SUAREZ,activo,4,4
+N0013, joaquin.suarez.43@hotmail.com ,Joaquin Suarez,activo,5,3
+N0014, sebastian.acosta.15@hotmail.com ,Sebastián Acosta,activo,6,1
+N0015,nicolas.rodriguez.14@outlook.com,Nicolas Rodriguez,activo,5,0
+N0016,DIEGO.MEDINA.1@GMAIL.COM,Diego Medina,inactivo,7,3
+N0017,TOMAS.SUAREZ.94@EMPRESA.COM.AR,Tomás Suárez,activo,3,2
+N0018,ROCIO.FERNANDEZ.32@GMAIL.COM,Rocio Fernandez,activo,7,0
+N0019,FEDERICO.JUAN.RUIZ.79@EMPRESA.COM.AR,Federico J. Ruiz,inactivo,5,0
+N0020,diego.lopez.3@hotmail.com,Diego Lopez,inactivo,3,2
+N0021,LUCIA.MEDINA.52@EMPRESA.COM.AR,LUCIA MEDINA,activo,8,2
+N0022,ROCIO.RODRIGUEZ.39@HOTMAIL.COM,Rocio Rodriguez,activo,4,0
+N0023,FRANCO.MARTINEZ.4@GMAIL.COM,Franco Martinez,activo,2,5
+N0024,carolinaruiz54@gmail.com,Carolina Ruiz,activo,5,5
+N0025,DIEGO.BENITEZ.72@GMAIL.COM,Diego Benítez,activo,6,1
+N0026,federico.rodriguez.87@gmail.com,Federico Rodríguez,activo,5,2
+N0027,PABLO.SUAREZ.21@HOTMAIL.COM,PABLO SUAREZ,activo,6,3
+N0028,joaquin.navarro.4@gmail.com,Joaquin Navarro,rebote,4,0
+N0029, federico.fernandez.77@outlook.com ,Federico Fernandez,activo,5,3
+N0030,MATIAS.PEREZ.6@GMAIL.COM,Matias Perez,activo,5,1
+N0031,federico.suarez.19@outlook.com,Federico Suarez,inactivo,5,2
+N0032,carlossuarez91@gmail.com,Carlos Suarez,activo,6,2
+N0033,ROCIO.LAURA.RUIZ.48@OUTLOOK.COM,Rocio Laura Ruiz,activo,4,3
+N0034,JULIETA.CASTRO.74@OUTLOOK.COM,Julieta Castro,activo,3,1
+N0035, daniela.andres.diaz.31@empresa.com.ar ,Daniela Andres Diaz,activo,6,1
+N0036, camila.fernandez.42@outlook.com ,Diego Suarez,inactivo,4,1
+N0037, sofia.romero.76@outlook.com ,Sofia Romero,activo,2,0
+N0038,FRANCO.DIAZ.3@OUTLOOK.COM,Franco Díaz,activo,6,0
+N0039, camila.rodriguez.24@empresa.com.ar ,CAMILA RODRIGUEZ,activo,4,1
+N0040,,Franco Ramirez,activo,7,2
+N0041,lucia.fernandez.73@gmail.com,Lucia Fernandez,activo,4,2
+N0042,,Laura Ramirez,activo,6,3
+N0043,PABLO.ACOSTA.53@OUTLOOK.COM,PABLO ACOSTA,activo,4,4
+N0044,agustina.navarro.3@hotmail.com,Agustina Navarro,inactivo,7,2
+N0045,micaela.ramirez.12@hotmail.com,Micaela Ramírez,activo,3,3
+N0046,sin_arroba.gmail.com,Camila Ramirez,activo,4,1
+N0047,florencia.alvarez.14@hotmail.com,Florencia Alvarez,activo,5,4
+N0048,LUCIA.PEREZ.32@HOTMAIL.COM,Lucia Perez,activo,6,1
+N0049,MICAELA.MARTINEZ.28@EMPRESA.COM.AR,Micaela Martinez,inactivo,2,2
+N0050,sofia.sanchez.35@gmail.com,Sofia Sanchez,activo,6,1
+N0051,FRANCO.FLORES.88@GMAIL.COM,Franco Flores,activo,6,2
+N0052, maria.martinez.57@outlook.com ,Micaela Suarez,activo,3,3
+N0053,leandro.romero.6@hotmail.com,Leandro Romero,activo,6,2
+N0054,gonzalo.acosta.33@gmail.com,GONZALO ACOSTA,activo,2,2
+N0055,sofia.micaela.gomez.28@gmail.com,Sofia M. Gomez,activo,7,3
+N0056, micaela.julieta.fernandez.63@outlook.com ,Micaela Julieta Fernández,activo,3,1
+N0057,tomas.rojas.38@gmail.com,Tomas Rojas,activo,2,1
+N0058, federico.martin.lopez.13@empresa.com.ar ,Federico Martin Lopez,inactivo,3,3
+N0059, matias.torres.74@gmail.com ,MATIAS TORRES,activo,7,0
+N0060, daniela.flores.74@hotmail.com ,Daniela Flores,inactivo,3,2
+N0061,NICOLAS.NAVARRO.3@HOTMAIL.COM,NICOLAS NAVARRO,activo,1,1
+N0062,lucia.castro.58@empresa.com.ar,Lucia Castro,activo,9,4
+N0063,PAULA.LOPEZ.52@HOTMAIL.COM,Paula López,inactivo,2,2
+N0064, gonzalo.fernandez.61@empresa.com.ar ,Gonzalo Fernández,activo,6,0
+N0065,CAROLINA.GOMEZ.80@OUTLOOK.COM,Carolina Gomez,inactivo,3,2
+N0066, matias.medina.10@outlook.com ,Matias Medina,activo,7,4
+N0067,joaquinsanchez47@gmail.com,Joaquin Sanchez,activo,4,0
+N0068, sofia.medina.67@gmail.com ,SOFIA MEDINA,activo,11,0
+N0069, andres.torres.0@hotmail.com ,Andres Torres,activo,9,2
+N0070,FEDERICO.FERNANDEZ.39@EMPRESA.COM.AR,Federico Fernandez,activo,3,1
+N0071,tomas.gomez.9@outlook.com,Tomás Gómez,activo,9,0
+N0072,leandrodiaz56@hotmail.com,Leandro Diaz,activo,4,0
+N0073,carolinanavarro40@gmail.com,CAROLINA NAVARRO,activo,2,5
+N0074,FEDERICO.MEDINA.76@OUTLOOK.COM,FEDERICO MEDINA,activo,4,3
+N0075,micaela.lopez.82@empresa.com.ar,Micaela Lopez,rebote,6,1
+N0076,LUCIA.MARTINEZ.41@EMPRESA.COM.AR,LUCIA MARTINEZ,activo,2,0
+N0077, leandro.lopez.6@hotmail.com ,Leandro Lopez,rebote,4,0
+N0078,diego.suarez.33@outlook.com,Diego Suárez,inactivo,5,1
+N0079, federico.silva.55@gmail.com ,FEDERICO SILVA,inactivo,3,0
+N0080,florencia.ortiz.83@hotmail.com,Florencia Ortiz,activo,3,2
+N0081,NATALIA.ROMERO.78@GMAIL.COM,Natalia Romero,activo,5,2
+N0082, valentina.rodriguez.17@hotmail.com ,VALENTINA RODRIGUEZ,inactivo,5,0
+N0083,agustina.navarro.84@gmail.com,Agustina Navarro,activo,7,1
+N0084, daniela.acosta.75@hotmail.com ,Daniela Acosta,activo,6,2
+N0085,ANDRES.GOMEZ.89@GMAIL.COM,Andres Gomez,activo,5,1
+N0086,AGUSTINA.CAMILA.SILVA.10@HOTMAIL.COM,Agustina Camila Silva,activo,6,0
+N0087,nicolas.molina.27@empresa.com.ar,Nicolas Molina,activo,8,3
+N0088,JULIETA.LOPEZ.37@GMAIL.COM,Julieta Lopez,inactivo,5,1
+N0089,sebastianmolina5@gmail.com,Sebastian Molina,activo,4,0
+N0090,sofia.lopez.76@empresa.com.ar,Sofía López,activo,6,0
+N0091,juanramirez30@empresa.com.ar,Juan Ramirez,rebote,2,2
+N0092, martin.silva.2@outlook.com ,Martin Silva,activo,5,2
+N0093, martin.medina.89@hotmail.com ,Martin Medina,activo,3,2
+N0094,natalia.rocio.castro.20@gmail.com,Natalia Rocío Castro,activo,5,0
+N0095,ANDRES.NAVARRO.27@OUTLOOK.COM,ANDRES NAVARRO,activo,10,1
+N0096, federico.rojas.24@empresa.com.ar ,Federico Rojas,inactivo,6,5
+N0097,valentina.lopez.62@empresa.com.ar,Valentina Lopez,activo,6,0
+N0098,leandro.ruiz.2@outlook.com,Leandro Ruiz,activo,6,2
+N0099, maria.andres.romero.57@hotmail.com ,María Andrés Romero,activo,9,0
+N0100,laura.perez.69@outlook.com,LAURA PEREZ,activo,6,2
+N0101,FRANCO.CASTRO.72@GMAIL.COM,FRANCO CASTRO,activo,4,0
+N0102,tomasandrescastro35@hotmail.com,Tomas A. Castro,rebote,6,3
+N0103,paula.sebastian.silva.25@empresa.com.ar,Paula Silva,activo,3,0
+N0104, valentina.benitez.51@empresa.com.ar ,VALENTINA BENITEZ,activo,3,2
+N0105,rocio.laura.ortiz.29@outlook.com,Rocio Laura Ortiz,activo,6,0
+N0106, carlos.torres.89@gmail.com ,Carlos Torres,activo,5,2
+N0107,sofia.lopez.17@gmail.com,SOFIA LOPEZ,activo,1,2
+N0108, juan.diaz.65@outlook.com ,Juan Diaz,activo,7,2
+N0109,LEANDRO.TORRES.67@EMPRESA.COM.AR,LEANDRO TORRES,rebote,2,2
+N0110,LEANDRO.CASTRO.79@EMPRESA.COM.AR,Leandro Castro,inactivo,8,1
+N0111, florencia.alvarez.15@outlook.com ,FLORENCIA ALVAREZ,activo,5,2
+N0112,,Sebastián Flores,activo,2,4
+N0113,MARIA.SUAREZ.14@GMAIL.COM,Maria Suarez,activo,2,2
+N0114,NATALIACASTRO42@GMAIL.COM,Micaela Florencia Ortiz,inactivo,7,1
+N0115,,María Ortiz,activo,8,0
+N0116,FLORENCIA.RAMIREZ.11@HOTMAIL.COM,Florencia Ramirez,activo,3,2
+N0117,LUCIA.BENITEZ.4@GMAIL.COM,Lucia Benitez,activo,5,0
+N0118,matias.acosta.85@outlook.com,Matias Acosta,activo,2,3
+N0119, micaela.acosta.82@hotmail.com ,Micaela Acosta,rebote,8,5
+N0120,florenciavalentinagomez22@hotmail.com,Florencia Gomez,activo,2,1
+N0121,LAURA.SUAREZ.65@GMAIL.COM,Laura Suarez,inactivo,2,2
+N0122,florenciasanchez8@hotmail.com,Martín Silva,rebote,3,0
+N0123, martin.castro.19@empresa.com.ar ,Martin Castro,activo,5,1
+N0124, franco.fernandez.70@outlook.com ,Franco Fernandez,rebote,4,0
+N0125,gonzalo.benitez.81@hotmail.com,GONZALO BENITEZ,activo,8,3
+N0126, federico.lopez.29@outlook.com ,Federico Lopez,activo,6,3
+N0127, sebastian.molina.13@gmail.com ,Sebastian Molina,activo,4,0
+N0128,gonzalofernandez44@gmail.com,Gonzalo Fernández,activo,5,0
+N0129,natalia.castro.42@gmail.com,Natalia Castro,inactivo,6,3
+N0130,paula.rojas.18@outlook.com,Paula Rojas,inactivo,6,0
+N0131,camila.carolina.ortiz.84@empresa.com.ar,Camila C. Ortiz,activo,5,1
+N0132,MATIAS.DIAZ.22@GMAIL.COM,Matias Diaz,activo,6,2
+N0133,NICOLAS.CASTRO.93@GMAIL.COM,Nicolás Castro,activo,10,1
+N0134,camila.diaz.18@gmail.com,Micaela Ramirez,rebote,7,3
+N0135,leandro.suarez.80@outlook.com,Leandro Suarez,activo,4,1
+N0136, camila.natalia.benitez.5@hotmail.com ,Camila Benitez,activo,5,0
+N0137,MARTIN.TORRES.72@HOTMAIL.COM,Martin Torres,activo,7,2
+N0138,MARTIN.GOMEZ.41@HOTMAIL.COM,Martin Gomez,activo,4,3
+N0139,franco.gonzalo.sanchez.4@hotmail.com,Franco Gonzalo Sanchez,activo,6,1
+N0140,FEDERICO.ACOSTA.59@EMPRESA.COM.AR,Federico Acosta,activo,8,3
+N0141,,MARIA CASTRO,activo,2,0
+N0142, carolina.molina.25@gmail.com ,Carolina Molina,activo,8,1
+N0143,VALENTINA.ALVAREZ.4@EMPRESA.COM.AR,Valentina Alvarez,rebote,5,2
+N0144, joaquin.martinez.60@hotmail.com ,JOAQUIN MARTINEZ,activo,3,2
+N0145,daniela.ramirez.50@outlook.com,Daniela Ramirez,activo,2,1
+N0146,LEANDRO.RUIZ.11@GMAIL.COM,Leandro Ruiz,activo,9,3
+N0147,camila.acosta.49@hotmail.com,Camila Acosta,inactivo,4,2
+N0148,CAMILA.NAVARRO.72@HOTMAIL.COM,Camila Navarro,activo,9,1
+N0149,nataliamolina47@hotmail.com,Natalia Molina,activo,2,1
+N0150,JUAN.FLORES.26@OUTLOOK.COM,Juan Flores,activo,5,1
+N0151, sofia.benitez.39@empresa.com.ar ,Sofia Benitez,activo,4,1
+N0152,LEANDRO.ORTIZ.34@HOTMAIL.COM,Leandro Ortiz,activo,2,2
+N0153,GONZALO.MARTINEZ.31@OUTLOOK.COM,Gonzalo Martinez,activo,5,0
+N0154, pablo.suarez.40@gmail.com ,Pablo Suarez,activo,7,0
+N0155,carlos.micaela.torres.8@gmail.com,Carlos Micaela Torres,activo,6,3
+N0156,nataliasanchez96@outlook.com,Natalia Sanchez,activo,10,1
+N0157, joaquin.sofia.martinez.66@outlook.com ,Joaquin Sofia Martinez,activo,9,1
+N0158,NATALIA.CASTRO.64@EMPRESA.COM.AR,Natalia Castro,activo,6,2
+N0159,luciaacosta50@hotmail.com,Lucia Acosta,activo,6,0
+N0160, carolina.andres.molina.53@hotmail.com ,Carolina Molina,activo,3,5
+N0161, juan.martinez.52@hotmail.com ,Juan Martínez,activo,2,1
+N0162,tomassilva81@empresa.com.ar,Tomas Silva,activo,2,1
+N0163,NICOLAS.RUIZ.56@HOTMAIL.COM,Nicolas Ruiz,inactivo,3,2
+N0164, martin.tomas.martinez.57@hotmail.com ,Martin Tomas Martinez,activo,6,3
+N0165,DIEGO.RUIZ.56@HOTMAIL.COM,DIEGO RUIZ,activo,2,2
+N0166,carolina.castro.88@empresa.com.ar,Carolina Castro,activo,5,0
+N0167,CAMILA.LOPEZ.23@GMAIL.COM,Camila Lopez,activo,3,2
+N0168,AGUSTINA.PAULA.ALVAREZ.42@HOTMAIL.COM,Agustina Alvarez,activo,3,0
+N0169, tomas.rojas.86@empresa.com.ar ,Tomas Rojas,activo,15,2
+N0170,sebastian.medina.32@outlook.com,Sebastian Medina,inactivo,3,1
+N0171,LUCIA.TORRES.66@OUTLOOK.COM,Lucia Torres,activo,4,0
+N0172,carlos.perez.13@gmail.com,Carlos Perez,activo,2,1
+N0173, sebastian.benitez.52@gmail.com ,SEBASTIAN BENITEZ,activo,1,3
+N0174,martin.rodriguez.3@hotmail.com,Martin Rodriguez,inactivo,5,0
+N0175, diego.ortiz.16@outlook.com ,Diego Ortiz,activo,4,2
+N0176,JUAN.FRANCO.SILVA.55@HOTMAIL.COM,Juan Silva,activo,3,1
+N0177,CAMILA.SILVA.30@GMAIL.COM,Camila Silva,activo,4,3
+N0178, natalia.julieta.rodriguez.21@outlook.com ,Natalia Julieta Rodríguez,activo,6,0
+N0179,FRANCO.RODRIGUEZ.75@GMAIL.COM,FRANCO RODRIGUEZ,activo,2,0
+N0180,leandro.sanchez.55@empresa.com.ar,Leandro Sanchez,inactivo,9,2
+N0181,FEDERICO.BENITEZ.45@OUTLOOK.COM,Federico Benitez,activo,5,4
+N0182,GONZALO.ROJAS.0@EMPRESA.COM.AR,Gonzalo Rojas,activo,3,3
+N0183,laura.castro.86@outlook.com,Laura Castro,activo,6,0
+N0184,carolinagomez46@outlook.com,Carolina Gomez,activo,5,4
+N0185,carolina.rodriguez.40@empresa.com.ar,Carolina Rodriguez,activo,2,1
+N0186, camila.alvarez.82@outlook.com ,Camila Alvarez,activo,5,4
+N0187,JOAQUIN.ORTIZ.55@OUTLOOK.COM,JOAQUIN ORTIZ,inactivo,7,5
+N0188, laura.carlos.medina.95@empresa.com.ar ,Laura Carlos Medina,rebote,5,1
+N0189,TOMAS.ORTIZ.50@EMPRESA.COM.AR,Tomás Ortiz,activo,4,2
+N0190, leandro.diaz.10@outlook.com ,Leandro Diaz,activo,3,1
+N0191,rocio.diaz.20@outlook.com,Rocio Diaz,activo,8,2
+N0192, valentina.carlos.sanchez.23@empresa.com.ar ,Valentina Carlos Sánchez,activo,6,2
+N0193, paula.benitez.13@gmail.com ,Paula Benitez,activo,6,3
+N0194,FEDERICO.RODRIGUEZ.13@GMAIL.COM,FEDERICO RODRIGUEZ,activo,4,2
+N0195,CAMILA.DIAZ.68@EMPRESA.COM.AR,Camila Diaz,activo,7,3
+N0196,VALENTINA.RAMIREZ.37@HOTMAIL.COM,Valentina Ramirez,inactivo,8,4
+N0197,francosilva32@hotmail.com,Franco Silva,activo,2,0
+N0198, laura.romero.9@empresa.com.ar ,LAURA ROMERO,activo,4,1
+N0199, camila.ruiz.54@gmail.com ,Camila Ruiz,inactivo,6,2
+N0200,tomas.joaquin.romero.8@empresa.com.ar,Tomas Joaquin Romero,activo,4,8
+N0201,leandro.ortiz.36@hotmail.com,Leandro Ortiz,activo,6,2
+N0202, valentina.sanchez.53@outlook.com ,Valentina Sanchez,activo,5,1
+N0203, rocio.perez.86@hotmail.com ,Rocio Perez,activo,2,4
+N0204,florencia.gonzalo.molina.73@gmail.com,Florencia Gonzalo Molina,activo,1,2
+N0205, paula.julieta.rodriguez.42@gmail.com ,Paula Julieta Rodriguez,activo,4,1
+N0206,diego.lopez.62@hotmail.com,Diego Lopez,activo,4,3
+N0207,GONZALO.ALVAREZ.47@OUTLOOK.COM,Gonzalo Alvarez,activo,7,0
+N0208, franco.alvarez.80@gmail.com ,FRANCO ALVAREZ,activo,7,6
+N0209,carolina.gomez.7@empresa.com.ar,Carolina Gomez,activo,6,2
+N0210, diego.castro.2@hotmail.com ,DIEGO CASTRO,activo,4,1
+N0211, matias.acosta.58@hotmail.com ,Matias Acosta,activo,2,2
+N0212, tomas.romero.54@outlook.com ,Tomás Romero,activo,10,1
+N0213,joaquinromero73@empresa.com.ar,Joaquín Romero,activo,3,2
+N0214, julieta.carlos.navarro.18@hotmail.com ,Julieta Navarro,activo,8,0
+N0215, camila.gonzalo.rodriguez.29@empresa.com.ar ,Camila Gonzalo Rodriguez,activo,5,1
+N0216,sofia.fernandez.10@outlook.com,Sofía Fernández,activo,5,1
+N0217,ROCIO.JOAQUIN.ROJAS.58@OUTLOOK.COM,ROCIO JOAQUIN ROJAS,activo,4,1
+N0218, florencia.romero.73@gmail.com ,Florencia Romero,inactivo,7,2
+N0219,pablo.paula.flores.85@hotmail.com,Pablo Flores,activo,11,3
+N0220,micaela.lopez.66@hotmail.com,Micaela Lopez,activo,8,4
+N0221, valentina.silva.14@outlook.com ,Valentina Silva,inactivo,8,2
+N0222,federico.rojas.24@hotmail.com,Federico Rojas,activo,6,2
+N0223,paula.rodriguez.8@empresa.com.ar,Paula Rodriguez,activo,4,0
+N0224,MICAELA.FRANCO.SILVA.87@GMAIL.COM,Micaela Franco Silva,activo,6,1
+N0225,martin.romero.61@outlook.com,Martín Romero,inactivo,5,2
+N0226,CAMILA.GOMEZ.43@OUTLOOK.COM,Camila Gomez,activo,5,0
+N0227, joaquin.rodriguez.68@gmail.com ,Joaquin Rodriguez,activo,6,5
+N0228,diego.rojas.9@gmail.com,Diego Rojas,activo,3,2
+N0229,FRANCO.CASTRO.88@HOTMAIL.COM,FRANCO CASTRO,inactivo,7,1
+N0230,sofia.ortiz.94@gmail.com,Sofía Ortiz,activo,5,2
+N0231,paula.rojas.35@hotmail.com,PAULA ROJAS,inactivo,6,6
+N0232,andres.martinez.5@gmail.com,Andres Martinez,activo,6,1
+N0233,NICOLAS.PABLO.ALVAREZ.82@HOTMAIL.COM,Nicolas Pablo Alvarez,activo,6,0
+N0234, gonzalo.castro.11@hotmail.com ,Gonzalo Castro,activo,4,3
+N0235,rocio.natalia.perez.6@outlook.com,Rocio Natalia Perez,rebote,5,0
+N0236,,Paula Sofía Ortiz,inactivo,2,3
+N0237,MARTIN.ACOSTA.15@GMAIL.COM,Martín Acosta,inactivo,7,1
+N0238, tomas.medina.57@outlook.com ,TOMAS MEDINA,activo,3,1
+N0239,,CARLOS ROMERO,rebote,10,0
+N0240,JULIETA.GOMEZ.96@OUTLOOK.COM,JULIETA GOMEZ,activo,5,2
+N0241,FEDERICO.SUAREZ.7@HOTMAIL.COM,Federico Suarez,activo,4,2
+N0242,TOMAS.ANDRES.TORRES.70@HOTMAIL.COM,Tomás Andrés Torres,rebote,4,3
+N0243,micaelafernandez91@empresa.com.ar,Micaela Fernandez,activo,3,3
+N0244,matias.silva.45@empresa.com.ar,Matias Silva,activo,8,1
+N0245,NICOLAS.ROJAS.15@GMAIL.COM,Nicolas Rojas,activo,3,2
+N0246, lucia.diaz.27@empresa.com.ar ,Lucia Diaz,activo,5,3
+N0247,gonzalo.carlos.ortiz.60@gmail.com,Gonzalo Carlos Ortiz,activo,5,2
+N0248,paula.ortiz.63@gmail.com,Paula Ortiz,activo,12,0
+N0249,TOMAS.CASTRO.62@OUTLOOK.COM,TOMAS CASTRO,activo,9,0
+N0250, gonzalo.martinez.64@outlook.com ,Gonzalo Martínez,activo,4,2
+N0251, florencia.navarro.60@outlook.com ,Florencia Navarro,activo,5,0
+N0252,NATALIA.MARTINEZ.33@GMAIL.COM,Natalia Martínez,rebote,6,2
+N0253,maria.ramirez.50@outlook.com,Maria Ramirez,activo,5,0
+N0254,JULIETA.ORTIZ.10@OUTLOOK.COM,Julieta Ortiz,activo,2,2
+N0255,rocio.silva.12@hotmail.com,Rocio Silva,inactivo,3,4
+N0256, agustina.benitez.49@empresa.com.ar ,Agustina Benítez,activo,1,0
+N0257,juangomez31@gmail.com,Juan Gomez,activo,1,2
+N0258,PABLO.FERNANDEZ.78@OUTLOOK.COM,Pablo Fernández,inactivo,7,1
+N0259,pablo.rojas.78@empresa.com.ar,Pablo Rojas,activo,6,0
+N0260,andres.joaquin.medina.5@gmail.com,ANDRES JOAQUIN MEDINA,activo,5,2
+N0261,laura.navarro.44@empresa.com.ar,Laura Navarro,inactivo,6,2
+N0262, diego.benitez.47@outlook.com ,DIEGO BENITEZ,activo,3,1
+N0263, maria.ramirez.46@empresa.com.ar ,Maria Ramirez,activo,3,4
+N0264,SEBASTIAN.GOMEZ.89@OUTLOOK.COM,Sebastian Gomez,activo,5,2
+N0265,daniela.silva.44@empresa.com.ar,DANIELA SILVA,rebote,7,3
+N0266,camila.alvarez.40@hotmail.com,Camila Alvarez,rebote,8,1
+N0267,leandro.molina.35@empresa.com.ar,Leandro Molina,activo,6,2
+N0268,agustinarodriguez81@gmail.com,Agustina Rodriguez,inactivo,7,6
+N0269,camila.rojas.41@hotmail.com,Camila Rojas,inactivo,4,2
+N0270,FEDERICO.GOMEZ.43@HOTMAIL.COM,Federico Gomez,activo,3,3
+N0271, julieta.lopez.96@hotmail.com ,Julieta López,activo,4,2
+N0272,JOAQUIN.ORTIZ.1@OUTLOOK.COM,Joaquin Ortiz,inactivo,7,2
+N0273,CAMILA.RUIZ.19@EMPRESA.COM.AR,Camila Ruiz,rebote,5,3
+N0274,carlos.nicolas.benitez.71@outlook.com,Carlos Nicolas Benitez,inactivo,6,2
+N0275, daniela.acosta.16@empresa.com.ar ,DANIELA ACOSTA,activo,4,2
+N0276, pablo.fernandez.0@empresa.com.ar ,Pablo Fernandez,activo,4,1
+N0277,micaela.perez.33@hotmail.com,Micaela Perez,activo,3,2
+N0278,VALENTINA.RAMIREZ.7@GMAIL.COM,Joaquín Navarro,activo,6,1
+N0279,diego.diaz.7@gmail.com,Diego Diaz,activo,12,2
+N0280,AGUSTINA.BENITEZ.96@EMPRESA.COM.AR,Agustina Benitez,activo,4,3
+N0281, juan.silva.0@empresa.com.ar ,Juan Silva,activo,7,1
+N0282,LEANDRO.ALVAREZ.48@OUTLOOK.COM,LEANDRO ALVAREZ,activo,2,4
+N0283,agustinaflorenciasilva41@empresa.com.ar,Agustina Florencia Silva,activo,6,2
+N0284,SOFIA.FEDERICO.RUIZ.81@GMAIL.COM,Sofia F. Ruiz,activo,1,2
+N0285,camila.fernandez.61@empresa.com.ar,Camila Fernandez,activo,4,1
+N0286, martin.torres.49@hotmail.com ,Martin Torres,activo,3,2
+N0287,JUAN.ROJAS.28@GMAIL.COM,Juan Rojas,rebote,7,2
+N0288, gonzalo.benitez.63@outlook.com ,GONZALO BENITEZ,activo,7,0
+N0289,LAURA.MOLINA.7@GMAIL.COM,Laura Molina,activo,7,2
+N0290,rocio.medina.77@empresa.com.ar,Rocio Medina,inactivo,5,2
+N0291, camila.acosta.31@gmail.com ,Camila Acosta,activo,1,2
+N0292, martin.fernandez.75@empresa.com.ar ,MARTIN FERNANDEZ,activo,3,2
+N0293,JULIETA.ROCIO.ALVAREZ.87@GMAIL.COM,Julieta R. Alvarez,activo,4,3
+N0294,federico.matias.fernandez.20@gmail.com,FEDERICO MATIAS FERNANDEZ,activo,7,1
+N0295,SOFIA.MOLINA.78@HOTMAIL.COM,Sofía Molina,activo,6,0
+N0296,DANIELA.SILVA.1@HOTMAIL.COM,Daniela Silva,activo,3,3
+N0297,martin.alvarez.77@gmail.com,Martin Alvarez,activo,5,1
+N0298, pablo.rodriguez.1@empresa.com.ar ,Pablo Rodriguez,activo,5,2
+N0299,FEDERICO.FERNANDEZ.29@GMAIL.COM,FEDERICO FERNANDEZ,inactivo,4,1
+N0300, valentina.romero.94@empresa.com.ar ,Valentina Romero,inactivo,9,2
+N0301,diego.agustina.fernandez.81@outlook.com,Diego Agustina Fernandez,activo,2,2
+N0302,NICOLAS.SILVA.22@OUTLOOK.COM,NICOLAS SILVA,activo,5,0
+N0303,federico.andres.martinez.46@hotmail.com,Federico A. Martinez,activo,3,1
+N0304,,LEANDRO TOMAS PEREZ,rebote,8,1
+N0305,FEDERICO.ACOSTA.93@OUTLOOK.COM,Federico Acosta,activo,2,3
+N0306, sofia.carolina.rojas.56@empresa.com.ar ,Sofia Carolina Rojas,activo,9,0
+N0307,diego.fernandez.82@hotmail.com,Diego Fernandez,inactivo,7,1
+N0308,,María Molina,activo,8,2
+N0309,carolina.ramirez.90@outlook.com,CAROLINA RAMIREZ,activo,6,2
+N0310,LEANDRO.BENITEZ.85@EMPRESA.COM.AR,Leandro Benitez,activo,4,2
+N0311,JUAN.CASTRO.68@GMAIL.COM,Juan Castro,activo,5,1
+N0312,martinacosta15@gmail.com,Paula Torres,inactivo,3,0
+N0313,diego.ortiz.89@outlook.com,DIEGO ORTIZ,activo,7,3
+N0314, leandro.natalia.molina.28@hotmail.com ,Leandro Molina,activo,5,2
+N0315, federico.alvarez.23@hotmail.com ,Federico Alvarez,activo,3,0
+N0316,PABLO.RAMIREZ.9@GMAIL.COM,Pablo Ramírez,inactivo,7,1
+N0317,diegoacosta93@gmail.com,Diego Acosta,inactivo,4,2
+N0318,MARTIN.GOMEZ.24@OUTLOOK.COM,MARTIN GOMEZ,inactivo,5,2
+N0319,sebastian.romero.44@empresa.com.ar,Sebastian Romero,activo,7,3
+N0320,tomasromero76@outlook.com,Tomas Romero,activo,8,1
+N0321, maria.julieta.acosta.26@hotmail.com ,Maria Julieta Acosta,activo,10,0
+N0322,,GONZALO NAVARRO,activo,6,4
+N0323,valentinaramirez65@empresa.com.ar,VALENTINA RAMIREZ,inactivo,9,1
+N0324,MARTIN.DIAZ.6@GMAIL.COM,Martin Diaz,activo,2,5
+N0325,laura.diaz.36@outlook.com,Laura Diaz,activo,3,3
